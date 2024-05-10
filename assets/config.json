@@ -1,0 +1,15 @@
+{
+  "openaccount": {
+    "minimumApplicantAge": 18,
+    "onlineReferID": "BLSWE2000002",
+    "branchReferID": "BLSBR2000026",
+    "ibankReferID": "BBLWE2099999",
+    "optionsVersion": "1.0",
+    "suitabilityVersion": "1.03"
+  },
+  "global": {
+    "pdfAppFormEnFilename": "assets/pdf/global-app-form-en.pdf",
+    "pdfAppFormThFilename": "assets/pdf/global-app-form-th.pdf",
+    "exportGenAppFormPath": "D:/outfile/global_invest"
+  }
+}

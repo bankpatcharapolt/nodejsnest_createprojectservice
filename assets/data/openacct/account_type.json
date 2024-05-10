@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "value": "1",
+      "title": "Cash Normal"
+    },
+    {
+      "value": "H",
+      "title": "Cash Balance"
+    },
+    {
+      "value": "6",
+      "title": "Credit Balance"
+    },
+    {
+      "value": "J",
+      "title": "Unit trust"
+    },
+    {
+      "value": "F",
+      "title": "Derivative"
+    }
+  ]
+}

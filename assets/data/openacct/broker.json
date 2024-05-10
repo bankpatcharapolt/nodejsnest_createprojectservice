@@ -1,0 +1,243 @@
+{
+  "data": [{
+      "brokerno": 1,
+      "brokername_en": "Bualuang Securities PLC.",
+      "brokername_th": "บริษัทหลักทรัพย์ บัวหลวง จำกัด (มหาชน)",
+      "brokersname": "BLS"
+    },
+    {
+      "brokerno": 10,
+      "brokername_en": "GMO-Z COM SECURITIES (THAILAND) LTD.",
+      "brokername_th": "บริษัทหลักทรัพย์ จีเอ็มโอ-แซด คอม (ประเทศไทย) จำกัด",
+      "brokersname": "Z"
+    },
+    {
+      "brokerno": 11,
+      "brokername_en": "KASIKORN SECURITIES PUBLIC COMPANY LIMITED.",
+      "brokername_th": "บริษัทหลักทรัพย์ กสิกรไทย จำกัด (มหาชน)",
+      "brokersname": "KS"
+    },
+    {
+      "brokerno": 12,
+      "brokername_en": "SIAM CITY SECURITIES CO., LTD.",
+      "brokername_th": "บริษัทหลักทรัพย์ นครหลวงไทย จำกัด",
+      "brokersname": "SCIBS"
+    },
+    {
+      "brokerno": 13,
+      "brokername_en": "KGI Securities (Thailand) PLC.",
+      "brokername_th": "บริษัทหลักทรัพย์ เคจีไอ (ประเทศไทย) จำกัด(มหาชน)",
+      "brokersname": "KGI"
+    },
+    {
+      "brokerno": 14,
+      "brokername_en": "CAPITAL NOMURA SECURITIES PUBLIC COMPANY LIMITED",
+      "brokername_th": "บริษัทหลักทรัพย์ โนมูระ พัฒนสิน จำกัด (มหาชน)",
+      "brokersname": "CNS"
+    },
+    {
+      "brokerno": 15,
+      "brokername_en": "Apple Wealth Securities Co., Ltd.",
+      "brokername_th": "บริษัทหลักทรัพย์ แอพเพิล เวลธ์ จำกัด",
+      "brokersname": "APPLE"
+    },
+    {
+      "brokerno": 16,
+      "brokername_en": "THANACHART SECURITIES PUBLIC COMPANY LIMITED.",
+      "brokername_th": "บริษัทหลักทรัพย์ ธนชาต จำกัด (มหาชน)",
+      "brokersname": "TNS"
+    },
+    {
+      "brokerno": 18,
+      "brokername_en": "KT ZMICO SERICUTIES COMPANY LIMITED",
+      "brokername_th": "บริษัทหลักทรัพย์ เคที ซีมิโก้ จำกัด",
+      "brokersname": "KTZ"
+    },
+    {
+      "brokerno": 19,
+      "brokername_en": "YUANTA SECURITIES (THAILAND) COMPANY LIMITED",
+      "brokername_th": "บริษัทหลักทรัพย์ หยวนต้า (ประเทศไทย) จำกัด",
+      "brokersname": "YUANTA"
+    },
+    {
+      "brokerno": 2,
+      "brokername_en": "TISCO Securities Co., Ltd",
+      "brokername_th": "บริษัทหลักทรัพย์ ทิสโก้ จำกัด",
+      "brokersname": "TISCO"
+    },
+    {
+      "brokerno": 21,
+      "brokername_en": "MERCHANT PARTNERS SECURITIES PUBLIC COMPANY LIMITED.",
+      "brokername_th": "บริษัทหลักทรัพย์ เมอร์ชั่น พาร์ทเนอร์ จำกัด (มหาชน)",
+      "brokersname": "MERCHANT"
+    },
+    {
+      "brokerno": 22,
+      "brokername_en": "TRINITY SECURITIES CO.,LTD.",
+      "brokername_th": "บริษัทหลักทรัพย์ ทรีนีตี้ จำกัด",
+      "brokersname": "TRINITY"
+    },
+    {
+      "brokerno": 23,
+      "brokername_en": "SCB SECURITIES COMPANY LIMITED.",
+      "brokername_th": "บริษัทหลักทรัพย์ ไทยพาณิชย์ จำกัด",
+      "brokersname": "SCBS"
+    },
+    {
+      "brokerno": 24,
+      "brokername_en": "Finansia Syrus Securities Public Company Limited.",
+      "brokername_th": "บริษัทหลักทรัพย์ ฟินันเซีย ไซรัส จำกัด (มหาชน)",
+      "brokersname": "FSS"
+    },
+    {
+      "brokerno": 25,
+      "brokername_en": "GLOBLEX SECURITIES COMPANY LIMITED.",
+      "brokername_th": "บริษัทหลักทรัพย์ โกลเบล็ก จำกัด",
+      "brokersname": "GLOBLEX"
+    },
+    {
+      "brokerno": 26,
+      "brokername_en": "UOB Kayhian Securities (Thailand) Co., Ltd.",
+      "brokername_th": "บริษัทหลักทรัพย์ ยูโอบี เคย์เฮียน(ประเทศไทย) จำกัด (มหาชน)",
+      "brokersname": "UOBKHST"
+    },
+    {
+      "brokerno": 27,
+      "brokername_en": "RHB SECURITIES (THAILAND) PUBLIC COMPANY LIMITED",
+      "brokername_th": "บริษัทหลักทรัพย์ อาร์เอชบี (ประเทศไทย) จำกัด (มหาชน)",
+      "brokersname": "RHBS"
+    },
+    {
+      "brokerno": 28,
+      "brokername_en": "Macquarie Securities (Thailand) Limited.",
+      "brokername_th": "บริษัทหลักทรัพย์ แมคควอรี (ประเทศไทย) จำกัด",
+      "brokersname": "MACQ"
+    },
+    {
+      "brokerno": 29,
+      "brokername_en": "AYUDHYA SECURITIES PUBLIC COMPANY LIMITED.",
+      "brokername_th": "บริษัทหลักทรัพย์ กรุงศรี จำกัด(มหาชน)",
+      "brokersname": "KSS"
+    },
+    {
+      "brokerno": 3,
+      "brokername_en": "Country Group Securities PLC.",
+      "brokername_th": "บริษัทหลักทรัพย์ คันทรี่ กรุ๊ป จำกัด(มหาชน)",
+      "brokersname": "CGS"
+    },
+    {
+      "brokerno": 30,
+      "brokername_en": "IV GLOBAL SECURITIES PUBLIC COMPANY LIMITED.",
+      "brokername_th": "บริษัทหลักทรัพย์ ไอ วี โกลบอล จำกัด (มหาชน)",
+      "brokersname": "IVG"
+    },
+    {
+      "brokerno": 32,
+      "brokername_en": "KTB SECURITIES (THAILAND) LIMITED.",
+      "brokername_th": "บริษัทหลักทรัพย์ เคทีบี (ประเทศไทย) จำกัด",
+      "brokersname": "KTBST"
+    },
+    {
+      "brokerno": 33,
+      "brokername_en": "SBI THAI ONLINE SECURITIES COMPANY LIMITED",
+      "brokername_th": "บริษัทหลักทรัพย์ เอสบีไอ ไทย ออนไลน์ จำกัด",
+      "brokersname": "SBITO"
+    },
+    {
+      "brokerno": 34,
+      "brokername_en": "PHILLIP SECURITIES (THAILAND) PUBLIC COMPANY LIMITED.",
+      "brokername_th": "บริษัทหลักทรัพย์ ฟิลลิป (ประเทศไทย) จำกัด (มหาชน)",
+      "brokersname": "PST"
+    },
+    {
+      "brokerno": 38,
+      "brokername_en": "AEC SECURITES PUBLIC COMPANY LIMITED.",
+      "brokername_th": "บริษัทหลักทรัพย์ เออีซี จำกัด (มหาชน)",
+      "brokersname": "AEC"
+    },
+    {
+      "brokerno": 4,
+      "brokername_en": "DBS Vickers Securities Holdings Pte. Ltd.",
+      "brokername_th": "บริษัทหลักทรัพย์ ดีบีเอส วิคเคอร์ส(ประเทศไทย) จำกัด",
+      "brokersname": "DBSV"
+    },
+    {
+      "brokerno": 41,
+      "brokername_en": "JPMORGAN SECURITIES (THAILAND) LIMITED.",
+      "brokername_th": "บริษัทหลักทรัพย์ เจพีมอร์แกน (ประเทศไทย) จำกัด",
+      "brokersname": "JPM"
+    },
+    {
+      "brokerno": 42,
+      "brokername_en": "May Bank Securities (Thailand) PLC.",
+      "brokername_th": "บริษัทหลักทรัพย์ เมย์แบงก์ กิมเอ็ง (ประเทศไทย) จำกัด (มหาชน)",
+      "brokersname": "MBKET"
+    },
+    {
+      "brokerno": 43,
+      "brokername_en": "ASIA WEALTH SECURITIES COMPANY LIMITED",
+      "brokername_th": "บริษัทหลักทรัพย์ เอเชีย เวลท์ จำกัด",
+      "brokersname": "AWS"
+    },
+    {
+      "brokerno": 45,
+      "brokername_en": "CLSA SECURITIES (THAILAND) LIMITED.",
+      "brokername_th": "บริษัทหลักทรัพย์ ซี แอล เอส เอ (ประเทศไทย) จำกัด",
+      "brokersname": "CLSA"
+    },
+    {
+      "brokerno": 47,
+      "brokername_en": "SEAMICO SECURITIES PUBLIC COMPANY LIMITED.",
+      "brokername_th": "บริษัทหลักทรัพย์ ซีมิโก้ จำกัด (มหาชน)",
+      "brokersname": "ZMICO"
+    },
+    {
+      "brokerno": 48,
+      "brokername_en": "AIRA SECURITIES COMPANY LIMITED.",
+      "brokername_th": "บริษัทหลักทรัพย์ ไอร่า จำกัด",
+      "brokersname": "AIRA"
+    },
+    {
+      "brokerno": 49,
+      "brokername_en": "UBS SECURITIES (THAILAND) LIMITED.",
+      "brokername_th": "บริษัทหลักทรัพย์ ยูบีเอส (ประเทศไทย)จำกัด",
+      "brokersname": "UBS"
+    },
+    {
+      "brokerno": 5,
+      "brokername_en": "LAND AND HOUSES SECURITIES PUBLIC COMPANY LIMITED",
+      "brokername_th": "บริษัทหลักทรัพย์ แลนด์ แอนด์ เฮ้าส์ จำกัด (มหาชน)",
+      "brokersname": "LHS"
+    },
+    {
+      "brokerno": 50,
+      "brokername_en": "ASL SECURITIES COMPANY LIMITED",
+      "brokername_th": "บริษัทหลักทรัพย์ เอเอสแอล จำกัด",
+      "brokersname": "ASL"
+    },
+    {
+      "brokerno": 6,
+      "brokername_en": "Phatra Securities Public Company Limited",
+      "brokername_th": "บริษัทหลักทรัพย์ ภัทร จำกัด (มหาชน)",
+      "brokersname": "PHATRA"
+    },
+    {
+      "brokerno": 7,
+      "brokername_en": "CIMB INTERNATIONAL SECURITIES COMPANY LIMITED.",
+      "brokername_th": "บล. ซีไอเอ็มบี อินเตอร์เนชั่นแนล (ประเทศไทย) จำกัด (มหาชน)",
+      "brokersname": "CIMBS"
+    },
+    {
+      "brokerno": 8,
+      "brokername_en": "ASIA PLUS SECURITIES PUBLIC COMPANY LIMITED",
+      "brokername_th": "บริษัทหลักทรัพย์ เอเซีย พลัส จำกัด (มหาชน)",
+      "brokersname": "ASPS"
+    },
+    {
+      "brokerno": 9,
+      "brokername_en": "Credit Suisse Securities (Thailand) Limited",
+      "brokername_th": "บริษัทหลักทรัพย์เครดิต สวิส (ประเทศไทย) จำกัด",
+      "brokersname": "CS"
+    }
+  ]
+}

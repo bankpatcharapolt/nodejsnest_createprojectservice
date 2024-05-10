@@ -1,0 +1,8 @@
+{
+  "data": [
+    { "value": "นาย", "title": "นาย / MR." },
+    { "value": "นาง", "title": "นาง / MRS." },
+    { "value": "น.ส.", "title": "นางสาว / MISS" },
+    { "value": "อื่นๆ", "title": "อื่นๆ / OTHER" }
+  ]
+}

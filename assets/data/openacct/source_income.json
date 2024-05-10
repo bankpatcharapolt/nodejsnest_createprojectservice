@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "value": "1",
+      "title": "ธุรกิจ",
+      "show_specific": false
+    },
+    {
+      "value": "2",
+      "title": "เงินเดือน",
+      "show_specific": false
+    },
+    {
+      "value": "3",
+      "title": "การลงทุน",
+      "show_specific": false
+    },
+    {
+      "value": "4",
+      "title": "มรดก",
+      "show_specific": false
+    },
+    {
+      "value": "5",
+      "title": "เงินออม",
+      "show_specific": false
+    },
+    {
+      "value": "6",
+      "title": "เงินเกษียณ",
+      "show_specific": false
+    },
+    {
+      "value": "9",
+      "title": "อื่นๆ",
+      "show_specific": true
+    }
+  ]
+}

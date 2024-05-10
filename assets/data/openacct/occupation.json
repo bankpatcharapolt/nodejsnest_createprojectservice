@@ -1,0 +1,354 @@
+{
+	"9101": {
+		"occupation_group": "910",
+		"title": "เกษตรกร",
+		"show_items": false,
+		"items": {
+			"900": {
+				"sba_code": "910",
+				"title": "อื่นๆ (โปรดระบุ)",
+				"specific_detail": false
+			}
+		}
+	},
+	"9901": {
+		"occupation_group": "990",
+		"title": "พระภิกษุ / นักบวช",
+		"show_items": false,
+		"items": {
+			"990": {
+				"sba_code": "990",
+				"title": "อื่นๆ (โปรดระบุ)",
+				"specific_detail": false
+			}
+		}
+	},
+	"9102": {
+		"occupation_group": "910",
+		"title": "เจ้าของกิจการ / ธุรกิจส่วนตัว",
+		"show_items": true,
+		"items": {
+			"701": {
+				"sba_code": "910",
+				"title": "ค้าของเก่าประเภทสินค้ามือสอง / รีไซเคิล / รถยนต์ / วัตถุโบราณ",
+				"specific_detail": false
+			},
+			"706": {
+				"sba_code": "910",
+				"title": "อาวุธยุทธภัณฑ์",
+				"specific_detail": false
+			},
+			"704": {
+				"sba_code": "910",
+				"title": "คาสิโน / การพนัน",
+				"specific_detail": false
+			},
+			"703": {
+				"sba_code": "910",
+				"title": "โอนและรับโอนเงินทั้งภายในและต่างประเทศที่ไม่ใช่สถาบันการเงิน",
+				"specific_detail": false
+			},
+			"705": {
+				"sba_code": "910",
+				"title": "สถานบันเทิง / สถานบริการตามกฎหมายว่าด้วยสถานบริการ",
+				"specific_detail": false
+			},
+			"702": {
+				"sba_code": "910",
+				"title": "แลกเปลี่ยนเงินตราต่างประเทศ",
+				"specific_detail": false
+			},
+			"901": {
+				"sba_code": "910",
+				"title": "โรงแรม / ภัตตาคาร",
+				"specific_detail": false
+			},
+			"902": {
+				"sba_code": "910",
+				"title": "ประกันภัย / ประกันชีวิต",
+				"specific_detail": false
+			},
+			"700": {
+				"sba_code": "910",
+				"title": "ค้าอัญมณี / ทองคำ / เครื่องประดับที่ตกแต่งด้วยอัญมณีหรือทองคำ",
+				"specific_detail": false
+			},
+			"903": {
+				"sba_code": "910",
+				"title": "อสังหาริมทรัพย์",
+				"specific_detail": false
+			},
+			"707": {
+				"sba_code": "910",
+				"title": "นายหน้าจัดหางาน",
+				"specific_detail": false
+			},
+			"708": {
+				"sba_code": "910",
+				"title": "ธุรกิจนำเที่ยว / บริษัททัวร์",
+				"specific_detail": false
+			},
+			"904": {
+				"sba_code": "910",
+				"title": "มหาวิทยาลัย / โรงเรียน / สถานศึกษา",
+				"specific_detail": false
+			},
+			"905": {
+				"sba_code": "910",
+				"title": "อื่นๆ (โปรดระบุ)",
+				"specific_detail": true
+			},
+			"906": {
+				"sba_code": "910",
+				"title": "ผู้สอบบัญชี / ทนาย / นิติกร / อัยการ / ผู้พิพากษา",
+				"specific_detail": false
+			}
+		}
+	},
+    "9103": {
+        "occupation_group": "910",
+		"title": "กิจการครอบครัว",
+		"show_items": false,
+		"items": {
+			"907": {
+				"sba_code": "910",
+				"title": "กิจการครอบครัว",
+				"specific_detail": false
+			}
+		}
+    },
+	"9201": {
+		"occupation_group": "920",
+		"title": "พนักงานบริษัท",
+		"show_items": true,
+		"items": {
+			"910": {
+				"sba_code": "920",
+				"title": "ค้าของเก่าประเภทสินค้ามือสอง / รีไซเคิล / รถยนต์ / วัตถุโบราณ",
+				"specific_detail": false
+			},
+			"911": {
+				"sba_code": "920",
+				"title": "อาวุธยุทธภัณฑ์",
+				"specific_detail": false
+			},
+			"912": {
+				"sba_code": "920",
+				"title": "คาสิโน / การพนัน",
+				"specific_detail": false
+			},
+			"913": {
+				"sba_code": "920",
+				"title": "สหกรณ์ / มูลนิธิ / สมาคม / สโมสร / วัด / มัสยิด / องค์กรการกุศล / องค์กรไม่แสวงหากำไร",
+				"specific_detail": false
+			},
+			"914": {
+				"sba_code": "920",
+				"title": "โอนและรับโอนเงินทั้งภายในและต่างประเทศที่ไม่ใช่สถาบันการเงิน",
+				"specific_detail": false
+			},
+			"915": {
+				"sba_code": "920",
+				"title": "สถานบันเทิง / สถานบริการตามกฎหมายว่าด้วยสถานบริการ",
+				"specific_detail": false
+			},
+			"916": {
+				"sba_code": "920",
+				"title": "สถาบันการเงิน / ธนาคาร",
+				"specific_detail": false
+			},
+			"917": {
+				"sba_code": "920",
+				"title": "แลกเปลี่ยนเงินตราต่างประเทศ",
+				"specific_detail": false
+			},
+			"918": {
+				"sba_code": "920",
+				"title": "โรงแรม / ภัตตาคาร",
+				"specific_detail": false
+			},
+			"919": {
+				"sba_code": "920",
+				"title": "ประกันภัย / ประกันชีวิต",
+				"specific_detail": false
+			},
+			"920": {
+				"sba_code": "920",
+				"title": "ค้าอัญมณี / ทองคำ / เครื่องประดับที่ตกแต่งด้วยอัญมณีหรือทองคำ",
+				"specific_detail": false
+			},
+			"921": {
+				"sba_code": "920",
+				"title": "อสังหาริมทรัพย์",
+				"specific_detail": false
+			},
+			"922": {
+				"sba_code": "920",
+				"title": "นายหน้าจัดหางาน",
+				"specific_detail": false
+			},
+			"923": {
+				"sba_code": "920",
+				"title": "ธุรกิจนำเที่ยว / บริษัททัวร์",
+				"specific_detail": false
+			},
+			"924": {
+				"sba_code": "920",
+				"title": "มหาวิทยาลัย / โรงเรียน / สถานศึกษา",
+				"specific_detail": false
+			},
+			"925": {
+				"sba_code": "920",
+				"title": "อื่นๆ (โปรดระบุ)",
+				"specific_detail": true
+			},
+			"926": {
+				"sba_code": "920",
+				"title": "ผู้สอบบัญชี / ทนาย / นิติกร / อัยการ / ผู้พิพากษา",
+				"specific_detail": false
+			}
+		}
+	},
+	"9202": {
+		"occupation_group": "990",
+		"title": "แพทย์ / พยาบาล",
+		"show_items": false,
+		"items": {
+			"927": {
+				"sba_code": "990",
+				"title": "อื่นๆ (โปรดระบุ)",
+				"specific_detail": false
+			}
+		}
+	},
+	"9301": {
+		"occupation_group": "930",
+		"title": "ข้าราชการ / พนักงานรัฐ",
+		"show_items": true,
+		"items": {
+			"930": {
+				"sba_code": "930",
+				"title": "สหกรณ์ / มูลนิธิ / สมาคม / สโมสร / วัด / มัสยิด / องค์กรการกุศล / องค์กรไม่แสวงหากำไร",
+				"specific_detail": false
+			},
+			"931": {
+				"sba_code": "930",
+				"title": "อื่นๆ (โปรดระบุหน่วยงานในสังกัด)",
+				"specific_detail": true
+			},
+			"932": {
+				"sba_code": "930",
+				"title": "ผู้สอบบัญชี / ทนาย / นิติกร / อัยการ / ผู้พิพากษา",
+				"specific_detail": false
+			}
+		}
+	},
+	"9902": {
+		"occupation_group": "990",
+		"title": "แม่บ้าน / พ่อบ้าน",
+		"show_items": false,
+		"items": {
+			"991": {
+				"sba_code": "990",
+				"title": "อื่นๆ (โปรดระบุ)",
+				"specific_detail": false
+			}
+		}
+	},
+	"9903": {
+		"occupation_group": "990",
+		"title": "นักลงทุน",
+		"show_items": false,
+		"items": {
+			"992": {
+				"sba_code": "990",
+				"title": "อื่นๆ (โปรดระบุ)",
+				"specific_detail": false
+			}
+		}
+	},
+	"9904": {
+		"occupation_group": "990",
+		"title": "นักการเมือง",
+		"show_items": false,
+		"items": {
+			"993": {
+				"sba_code": "990",
+				"title": "อื่นๆ (โปรดระบุ)",
+				"specific_detail": false
+			}
+		}
+	},
+	"9905": {
+		"occupation_group": "990",
+		"title": "เกษียณอายุ",
+		"show_items": true,
+		"items": {
+			"994": {
+				"sba_code": "990",
+				"title": "อื่นๆ (โปรดระบุอาชีพก่อนเกษียณ)",
+				"specific_detail": true
+			}
+		}
+	},
+	"9906": {
+		"occupation_group": "990",
+		"title": "อาชีพอิสระ",
+		"show_items": true,
+		"items": {
+			"995": {
+				"sba_code": "990",
+				"title": "อื่นๆ (โปรดระบุ)",
+				"specific_detail": true
+			}
+		}
+	},
+	"9302": {
+		"occupation_group": "930",
+		"title": "พนักงานรัฐวิสาหกิจ",
+		"show_items": true,
+		"items": {
+			"933": {
+				"sba_code": "930",
+				"title": "อื่นๆ (โปรดระบุหน่วยงานในสังกัด)",
+				"specific_detail": true
+			}
+		}
+	},
+	"9907": {
+		"occupation_group": "990",
+		"title": "นักเรียน / นักศึกษา",
+		"show_items": false,
+		"items": {
+			"996": {
+				"sba_code": "990",
+				"title": "อื่นๆ (โปรดระบุ)",
+				"specific_detail": false
+			}
+		}
+	},
+	"9203": {
+		"occupation_group": "990",
+		"title": "ครู / อาจารย์",
+		"show_items": true,
+		"items": {
+			"928": {
+				"sba_code": "990",
+				"title": "มหาวิทยาลัย / โรงเรียน / สถานศึกษา",
+				"specific_detail": false
+			}
+		}
+	},
+	"9908": {
+		"occupation_group": "990",
+		"title": "อื่นๆ (โปรดระบุ)",
+		"show_items": true,
+		"items": {
+			"997": {
+				"sba_code": "990",
+				"title": "อื่นๆ (โปรดระบุ)",
+				"specific_detail": true
+			}
+		}
+	}
+}

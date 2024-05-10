@@ -1,0 +1,78 @@
+{"datas":[
+    {"code":81,"province_en":"Krabi","province_th":"กระบี่"}
+    ,{"code":10,"province_en":"Bangkok","province_th":"กรุงเทพมหานคร"}
+    ,{"code":71,"province_en":"Kanchanaburi","province_th":"กาญจนบุรี"}
+    ,{"code":46,"province_en":"Kalasin","province_th":"กาฬสินธุ์"}
+    ,{"code":62,"province_en":"Kamphaeng Phet","province_th":"กำแพงเพชร"}
+    ,{"code":40,"province_en":"Khon Kaen","province_th":"ขอนแก่น"}
+    ,{"code":22,"province_en":"Chanthaburi","province_th":"จันทบุรี"}
+    ,{"code":24,"province_en":"Chachoengsao","province_th":"ฉะเชิงเทรา"}
+    ,{"code":20,"province_en":"Chon Buri","province_th":"ชลบุรี"}
+    ,{"code":18,"province_en":"Chai Nat","province_th":"ชัยนาท"}
+    ,{"code":36,"province_en":"Chaiyaphum","province_th":"ชัยภูมิ"}
+    ,{"code":86,"province_en":"Chumphon","province_th":"ชุมพร"}
+    ,{"code":92,"province_en":"Trang","province_th":"ตรัง"}
+    ,{"code":23,"province_en":"Trat","province_th":"ตราด"}
+    ,{"code":63,"province_en":"Tak","province_th":"ตาก"}
+    ,{"code":26,"province_en":"Nakhon Nayok","province_th":"นครนายก"}
+    ,{"code":73,"province_en":"Nakhon Pathom","province_th":"นครปฐม"}
+    ,{"code":48,"province_en":"Nakhon Phanom","province_th":"นครพนม"}
+    ,{"code":30,"province_en":"Nakhon Ratchasima","province_th":"นครราชสีมา"}
+    ,{"code":80,"province_en":"Nakhon Si Thammarat","province_th":"นครศรีธรรมราช"}
+    ,{"code":60,"province_en":"Nakhon Sawan","province_th":"นครสวรรค์"}
+    ,{"code":12,"province_en":"Nonthaburi","province_th":"นนทบุรี"}
+    ,{"code":96,"province_en":"Narathiwat","province_th":"นราธิวาส"}
+    ,{"code":55,"province_en":"Nan","province_th":"น่าน"}
+    ,{"code":38,"province_en":"buogkan","province_th":"บึงกาฬ"}
+    ,{"code":31,"province_en":"Buri Ram","province_th":"บุรีรัมย์"}
+    ,{"code":13,"province_en":"Pathum Thani","province_th":"ปทุมธานี"}
+    ,{"code":77,"province_en":"Prachuap Khiri Khan","province_th":"ประจวบคีรีขันธ์"}
+    ,{"code":25,"province_en":"Prachin Buri","province_th":"ปราจีนบุรี"}
+    ,{"code":94,"province_en":"Pattani","province_th":"ปัตตานี"}
+    ,{"code":14,"province_en":"Phra Nakhon Si Ayutthaya","province_th":"พระนครศรีอยุธยา"}
+    ,{"code":56,"province_en":"Phayao","province_th":"พะเยา"}
+    ,{"code":82,"province_en":"Phangnga","province_th":"พังงา"}
+    ,{"code":93,"province_en":"Phatthalung","province_th":"พัทลุง"}
+    ,{"code":66,"province_en":"Phichit","province_th":"พิจิตร"}
+    ,{"code":65,"province_en":"Phitsanulok","province_th":"พิษณุโลก"}
+    ,{"code":83,"province_en":"Phuket","province_th":"ภูเก็ต"}
+    ,{"code":44,"province_en":"Maha Sarakham","province_th":"มหาสารคาม"}
+    ,{"code":49,"province_en":"Mukdahan","province_th":"มุกดาหาร"}
+    ,{"code":95,"province_en":"Yala","province_th":"ยะลา"}
+    ,{"code":35,"province_en":"Yasothon","province_th":"ยโสธร"}
+    ,{"code":85,"province_en":"Ranong","province_th":"ระนอง"}
+    ,{"code":21,"province_en":"Rayong","province_th":"ระยอง"}
+    ,{"code":70,"province_en":"Ratchaburi","province_th":"ราชบุรี"}
+    ,{"code":45,"province_en":"Roi Et","province_th":"ร้อยเอ็ด"}
+    ,{"code":16,"province_en":"Loburi","province_th":"ลพบุรี"}
+    ,{"code":52,"province_en":"Lampang","province_th":"ลำปาง"}
+    ,{"code":51,"province_en":"Lamphun","province_th":"ลำพูน"}
+    ,{"code":33,"province_en":"Si Sa Ket","province_th":"ศรีสะเกษ"}
+    ,{"code":47,"province_en":"Sakon Nakhon","province_th":"สกลนคร"}
+    ,{"code":90,"province_en":"Songkhla","province_th":"สงขลา"}
+    ,{"code":91,"province_en":"Satun","province_th":"สตูล"}
+    ,{"code":11,"province_en":"Samut Prakan","province_th":"สมุทรปราการ"}
+    ,{"code":75,"province_en":"Samut Songkhram","province_th":"สมุทรสงคราม"}
+    ,{"code":74,"province_en":"Samut Sakhon","province_th":"สมุทรสาคร"}
+    ,{"code":19,"province_en":"Saraburi","province_th":"สระบุรี"}
+    ,{"code":27,"province_en":"Sa Kaeo","province_th":"สระแก้ว"}
+    ,{"code":17,"province_en":"Sing Buri","province_th":"สิงห์บุรี"}
+    ,{"code":72,"province_en":"Suphan Buri","province_th":"สุพรรณบุรี"}
+    ,{"code":84,"province_en":"Surat Thani","province_th":"สุราษฎร์ธานี"}
+    ,{"code":32,"province_en":"Surin","province_th":"สุรินทร์"}
+    ,{"code":64,"province_en":"Sukhothai","province_th":"สุโขทัย"}
+    ,{"code":43,"province_en":"Nong Khai","province_th":"หนองคาย"}
+    ,{"code":39,"province_en":"Nong Bua Lam Phu","province_th":"หนองบัวลำภู"}
+    ,{"code":37,"province_en":"Amnat Charoen","province_th":"อำนาจเจริญ"}
+    ,{"code":41,"province_en":"Udon Thani","province_th":"อุดรธานี"}
+    ,{"code":53,"province_en":"Uttaradit","province_th":"อุตรดิตถ์"}
+    ,{"code":61,"province_en":"Uthai Thani","province_th":"อุทัยธานี"}
+    ,{"code":34,"province_en":"Ubon Ratchathani","province_th":"อุบลราชธานี"}
+    ,{"code":15,"province_en":"Ang Thong","province_th":"อ่างทอง"}
+    ,{"code":57,"province_en":"Chiang Rai","province_th":"เชียงราย"}
+    ,{"code":50,"province_en":"Chiang Mai","province_th":"เชียงใหม่"}
+    ,{"code":76,"province_en":"Phetchaburi","province_th":"เพชรบุรี"}
+    ,{"code":67,"province_en":"Phetchabun","province_th":"เพชรบูรณ์"}
+    ,{"code":42,"province_en":"Loei","province_th":"เลย"}
+    ,{"code":54,"province_en":"Phrae","province_th":"แพร่"}
+    ,{"code":58,"province_en":"Mae Hong Son","province_th":"แม่ฮ่องสอน"}]}

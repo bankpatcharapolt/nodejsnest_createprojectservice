@@ -1,0 +1,12 @@
+{
+  "apps" : [
+    {
+      "name"        : "bls-openaccount",
+      "cwd"         : "/home/wwwadm/nodejs/bls-openaccount-api",
+      "script"      : "./dist/main.js",
+      "error_file"  : "/home/wwwadm/nodejs/bls-openaccount-api/logs/error.log",
+      "out_file"    : "/dev/null",
+      "cron_restart": "0 11 * * *"
+    }
+  ]
+}

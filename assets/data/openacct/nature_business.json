@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "value": "9101",
+      "occpcode": "910",
+      "title": "เกษตรกร",
+      "show_items": false
+    },
+    {
+      "value": "9901",
+      "occpcode": "990",
+      "title": "พระภิกษุ / นักบวช",
+      "show_items": false
+    },
+    {
+      "value": "9102",
+      "occpcode": "910",
+      "title": "เจ้าของกิจการ / ธุรกิจส่วนตัว",
+      "show_items": true
+    },
+    {
+      "value": "9103",
+      "occpcode": "910",
+      "title": "กิจการครอบครัว",
+      "show_items": false
+    },
+    {
+      "value": "9201",
+      "occpcode": "920",
+      "title": "พนักงานบริษัท",
+      "show_items": true
+    },
+    {
+      "value": "9202",
+      "occpcode": "990",
+      "title": "แพทย์ / พยาบาล",
+      "show_items": false
+    },
+    {
+      "value": "9301",
+      "occpcode": "930",
+      "title": "ข้าราชการ / พนักงานรัฐ",
+      "show_items": true
+    },
+    {
+      "value": "9902",
+      "occpcode": "990",
+      "title": "แม่บ้าน / พ่อบ้าน",
+      "show_items": false
+    },
+    {
+      "value": "9903",
+      "occpcode": "990",
+      "title": "นักลงทุน",
+      "show_items": false
+    },
+    {
+      "value": "9904",
+      "occpcode": "990",
+      "title": "นักการเมือง",
+      "show_items": false
+    },
+    {
+      "value": "9905",
+      "occpcode": "990",
+      "title": "เกษียณอายุ",
+      "show_items": true
+    },
+    {
+      "value": "9906",
+      "occpcode": "990",
+      "title": "อาชีพอิสระ",
+      "show_items": true
+    },
+    {
+      "value": "9302",
+      "occpcode": "930",
+      "title": "พนักงานรัฐวิสาหกิจ",
+      "show_items": true
+    },
+    {
+      "value": "9907",
+      "occpcode": "990",
+      "title": "นักเรียน / นักศึกษา",
+      "show_items": false
+    },
+    {
+      "value": "9203",
+      "occpcode": "990",
+      "title": "ครู / อาจารย์",
+      "show_items": true
+    },
+    {
+      "value": "9908",
+      "occpcode": "990",
+      "title": "อื่นๆ (โปรดระบุ)",
+      "show_items": true
+    }
+  ]
+}

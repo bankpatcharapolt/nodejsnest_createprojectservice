@@ -1,0 +1,454 @@
+{
+  "data": [
+    {
+      "politicalcode": 100,
+      "politicalname_en": "นายกรัฐมนตรี",
+      "politicalname_th": "นายกรัฐมนตรี"
+    },
+    {
+      "politicalcode": 101,
+      "politicalname_en": "รัฐมนตรี",
+      "politicalname_th": "รัฐมนตรี"
+    },
+    {
+      "politicalcode": 102,
+      "politicalname_en": "สมาชิกสภาผู้แทนราษฎร",
+      "politicalname_th": "สมาชิกสภาผู้แทนราษฎร"
+    },
+    {
+      "politicalcode": 103,
+      "politicalname_en": "สมาชิกวุฒิสภา",
+      "politicalname_th": "สมาชิกวุฒิสภา"
+    },
+    {
+      "politicalcode": 104,
+      "politicalname_en": "ที่ปรึกษานายกรัฐมนตรี",
+      "politicalname_th": "ที่ปรึกษานายกรัฐมนตรี"
+    },
+    {
+      "politicalcode": 105,
+      "politicalname_en": "ที่ปรึกษารองนายกรัฐมนตรี",
+      "politicalname_th": "ที่ปรึกษารองนายกรัฐมนตรี"
+    },
+    {
+      "politicalcode": 106,
+      "politicalname_en": "ที่ปรึกษารัฐมนตรี",
+      "politicalname_th": "ที่ปรึกษารัฐมนตรี"
+    },
+    {
+      "politicalcode": 107,
+      "politicalname_en": "ที่ปรึกษารัฐมนตรีประจาสานักนายกรัฐมนตรี",
+      "politicalname_th": "ที่ปรึกษารัฐมนตรีประจาสานักนายกรัฐมนตรี"
+    },
+    {
+      "politicalcode": 108,
+      "politicalname_en": "เลขาธิการนายกรัฐมนตรี",
+      "politicalname_th": "เลขาธิการนายกรัฐมนตรี"
+    },
+    {
+      "politicalcode": 109,
+      "politicalname_en": "รองเลขาธิการนายกรัฐมนตรีฝ่ายการเมือง",
+      "politicalname_th": "รองเลขาธิการนายกรัฐมนตรีฝ่ายการเมือง"
+    },
+    {
+      "politicalcode": 110,
+      "politicalname_en": "โฆษกประจำสำนักนายกรัฐมนตรี",
+      "politicalname_th": "โฆษกประจำสำนักนายกรัฐมนตรี"
+    },
+    {
+      "politicalcode": 111,
+      "politicalname_en": "รองโฆษกประจำสำนักนายกรัฐมนตรี",
+      "politicalname_th": "รองโฆษกประจำสำนักนายกรัฐมนตรี"
+    },
+    {
+      "politicalcode": 112,
+      "politicalname_en": "เลขานุการรัฐมนตรีประจำสำนักนายกรัฐมนตรี",
+      "politicalname_th": "เลขานุการรัฐมนตรีประจำสำนักนายกรัฐมนตรี"
+    },
+    {
+      "politicalcode": 113,
+      "politicalname_en": "เลขานุการรัฐมนตรีประจำสำนักเลขาธิการนายกรัฐมนตรี",
+      "politicalname_th": "เลขานุการรัฐมนตรีประจำสำนักเลขาธิการนายกรัฐมนตรี"
+    },
+    {
+      "politicalcode": 114,
+      "politicalname_en": "เลขานุการรัฐมนตรีประจำสำนักนายกรัฐมนตรี",
+      "politicalname_th": "เลขานุการรัฐมนตรีประจำสำนักนายกรัฐมนตรี"
+    },
+    {
+      "politicalcode": 115,
+      "politicalname_en": "เลขานุการรัฐมนตรีว่าการกระทรวง",
+      "politicalname_th": "เลขานุการรัฐมนตรีว่าการกระทรวง"
+    },
+    {
+      "politicalcode": 116,
+      "politicalname_en": "ผู้ช่วยเลขานุการรัฐมนตรีว่าการกระทรวง",
+      "politicalname_th": "ผู้ช่วยเลขานุการรัฐมนตรีว่าการกระทรวง"
+    },
+    {
+      "politicalcode": 117,
+      "politicalname_en": "เลขานุการรัฐมนตรีว่าการกระทรวง",
+      "politicalname_th": "เลขานุการรัฐมนตรีว่าการกระทรวง"
+    },
+    {
+      "politicalcode": 118,
+      "politicalname_en": "ผู้ช่วยเลขานุการรัฐมนตรีว่าการกระทรวง",
+      "politicalname_th": "ผู้ช่วยเลขานุการรัฐมนตรีว่าการกระทรวง"
+    },
+    {
+      "politicalcode": 119,
+      "politicalname_en": "ผู้ว่าราชการกรุงเทพมหานคร",
+      "politicalname_th": "ผู้ว่าราชการกรุงเทพมหานคร"
+    },
+    {
+      "politicalcode": 120,
+      "politicalname_en": "รองผู้ว่าราชการกรุงเทพมหานคร",
+      "politicalname_th": "รองผู้ว่าราชการกรุงเทพมหานคร"
+    },
+    {
+      "politicalcode": 121,
+      "politicalname_en": "เลขานุการผู้ว่าราชการกรุงเทพมหานคร",
+      "politicalname_th": "เลขานุการผู้ว่าราชการกรุงเทพมหานคร"
+    },
+    {
+      "politicalcode": 122,
+      "politicalname_en": "ผู้ช่วยเลขานุการผู้ว่าราชการกรุงเทพมหานคร",
+      "politicalname_th": "ผู้ช่วยเลขานุการผู้ว่าราชการกรุงเทพมหานคร"
+    },
+    {
+      "politicalcode": 123,
+      "politicalname_en": "ประธานที่ปรึกษาผู้ว่าราชการกรุงเทพมหานคร",
+      "politicalname_th": "ประธานที่ปรึกษาผู้ว่าราชการกรุงเทพมหานคร"
+    },
+    {
+      "politicalcode": 124,
+      "politicalname_en": "ที่ปรึกษาผู้ว่าราชการกรุงเทพมหานคร",
+      "politicalname_th": "ที่ปรึกษาผู้ว่าราชการกรุงเทพมหานคร"
+    },
+    {
+      "politicalcode": 125,
+      "politicalname_en": "เลขานุการประธานสภากรุงเทพมหานคร",
+      "politicalname_th": "เลขานุการประธานสภากรุงเทพมหานคร"
+    },
+    {
+      "politicalcode": 126,
+      "politicalname_en": "เลขานุการรองประธานสภากรุงเทพมหานคร",
+      "politicalname_th": "เลขานุการรองประธานสภากรุงเทพมหานคร"
+    },
+    {
+      "politicalcode": 127,
+      "politicalname_en": "ที่ปรึกษาประธานรัฐสภา",
+      "politicalname_th": "ที่ปรึกษาประธานรัฐสภา"
+    },
+    {
+      "politicalcode": 128,
+      "politicalname_en": "ที่ปรึกษารองประธานรัฐสภา",
+      "politicalname_th": "ที่ปรึกษารองประธานรัฐสภา"
+    },
+    {
+      "politicalcode": 129,
+      "politicalname_en": "ที่ปรึกษาประธานสภาผู้แทนราษฎร",
+      "politicalname_th": "ที่ปรึกษาประธานสภาผู้แทนราษฎร"
+    },
+    {
+      "politicalcode": 130,
+      "politicalname_en": "ที่ปรึกษาประธานวุฒิสภา",
+      "politicalname_th": "ที่ปรึกษาประธานวุฒิสภา"
+    },
+    {
+      "politicalcode": 131,
+      "politicalname_en": "ที่ปรึกษารองประธานสภาผู้แทนราษฎร",
+      "politicalname_th": "ที่ปรึกษารองประธานสภาผู้แทนราษฎร"
+    },
+    {
+      "politicalcode": 132,
+      "politicalname_en": "ที่ปรึกษารองประธานวุฒิสภา",
+      "politicalname_th": "ที่ปรึกษารองประธานวุฒิสภา"
+    },
+    {
+      "politicalcode": 133,
+      "politicalname_en": "ที่ปรึกษาผู้นำฝ่ายค้านในสภาผู้แทนราษฎร",
+      "politicalname_th": "ที่ปรึกษาผู้นำฝ่ายค้านในสภาผู้แทนราษฎร"
+    },
+    {
+      "politicalcode": 134,
+      "politicalname_en": "โฆษกประธานสภาผู้แทนราษฎร",
+      "politicalname_th": "โฆษกประธานสภาผู้แทนราษฎร"
+    },
+    {
+      "politicalcode": 135,
+      "politicalname_en": "โฆษกประธานวุฒิสภา",
+      "politicalname_th": "โฆษกประธานวุฒิสภา"
+    },
+    {
+      "politicalcode": 136,
+      "politicalname_en": "โฆษกผู้นำฝ่ายค้านในสภาผู้แทนราษฎร",
+      "politicalname_th": "โฆษกผู้นำฝ่ายค้านในสภาผู้แทนราษฎร"
+    },
+    {
+      "politicalcode": 137,
+      "politicalname_en": "เลขานุการประธานรัฐสภา",
+      "politicalname_th": "เลขานุการประธานรัฐสภา"
+    },
+    {
+      "politicalcode": 138,
+      "politicalname_en": "เลขานุการรองประธานรัฐสภา",
+      "politicalname_th": "เลขานุการรองประธานรัฐสภา"
+    },
+    {
+      "politicalcode": 139,
+      "politicalname_en": "เลขานุการประธานสภาผู้แทนราษฎร",
+      "politicalname_th": "เลขานุการประธานสภาผู้แทนราษฎร"
+    },
+    {
+      "politicalcode": 140,
+      "politicalname_en": "เลขานุการประธานวุฒิสภา",
+      "politicalname_th": "เลขานุการประธานวุฒิสภา"
+    },
+    {
+      "politicalcode": 141,
+      "politicalname_en": "เลขานุการรองประธานสภาผู้แทนราษฎร",
+      "politicalname_th": "เลขานุการรองประธานสภาผู้แทนราษฎร"
+    },
+    {
+      "politicalcode": 142,
+      "politicalname_en": "เลขานุการรองประธานวุฒิสภา",
+      "politicalname_th": "เลขานุการรองประธานวุฒิสภา"
+    },
+    {
+      "politicalcode": 143,
+      "politicalname_en": "เลขานุการผู้นำฝ่ายค้านในสภาผู้แทนราษฎร",
+      "politicalname_th": "เลขานุการผู้นำฝ่ายค้านในสภาผู้แทนราษฎร"
+    },
+    {
+      "politicalcode": 144,
+      "politicalname_en": "ผู้ช่วยเลขานุการประธานรัฐสภา",
+      "politicalname_th": "ผู้ช่วยเลขานุการประธานรัฐสภา"
+    },
+    {
+      "politicalcode": 145,
+      "politicalname_en": "ผู้ช่วยเลขานุการรองประธานรัฐสภา",
+      "politicalname_th": "ผู้ช่วยเลขานุการรองประธานรัฐสภา"
+    },
+    {
+      "politicalcode": 146,
+      "politicalname_en": "ผู้ช่วยเลขานุการประธานสภาผู้แทนราษฎร",
+      "politicalname_th": "ผู้ช่วยเลขานุการประธานสภาผู้แทนราษฎร"
+    },
+    {
+      "politicalcode": 147,
+      "politicalname_en": "ผู้ช่วยเลขานุการประธานวุฒิสภา",
+      "politicalname_th": "ผู้ช่วยเลขานุการประธานวุฒิสภา"
+    },
+    {
+      "politicalcode": 148,
+      "politicalname_en": "ผู้ช่วยเลขานุการรองประธานสภาผู้แทนราษฎร",
+      "politicalname_th": "ผู้ช่วยเลขานุการรองประธานสภาผู้แทนราษฎร"
+    },
+    {
+      "politicalcode": 149,
+      "politicalname_en": "ผู้ช่วยเลขานุการรองประธานวุฒิสภา",
+      "politicalname_th": "ผู้ช่วยเลขานุการรองประธานวุฒิสภา"
+    },
+    {
+      "politicalcode": 150,
+      "politicalname_en": "ผู้ช่วยเลขานุการผู้นำฝ่ายค้านในสภาผู้แทนราษฎร",
+      "politicalname_th": "ผู้ช่วยเลขานุการผู้นำฝ่ายค้านในสภาผู้แทนราษฎร"
+    },
+    {
+      "politicalcode": 151,
+      "politicalname_en": "นายกองค์การบริหารส่วนจังหวัด",
+      "politicalname_th": "นายกองค์การบริหารส่วนจังหวัด"
+    },
+    {
+      "politicalcode": 152,
+      "politicalname_en": "รองนายกองค์การบริหารส่วนจังหวัด",
+      "politicalname_th": "รองนายกองค์การบริหารส่วนจังหวัด"
+    },
+    {
+      "politicalcode": 153,
+      "politicalname_en": "ที่ปรึกษานายกองค์การบริหารส่วนจังหวัด",
+      "politicalname_th": "ที่ปรึกษานายกองค์การบริหารส่วนจังหวัด"
+    },
+    {
+      "politicalcode": 154,
+      "politicalname_en": "เลขานุการนายกองค์การบริหารส่วนจังหวัด",
+      "politicalname_th": "เลขานุการนายกองค์การบริหารส่วนจังหวัด"
+    },
+    {
+      "politicalcode": 155,
+      "politicalname_en": "สมาชิกสภาองค์การบริหารส่วนจังหวัด",
+      "politicalname_th": "สมาชิกสภาองค์การบริหารส่วนจังหวัด"
+    },
+    {
+      "politicalcode": 156,
+      "politicalname_en": "นายกเทศมนตรี",
+      "politicalname_th": "นายกเทศมนตรี"
+    },
+    {
+      "politicalcode": 157,
+      "politicalname_en": "รองนายกเทศมนตรี",
+      "politicalname_th": "รองนายกเทศมนตรี"
+    },
+    {
+      "politicalcode": 158,
+      "politicalname_en": "ที่ปรึกษานายกเทศมนตรี",
+      "politicalname_th": "ที่ปรึกษานายกเทศมนตรี"
+    },
+    {
+      "politicalcode": 159,
+      "politicalname_en": "เลขานุการนายกเทศมนตรี",
+      "politicalname_th": "เลขานุการนายกเทศมนตรี"
+    },
+    {
+      "politicalcode": 160,
+      "politicalname_en": "สมาชิกสภาเทศบาล",
+      "politicalname_th": "สมาชิกสภาเทศบาล"
+    },
+    {
+      "politicalcode": 161,
+      "politicalname_en": "นายกองค์การบริหารส่วนตำบล",
+      "politicalname_th": "นายกองค์การบริหารส่วนตำบล"
+    },
+    {
+      "politicalcode": 162,
+      "politicalname_en": "รองนายกองค์การบริหารส่วนตำบล",
+      "politicalname_th": "รองนายกองค์การบริหารส่วนตำบล"
+    },
+    {
+      "politicalcode": 163,
+      "politicalname_en": "เลขานุการนายกองค์การบริหารส่วนตำบล",
+      "politicalname_th": "เลขานุการนายกองค์การบริหารส่วนตำบล"
+    },
+    {
+      "politicalcode": 164,
+      "politicalname_en": "นายกเมืองพัทยา",
+      "politicalname_th": "นายกเมืองพัทยา"
+    },
+    {
+      "politicalcode": 165,
+      "politicalname_en": "รองนายกเมืองพัทยา",
+      "politicalname_th": "รองนายกเมืองพัทยา"
+    },
+    {
+      "politicalcode": 166,
+      "politicalname_en": "ประธานที่ปรึกษานายกเมืองพัทยา",
+      "politicalname_th": "ประธานที่ปรึกษานายกเมืองพัทยา"
+    },
+    {
+      "politicalcode": 167,
+      "politicalname_en": "ที่ปรึกษานายกเมืองพัทยา",
+      "politicalname_th": "ที่ปรึกษานายกเมืองพัทยา"
+    },
+    {
+      "politicalcode": 168,
+      "politicalname_en": "เลขานุการนายกเมืองพัทยา",
+      "politicalname_th": "เลขานุการนายกเมืองพัทยา"
+    },
+    {
+      "politicalcode": 169,
+      "politicalname_en": "สมาชิกสภาเมืองพัทยา",
+      "politicalname_th": "สมาชิกสภาเมืองพัทยา"
+    },
+    {
+      "politicalcode": 170,
+      "politicalname_en": "ประธานศาลฎีกา",
+      "politicalname_th": "ประธานศาลฎีกา"
+    },
+    {
+      "politicalcode": 171,
+      "politicalname_en": "ประธานศาลรัฐธรรมนูญ",
+      "politicalname_th": "ประธานศาลรัฐธรรมนูญ"
+    },
+    {
+      "politicalcode": 172,
+      "politicalname_en": "ประธานศาลปกครองสูงสุด",
+      "politicalname_th": "ประธานศาลปกครองสูงสุด"
+    },
+    {
+      "politicalcode": 173,
+      "politicalname_en": "อัยการสูงสุด",
+      "politicalname_th": "อัยการสูงสุด"
+    },
+    {
+      "politicalcode": 174,
+      "politicalname_en": "กรรมการการเลือกตั้ง",
+      "politicalname_th": "กรรมการการเลือกตั้ง"
+    },
+    {
+      "politicalcode": 175,
+      "politicalname_en": "ผู้ตรวจการแผ่นดิน",
+      "politicalname_th": "ผู้ตรวจการแผ่นดิน"
+    },
+    {
+      "politicalcode": 176,
+      "politicalname_en": "ตุลาการศาลรัฐธรรมนูญ",
+      "politicalname_th": "ตุลาการศาลรัฐธรรมนูญ"
+    },
+    {
+      "politicalcode": 177,
+      "politicalname_en": "รองประธานรัฐสภา",
+      "politicalname_th": "รองประธานรัฐสภา"
+    },
+    {
+      "politicalcode": 178,
+      "politicalname_en": "ที่ปรึกษาผู้มีตำแหน่งทางการเมือง",
+      "politicalname_th": "ที่ปรึกษาผู้มีตำแหน่งทางการเมือง"
+    },
+    {
+      "politicalcode": 179,
+      "politicalname_en": "สมาชิกสภาองค์การบริหารส่วนตำบล",
+      "politicalname_th": "สมาชิกสภาองค์การบริหารส่วนตำบล"
+    },
+    {
+      "politicalcode": 180,
+      "politicalname_en": "ปลัดองค์การบริหารส่วนตำบล",
+      "politicalname_th": "ปลัดองค์การบริหารส่วนตำบล"
+    },
+    {
+      "politicalcode": 181,
+      "politicalname_en": "ผู้ใหญ่บ้าน",
+      "politicalname_th": "ผู้ใหญ่บ้าน"
+    },
+    {
+      "politicalcode": 182,
+      "politicalname_en": "กำนัน",
+      "politicalname_th": "กำนัน"
+    },
+    {
+      "politicalcode": 183,
+      "politicalname_en": "ผู้ว่าราชการจังหวัด",
+      "politicalname_th": "ผู้ว่าราชการจังหวัด"
+    },
+    {
+      "politicalcode": 184,
+      "politicalname_en": "รองผู้ว่าราชการจังหวัด",
+      "politicalname_th": "รองผู้ว่าราชการจังหวัด"
+    },
+    {
+      "politicalcode": 185,
+      "politicalname_en": "รองปลัดองค์การบริหารส่วนตำบล",
+      "politicalname_th": "รองปลัดองค์การบริหารส่วนตำบล"
+    },
+    {
+      "politicalcode": 186,
+      "politicalname_en": "ปลัดกระทรวงมหาดไทย",
+      "politicalname_th": "ปลัดกระทรวงมหาดไทย"
+    },
+    {
+      "politicalcode": 187,
+      "politicalname_en": "ประธานสภาเทศบาล",
+      "politicalname_th": "ประธานสภาเทศบาล"
+    },
+    {
+      "politicalcode": 188,
+      "politicalname_en": "รองประธานสภาเทศบาล",
+      "politicalname_th": "รองประธานสภาเทศบาล"
+    },
+    {
+      "politicalcode": 189,
+      "politicalname_en": "ปลัดเทศบาล",
+      "politicalname_th": "ปลัดเทศบาล"
+    }
+  ]
+}

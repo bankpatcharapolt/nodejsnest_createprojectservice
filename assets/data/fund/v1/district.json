@@ -1,0 +1,929 @@
+{"datas":[
+    {"code":9302,"code_pro":93,"district_en":"Kong Ra","district_th":"กงหรา"}
+    ,{"code":6404,"code_pro":64,"district_en":"Kong Krailat","district_th":"กงไกรลาศ"}
+    ,{"code":2502,"code_pro":25,"district_en":"Kabin Buri","district_th":"กบินทร์บุรี"}
+    ,{"code":4603,"code_pro":46,"district_en":"Kamalasai","district_th":"กมลาไสย"}
+    ,{"code":9508,"code_pro":95,"district_en":"Krong Pinang","district_th":"กรงปินัง"}
+    ,{"code":7402,"code_pro":74,"district_en":"Krathum Baen","district_th":"กระทุ่มแบน"}
+    ,{"code":4009,"code_pro":40,"district_en":"Kranuan","district_th":"กระนวน"}
+    ,{"code":8504,"code_pro":85,"district_en":"Kra Buri","district_th":"กระบุรี"}
+    ,{"code":3103,"code_pro":31,"district_en":"Krasang","district_th":"กระสัง"}
+    ,{"code":9008,"code_pro":90,"district_en":"Krasae Sin","district_th":"กระแสสินธุ์"}
+    ,{"code":8302,"code_pro":83,"district_en":"Kathu","district_th":"กะทู้"}
+    ,{"code":8203,"code_pro":82,"district_en":"Kapong","district_th":"กะปง"}
+    ,{"code":9411,"code_pro":94,"district_en":"Kapho","district_th":"กะพ้อ"}
+    ,{"code":8503,"code_pro":85,"district_en":"Kapoe","district_th":"กะเปอร์"}
+    ,{"code":9202,"code_pro":92,"district_en":"Kantang","district_th":"กันตัง"}
+    ,{"code":3304,"code_pro":33,"district_en":"Kantharalak","district_th":"กันทรลักษ์"}
+    ,{"code":4404,"code_pro":44,"district_en":"Kantharawichai","district_th":"กันทรวิชัย"}
+    ,{"code":3303,"code_pro":33,"district_en":"Kanthararom","district_th":"กันทรารมย์"}
+    ,{"code":5025,"code_pro":50,"district_en":"Kalayaniwattana","district_th":"กัลยาณิวัฒนา"}
+    ,{"code":8402,"code_pro":84,"district_en":"Kanchanadit","district_th":"กาญจนดิษฐ์"}
+    ,{"code":9507,"code_pro":95,"district_en":"Kabang","district_th":"กาบัง"}
+    ,{"code":3206,"code_pro":32,"district_en":"Kap Choeng","district_th":"กาบเชิง"}
+    ,{"code":7302,"code_pro":73,"district_en":"Kamphaeng Saen","district_th":"กำแพงแสน"}
+    ,{"code":4605,"code_pro":46,"district_en":"Kuchinarai","district_th":"กุฉินารายณ์"}
+    ,{"code":3412,"code_pro":34,"district_en":"Kut Khaopun","district_th":"กุดข้าวปุ้น"}
+    ,{"code":4102,"code_pro":41,"district_en":"Kut Chap","district_th":"กุดจับ"}
+    ,{"code":3503,"code_pro":35,"district_en":"Kut Chum","district_th":"กุดชุม"}
+    ,{"code":4703,"code_pro":47,"district_en":"Kut Bak","district_th":"กุดบาก"}
+    ,{"code":4412,"code_pro":44,"district_en":"Kut Rang","district_th":"กุดรัง"}
+    ,{"code":4104,"code_pro":41,"district_en":"Kumphawapi","district_th":"กุมภวาปี"}
+    ,{"code":7702,"code_pro":77,"district_en":"Kui Buri","district_th":"กุยบุรี"}
+    ,{"code":4702,"code_pro":47,"district_en":"Kusuman","district_th":"กุสุมาลย์"}
+    ,{"code":4124,"code_pro":41,"district_en":"Ku Kaeo","district_th":"กู่แก้ว"}
+    ,{"code":8015,"code_pro":80,"district_en":"Khanom","district_th":"ขนอม"}
+    ,{"code":2202,"code_pro":22,"district_en":"Khlung","district_th":"ขลุง"}
+    ,{"code":6204,"code_pro":62,"district_en":"Khanu Woralaksaburi","district_th":"ขาณุวรลักษบุรี"}
+    ,{"code":3019,"code_pro":30,"district_en":"Kham Thale So","district_th":"ขามทะเลสอ"}
+    ,{"code":3011,"code_pro":30,"district_en":"Kham Sakaesaeng","district_th":"ขามสะแกแสง"}
+    ,{"code":3305,"code_pro":33,"district_en":"Khukhan","district_th":"ขุขันธ์"}
+    ,{"code":5714,"code_pro":57,"district_en":"Khun Tan","district_th":"ขุนตาล"}
+    ,{"code":5802,"code_pro":58,"district_en":"Khun Yuam","district_th":"ขุนยวม"}
+    ,{"code":3308,"code_pro":33,"district_en":"Khun Han","district_th":"ขุนหาญ"}
+    ,{"code":3004,"code_pro":30,"district_en":"Khong","district_th":"คง"}
+    ,{"code":3002,"code_pro":30,"district_en":"Khon Buri","district_th":"ครบุรี"}
+    ,{"code":6205,"code_pro":62,"district_en":"Khlong Khlung","district_th":"คลองขลุง"}
+    ,{"code":8104,"code_pro":81,"district_en":"Khlong Thom","district_th":"คลองท่อม"}
+    ,{"code":6203,"code_pro":62,"district_en":"Khlong Lan","district_th":"คลองลาน"}
+    ,{"code":1018,"code_pro":10,"district_en":"Khlong San","district_th":"คลองสาน"}
+    ,{"code":1046,"code_pro":10,"district_en":"Khlong Sam Wa","district_th":"คลองสามวา"}
+    ,{"code":1302,"code_pro":13,"district_en":"Khlong Luang","district_th":"คลองหลวง"}
+    ,{"code":9016,"code_pro":90,"district_en":"Khlong Hoi Khong","district_th":"คลองหอยโข่ง"}
+    ,{"code":2702,"code_pro":27,"district_en":"Khlong Hat","district_th":"คลองหาด"}
+    ,{"code":2411,"code_pro":24,"district_en":"Khlong Khuean","district_th":"คลองเขื่อน"}
+    ,{"code":1033,"code_pro":10,"district_en":"Khlong Toei","district_th":"คลองเตย"}
+    ,{"code":2302,"code_pro":23,"district_en":"Khlong Yai","district_th":"คลองใหญ่"}
+    ,{"code":9103,"code_pro":91,"district_en":"Khuan Kalong","district_th":"ควนกาหลง"}
+    ,{"code":9305,"code_pro":93,"district_en":"Khuan Khanun","district_th":"ควนขนุน"}
+    ,{"code":9013,"code_pro":90,"district_en":"Khuan Niang","district_th":"ควนเนียง"}
+    ,{"code":9102,"code_pro":91,"district_en":"Khuan Don","district_th":"ควนโดน"}
+    ,{"code":3603,"code_pro":36,"district_en":"Khon Sawan","district_th":"คอนสวรรค์"}
+    ,{"code":3613,"code_pro":36,"district_en":"Khon San","district_th":"คอนสาร"}
+    ,{"code":1043,"code_pro":10,"district_en":"Khan Na Yao","district_th":"คันนายาว"}
+    ,{"code":4905,"code_pro":49,"district_en":"Khamcha-i","district_th":"คำชะอี"}
+    ,{"code":4709,"code_pro":47,"district_en":"Kham Ta Kla","district_th":"คำตากล้า"}
+    ,{"code":4610,"code_pro":46,"district_en":"Kham Muang","district_th":"คำม่วง"}
+    ,{"code":3504,"code_pro":35,"district_en":"Kham Khuean Kaeo","district_th":"คำเขื่อนแก้ว"}
+    ,{"code":6403,"code_pro":64,"district_en":"Khiri Mat","district_th":"คีรีมาศ"}
+    ,{"code":8408,"code_pro":84,"district_en":"Khiri Rat Nikhom","district_th":"คีรีรัฐนิคม"}
+    ,{"code":8206,"code_pro":82,"district_en":"Khura Buri","district_th":"คุระบุรี"}
+    ,{"code":3102,"code_pro":31,"district_en":"Khu Mueang","district_th":"คูเมือง"}
+    ,{"code":1703,"code_pro":17,"district_en":"Khai Bang Rachan","district_th":"ค่ายบางระจัน"}
+    ,{"code":3507,"code_pro":35,"district_en":"Kho Wang","district_th":"ค้อวัง"}
+    ,{"code":4618,"code_pro":46,"district_en":"Khong Chai","district_th":"ฆ้องชัย"}
+    ,{"code":5205,"code_pro":52,"district_en":"Ngao","district_th":"งาว"}
+    ,{"code":1030,"code_pro":10,"district_en":"Chatuchak","district_th":"จตุจักร"}
+    ,{"code":4504,"code_pro":45,"district_en":"Chaturaphak Phiman","district_th":"จตุรพักตรพิมาน"}
+    ,{"code":5002,"code_pro":50,"district_en":"Chom Thong","district_th":"จอมทอง"}
+    ,{"code":1035,"code_pro":10,"district_en":"Chom Thong","district_th":"จอมทอง"}
+    ,{"code":7002,"code_pro":70,"district_en":"Chom Bueng","district_th":"จอมบึง"}
+    ,{"code":3204,"code_pro":32,"district_en":"Chom Phra","district_th":"จอมพระ"}
+    ,{"code":9003,"code_pro":90,"district_en":"Chana","district_th":"จะนะ"}
+    ,{"code":9612,"code_pro":96,"district_en":"Chanae","district_th":"จะแนะ"}
+    ,{"code":3006,"code_pro":30,"district_en":"Chakkarat","district_th":"จักราช"}
+    ,{"code":4517,"code_pro":45,"district_en":"Changhan","district_th":"จังหาร"}
+    ,{"code":3606,"code_pro":36,"district_en":"Chatturat","district_th":"จัตุรัส"}
+    ,{"code":5602,"code_pro":56,"district_en":"Chun","district_th":"จุน"}
+    ,{"code":8019,"code_pro":80,"district_en":"Chulabhorn","district_th":"จุฬาภรณ์"}
+    ,{"code":8004,"code_pro":80,"district_en":"Chawang","district_th":"ฉวาง"}
+    ,{"code":4018,"code_pro":40,"district_en":"Chonnabot","district_th":"ชนบท"}
+    ,{"code":6702,"code_pro":67,"district_en":"Chon Daen","district_th":"ชนแดน"}
+    ,{"code":8007,"code_pro":80,"district_en":"Cha-uat","district_th":"ชะอวด"}
+    ,{"code":7604,"code_pro":76,"district_en":"Cha-am","district_th":"ชะอำ"}
+    ,{"code":1604,"code_pro":16,"district_en":"Chai Badan","district_th":"ชัยบาดาล"}
+    ,{"code":8418,"code_pro":84,"district_en":"Chai Buri","district_th":"ชัยบุรี"}
+    ,{"code":6503,"code_pro":65,"district_en":"Chat Trakan","district_th":"ชาติตระการ"}
+    ,{"code":3702,"code_pro":37,"district_en":"Chanuman","district_th":"ชานุมาน"}
+    ,{"code":3118,"code_pro":31,"district_en":"Chamni","district_th":"ชำนิ"}
+    ,{"code":4413,"code_pro":44,"district_en":"Chuen Chom","district_th":"ชื่นชม"}
+    ,{"code":6015,"code_pro":60,"district_en":"Chum Ta Bong","district_th":"ชุมตาบง"}
+    ,{"code":3202,"code_pro":32,"district_en":"Chumphon Buri","district_th":"ชุมพลบุรี"}
+    ,{"code":3017,"code_pro":30,"district_en":"Chum Phuang","district_th":"ชุมพวง"}
+    ,{"code":4005,"code_pro":40,"district_en":"Chum Phae","district_th":"ชุมแพ"}
+    ,{"code":6003,"code_pro":60,"district_en":"Chum Saeng","district_th":"ชุมแสง"}
+    ,{"code":8022,"code_pro":80,"district_en":"Chang Klang","district_th":"ช้างกลาง"}
+    ,{"code":3616,"code_pro":36,"district_en":"Sap Yai","district_th":"ซับใหญ่"}
+    ,{"code":4021,"code_pro":40,"district_en":"Sam Sung","district_th":"ซำสูง"}
+    ,{"code":4904,"code_pro":49,"district_en":"Dong Luang","district_th":"ดงหลวง"}
+    ,{"code":6611,"code_pro":66,"district_en":"Dong Charoen","district_th":"ดงเจริญ"}
+    ,{"code":5605,"code_pro":56,"district_en":"Dok Khamtai","district_th":"ดอกคำใต้"}
+    ,{"code":4617,"code_pro":46,"district_en":"Don Chan","district_th":"ดอนจาน"}
+    ,{"code":4903,"code_pro":49,"district_en":"Don Tan","district_th":"ดอนตาล"}
+    ,{"code":7304,"code_pro":73,"district_en":"Don Tum","district_th":"ดอนตูม"}
+    ,{"code":1907,"code_pro":19,"district_en":"Don Phut","district_th":"ดอนพุด"}
+    ,{"code":3424,"code_pro":34,"district_en":"Don Mot Daeng","district_th":"ดอนมดแดง"}
+    ,{"code":8403,"code_pro":84,"district_en":"Don Sak","district_th":"ดอนสัก"}
+    ,{"code":7206,"code_pro":72,"district_en":"Don Chedi","district_th":"ดอนเจดีย์"}
+    ,{"code":1036,"code_pro":10,"district_en":"Don Mueang","district_th":"ดอนเมือง"}
+    ,{"code":5005,"code_pro":50,"district_en":"Doi Saket","district_th":"ดอยสะเก็ด"}
+    ,{"code":5718,"code_pro":57,"district_en":"Doi Luang","district_th":"ดอยหลวง"}
+    ,{"code":5024,"code_pro":50,"district_en":"Doi Lo","district_th":"ดอยหล่อ"}
+    ,{"code":5017,"code_pro":50,"district_en":"Doi Tao","district_th":"ดอยเต่า"}
+    ,{"code":7004,"code_pro":70,"district_en":"Damnoen Saduak","district_th":"ดำเนินสะดวก"}
+    ,{"code":1026,"code_pro":10,"district_en":"Din Daeng","district_th":"ดินแดง"}
+    ,{"code":1002,"code_pro":10,"district_en":"Dusit","district_th":"ดุสิต"}
+    ,{"code":3008,"code_pro":30,"district_en":"Dan Khun Thot","district_th":"ด่านขุนทด"}
+    ,{"code":7203,"code_pro":72,"district_en":"Dan Chang","district_th":"ด่านช้าง"}
+    ,{"code":4205,"code_pro":42,"district_en":"Dan Sai","district_th":"ด่านซ้าย"}
+    ,{"code":7111,"code_pro":71,"district_en":"Dan Makham Tia","district_th":"ด่านมะขามเตี้ย"}
+    ,{"code":5302,"code_pro":53,"district_en":"Tron","district_th":"ตรอน"}
+    ,{"code":3411,"code_pro":34,"district_en":"Trakan Phuet Phon","district_th":"ตระการพืชผล"}
+    ,{"code":1019,"code_pro":10,"district_en":"Taling Chan","district_th":"ตลิ่งชัน"}
+    ,{"code":8204,"code_pro":82,"district_en":"Takua Thung","district_th":"ตะกั่วทุ่ง"}
+    ,{"code":8205,"code_pro":82,"district_en":"Takua Pa","district_th":"ตะกั่วป่า"}
+    ,{"code":6604,"code_pro":66,"district_en":"Taphan Hin","district_th":"ตะพานหิน"}
+    ,{"code":9304,"code_pro":93,"district_en":"Tamot","district_th":"ตะโหมด"}
+    ,{"code":6012,"code_pro":60,"district_en":"Tak Fa","district_th":"ตากฟ้า"}
+    ,{"code":9602,"code_pro":96,"district_en":"Tak Bai","district_th":"ตากใบ"}
+    ,{"code":6007,"code_pro":60,"district_en":"Takhli","district_th":"ตาคลี"}
+    ,{"code":2703,"code_pro":27,"district_en":"Ta Phraya","district_th":"ตาพระยา"}
+    ,{"code":3420,"code_pro":34,"district_en":"Tan Sum","district_th":"ตาลสุม"}
+    ,{"code":8303,"code_pro":83,"district_en":"Thalang","district_th":"ถลาง"}
+    ,{"code":8018,"code_pro":80,"district_en":"Tham Phannara","district_th":"ถ้ำพรรณรา"}
+    ,{"code":6208,"code_pro":62,"district_en":"Sai Thong Watthana","district_th":"ทรายทองวัฒนา"}
+    ,{"code":3502,"code_pro":35,"district_en":"Sai Mun","district_th":"ทรายมูล"}
+    ,{"code":1048,"code_pro":10,"district_en":"Thawi Watthana","district_th":"ทวีวัฒนา"}
+    ,{"code":7107,"code_pro":71,"district_en":"Pha Phum","district_th":"ทองผาภูมิ"}
+    ,{"code":5309,"code_pro":53,"district_en":"Thong Saen Khan","district_th":"ทองแสนขัน"}
+    ,{"code":6608,"code_pro":66,"district_en":"Tap Khlo","district_th":"ทับคล้อ"}
+    ,{"code":8207,"code_pro":82,"district_en":"Thap Put","district_th":"ทับปุด"}
+    ,{"code":7703,"code_pro":77,"district_en":"Thap Sakae","district_th":"ทับสะแก"}
+    ,{"code":6102,"code_pro":61,"district_en":"Thap Than","district_th":"ทัพทัน"}
+    ,{"code":1049,"code_pro":10,"district_en":"Thung Khru","district_th":"ทุ่งครุ"}
+    ,{"code":5508,"code_pro":55,"district_en":"Thung Chang","district_th":"ทุ่งช้าง"}
+    ,{"code":8608,"code_pro":86,"district_en":"Thung Tako","district_th":"ทุ่งตะโก"}
+    ,{"code":4107,"code_pro":41,"district_en":"Thung Fon","district_th":"ทุ่งฝน"}
+    ,{"code":9406,"code_pro":94,"district_en":"Thung Yang Daeng","district_th":"ทุ่งยางแดง"}
+    ,{"code":3426,"code_pro":34,"district_en":"Thung Si Udom","district_th":"ทุ่งศรีอุดม"}
+    ,{"code":8009,"code_pro":80,"district_en":"Thung Song","district_th":"ทุ่งสง"}
+    ,{"code":9106,"code_pro":91,"district_en":"Thung Wa","district_th":"ทุ่งหว้า"}
+    ,{"code":5105,"code_pro":51,"district_en":"Thung Hua Chang","district_th":"ทุ่งหัวช้าง"}
+    ,{"code":4520,"code_pro":45,"district_en":"Thung Khao Luangกิ่","district_th":"ทุ่งเขาหลวง"}
+    ,{"code":6409,"code_pro":64,"district_en":"Thung Saliam","district_th":"ทุ่งเสลี่ยม"}
+    ,{"code":8011,"code_pro":80,"district_en":"Thung Yai","district_th":"ทุ่งใหญ่"}
+    ,{"code":4611,"code_pro":46,"district_en":"Tha Khantho","district_th":"ท่าคันโท"}
+    ,{"code":8411,"code_pro":84,"district_en":"Tha Chang","district_th":"ท่าฉาง"}
+    ,{"code":8407,"code_pro":84,"district_en":"Tha Chana","district_th":"ท่าชนะ"}
+    ,{"code":1705,"code_pro":17,"district_en":"Tha Chang","district_th":"ท่าช้าง"}
+    ,{"code":2410,"code_pro":24,"district_en":"Tha Takiap","district_th":"ท่าตะเกียบ"}
+    ,{"code":6008,"code_pro":60,"district_en":"Takhli","district_th":"ท่าตะโก"}
+    ,{"code":3203,"code_pro":32,"district_en":"Tha Tum","district_th":"ท่าตูม"}
+    ,{"code":4302,"code_pro":43,"district_en":"Tha Bo","district_th":"ท่าบ่อ"}
+    ,{"code":5303,"code_pro":53,"district_en":"Tha Pla","district_th":"ท่าปลา"}
+    ,{"code":7105,"code_pro":71,"district_en":"Tha Maka","district_th":"ท่ามะกา"}
+    ,{"code":7106,"code_pro":71,"district_en":"Tha Muang","district_th":"ท่าม่วง"}
+    ,{"code":7605,"code_pro":76,"district_en":"Tha Yang","district_th":"ท่ายาง"}
+    ,{"code":4208,"code_pro":42,"district_en":"Tha Li","district_th":"ท่าลี่"}
+    ,{"code":5506,"code_pro":55,"district_en":"Tha Wang Pha","district_th":"ท่าวังผา"}
+    ,{"code":1605,"code_pro":16,"district_en":"Tha Wung","district_th":"ท่าวุ้ง"}
+    ,{"code":8008,"code_pro":80,"district_en":"Tha Sala","district_th":"ท่าศาลา"}
+    ,{"code":6305,"code_pro":63,"district_en":"Tha Song Yang","district_th":"ท่าสองยาง"}
+    ,{"code":1607,"code_pro":16,"district_en":"Tha Luang","district_th":"ท่าหลวง"}
+    ,{"code":4803,"code_pro":48,"district_en":"Tha Uthen","district_th":"ท่าอุเทน"}
+    ,{"code":1402,"code_pro":14,"district_en":"Tha Ruea","district_th":"ท่าเรือ"}
+    ,{"code":8602,"code_pro":86,"district_en":"Tha Sae","district_th":"ท่าแซะ"}
+    ,{"code":9104,"code_pro":91,"district_en":"Tha Phae","district_th":"ท่าแพ"}
+    ,{"code":2203,"code_pro":22,"district_en":"Tha Mai","district_th":"ท่าใหม่"}
+    ,{"code":8208,"code_pro":82,"district_en":"Thai Mueang","district_th":"ท้ายเหมือง"}
+    ,{"code":1015,"code_pro":10,"district_en":"Thon Buri","district_th":"ธนบุรี"}
+    ,{"code":4505,"code_pro":45,"district_en":"Thawat Buri","district_th":"ธวัชบุรี"}
+    ,{"code":1303,"code_pro":13,"district_en":"Thanyaburi","district_th":"ธัญบุรี"}
+    ,{"code":4805,"code_pro":48,"district_en":"That Phanom","district_th":"ธาตุพนม"}
+    ,{"code":9504,"code_pro":95,"district_en":"Than To","district_th":"ธารโต"}
+    ,{"code":7303,"code_pro":73,"district_en":"Nakhon Chai Si","district_th":"นครชัยศรี"}
+    ,{"code":1403,"code_pro":14,"district_en":"Nakhon Luang","district_th":"นครหลวง"}
+    ,{"code":6502,"code_pro":65,"district_en":"Nakhon Thai","district_th":"นครไทย"}
+    ,{"code":8021,"code_pro":80,"district_en":"Nopphitam","district_th":"นบพิตำ"}
+    ,{"code":3902,"code_pro":39,"district_en":"Na Klang","district_th":"นากลาง"}
+    ,{"code":4616,"code_pro":46,"district_en":"Na Khu","district_th":"นาคู"}
+    ,{"code":3104,"code_pro":31,"district_en":"Nang Rong","district_th":"นางรอง"}
+    ,{"code":3408,"code_pro":34,"district_en":"Na Chaluai","district_th":"นาจะหลวย"}
+    ,{"code":2503,"code_pro":25,"district_en":"Na Di","district_th":"นาดี"}
+    ,{"code":4410,"code_pro":44,"district_en":"Na Dun","district_th":"นาดูน"}
+    ,{"code":4202,"code_pro":42,"district_en":"Na Duang","district_th":"นาด้วง"}
+    ,{"code":3430,"code_pro":34,"district_en":"Na Tan","district_th":"นาตาล"}
+    ,{"code":4811,"code_pro":48,"district_en":"Na Thom","district_th":"นาทม"}
+    ,{"code":9004,"code_pro":90,"district_en":"Na Thawi","district_th":"นาทวี"}
+    ,{"code":5504,"code_pro":55,"district_en":"Na Noi","district_th":"นาน้อย"}
+    ,{"code":8010,"code_pro":80,"district_en":"Na Bon","district_th":"นาบอน"}
+    ,{"code":4602,"code_pro":46,"district_en":"Na Mon","district_th":"นามน"}
+    ,{"code":2209,"code_pro":22,"district_en":"Na Yai Am","district_th":"นายายอาม"}
+    ,{"code":4122,"code_pro":41,"district_en":"Na Yung","district_th":"นายูง"}
+    ,{"code":3906,"code_pro":39,"district_en":"Na Wang","district_th":"นาวัง"}
+    ,{"code":5510,"code_pro":55,"district_en":"Na Muen","district_th":"นาหมื่น"}
+    ,{"code":9012,"code_pro":90,"district_en":"Na Mom","district_th":"นาหม่อม"}
+    ,{"code":4809,"code_pro":48,"district_en":"Na Wa","district_th":"นาหว้า"}
+    ,{"code":4407,"code_pro":44,"district_en":"Na Chueak","district_th":"นาเชือก"}
+    ,{"code":3429,"code_pro":34,"district_en":"Na Yia","district_th":"นาเยีย"}
+    ,{"code":4807,"code_pro":48,"district_en":"Na Kae","district_th":"นาแก"}
+    ,{"code":4206,"code_pro":42,"district_en":"Na Haeo","district_th":"นาแห้ว"}
+    ,{"code":3113,"code_pro":31,"district_en":"Na Pho","district_th":"นาโพธิ์"}
+    ,{"code":9208,"code_pro":92,"district_en":"Na Yong","district_th":"นาโยง"}
+    ,{"code":4902,"code_pro":49,"district_en":"Nikhom Kham Soi","district_th":"นิคมคำสร้อย"}
+    ,{"code":4707,"code_pro":47,"district_en":"Nikhom Nam Un","district_th":"นิคมน้ำอูน"}
+    ,{"code":2108,"code_pro":21,"district_en":"Nikhom Phatthana","district_th":"นิคมพัฒนา"}
+    ,{"code":3433,"code_pro":34,"district_en":"Nam Khun","district_th":"น้ำขุ่น"}
+    ,{"code":5304,"code_pro":53,"district_en":"Nam Pat","district_th":"น้ำปาด"}
+    ,{"code":4007,"code_pro":40,"district_en":"Nam Phong","district_th":"น้ำพอง"}
+    ,{"code":3409,"code_pro":34,"district_en":"Nam Yuen","district_th":"น้ำยืน"}
+    ,{"code":6709,"code_pro":67,"district_en":"Nam Nao","district_th":"น้ำหนาว"}
+    ,{"code":3315,"code_pro":33,"district_en":"Si Rattana","district_th":"น้ำเกลี้ยง"}
+    ,{"code":4118,"code_pro":41,"district_en":"Nam Som","district_th":"น้ำโสม"}
+    ,{"code":4406,"code_pro":44,"district_en":"Borabue","district_th":"บรบือ"}
+    ,{"code":6005,"code_pro":60,"district_en":"Banphot Phisai","district_th":"บรรพตพิสัย"}
+    ,{"code":9503,"code_pro":95,"district_en":"Bannang Sata","district_th":"บันนังสตา"}
+    ,{"code":3030,"code_pro":30,"district_en":"Bua Lai","district_th":"บัวลาย"}
+    ,{"code":3213,"code_pro":32,"district_en":"Buachet","district_th":"บัวเชด"}
+    ,{"code":3012,"code_pro":30,"district_en":"Bua Yai","district_th":"บัวใหญ่"}
+    ,{"code":1202,"code_pro":12,"district_en":"Bang Kruai","district_th":"บางกรวย"}
+    ,{"code":6505,"code_pro":65,"district_en":"Bang Krathum","district_th":"บางกระทุ่ม"}
+    ,{"code":9014,"code_pro":90,"district_en":"Bang Klam","district_th":"บางกล่ำ"}
+    ,{"code":1020,"code_pro":10,"district_en":"Bangkok Noi","district_th":"บางกอกน้อย"}
+    ,{"code":1016,"code_pro":10,"district_en":"Bangkok Yai","district_th":"บางกอกใหญ่"}
+    ,{"code":1006,"code_pro":10,"district_en":"Bang Kapi","district_th":"บางกะปิ"}
+    ,{"code":8017,"code_pro":80,"district_en":"Bang Khan","district_th":"บางขัน"}
+    ,{"code":1021,"code_pro":10,"district_en":"Bang Khun Thian","district_th":"บางขุนเทียน"}
+    ,{"code":7502,"code_pro":75,"district_en":"Bang Khonthi","district_th":"บางคนที"}
+    ,{"code":2402,"code_pro":24,"district_en":"Bang Khla","district_th":"บางคล้า"}
+    ,{"code":1031,"code_pro":10,"district_en":"Bang Kho Laem","district_th":"บางคอแหลม"}
+    ,{"code":1029,"code_pro":10,"district_en":"Bang Sue","district_th":"บางซื่อ"}
+    ,{"code":1413,"code_pro":14,"district_en":"Bang Sai","district_th":"บางซ้าย"}
+    ,{"code":1047,"code_pro":10,"district_en":"Bang Na","district_th":"บางนา"}
+    ,{"code":2403,"code_pro":24,"district_en":"Bang Nam Priao","district_th":"บางน้ำเปรี้ยว"}
+    ,{"code":1050,"code_pro":10,"district_en":"Bang Bon","district_th":"บางบอน"}
+    ,{"code":1204,"code_pro":12,"district_en":"Bang Bua Thong","district_th":"บางบัวทอง"}
+    ,{"code":1405,"code_pro":14,"district_en":"Bang Ban","district_th":"บางบาล"}
+    ,{"code":1102,"code_pro":11,"district_en":"Bang Bo","district_th":"บางบ่อ"}
+    ,{"code":7204,"code_pro":72,"district_en":"Bang Pla Ma","district_th":"บางปลาม้า"}
+    ,{"code":2404,"code_pro":24,"district_en":"Bang Pakong","district_th":"บางปะกง"}
+    ,{"code":1407,"code_pro":14,"district_en":"Bang Pahan","district_th":"บางปะหัน"}
+    ,{"code":1406,"code_pro":14,"district_en":"Bang Pa-in","district_th":"บางปะอิน"}
+    ,{"code":1025,"code_pro":10,"district_en":"Bang Phlat","district_th":"บางพลัด"}
+    ,{"code":1103,"code_pro":11,"district_en":"Bang Phli","district_th":"บางพลี"}
+    ,{"code":6605,"code_pro":66,"district_en":"Bang Mun Nak","district_th":"บางมูลนาก"}
+    ,{"code":6504,"code_pro":65,"district_en":"Bang Rakam","district_th":"บางระกำ"}
+    ,{"code":1702,"code_pro":17,"district_en":"Bang Rachan","district_th":"บางระจัน"}
+    ,{"code":1004,"code_pro":10,"district_en":"Bang Rak","district_th":"บางรัก"}
+    ,{"code":2004,"code_pro":20,"district_en":"Bang Lamung","district_th":"บางละมุง"}
+    ,{"code":7704,"code_pro":77,"district_en":"Bang Saphan","district_th":"บางสะพาน"}
+    ,{"code":7705,"code_pro":77,"district_en":"Bang Saphan Noi","district_th":"บางสะพานน้อย"}
+    ,{"code":1005,"code_pro":10,"district_en":"Bang Khen","district_th":"บางเขน"}
+    ,{"code":7305,"code_pro":73,"district_en":"Bang Len","district_th":"บางเลน"}
+    ,{"code":1106,"code_pro":11,"district_en":"Bang Sao Thong","district_th":"บางเสาธง"}
+    ,{"code":9309,"code_pro":93,"district_en":"Bang Kaeo","district_th":"บางแก้ว"}
+    ,{"code":1040,"code_pro":10,"district_en":"Bang Khae","district_th":"บางแค"}
+    ,{"code":7006,"code_pro":70,"district_en":"Bang Phae","district_th":"บางแพ"}
+    ,{"code":1203,"code_pro":12,"district_en":"Bang Yai","district_th":"บางใหญ่"}
+    ,{"code":1404,"code_pro":14,"district_en":"Bang Sai","district_th":"บางไทร"}
+    ,{"code":9603,"code_pro":96,"district_en":"Bacho","district_th":"บาเจาะ"}
+    ,{"code":3607,"code_pro":36,"district_en":"Bamnet Narong","district_th":"บำเหน็จณรงค์"}
+    ,{"code":1027,"code_pro":10,"district_en":"Bueng Kum","district_th":"บึงกุ่ม"}
+    ,{"code":6610,"code_pro":66,"district_en":"Bueng Na Rang","district_th":"บึงนาราง"}
+    ,{"code":3311,"code_pro":33,"district_en":"Bueng Bun","district_th":"บึงบูรพ์"}
+    ,{"code":6708,"code_pro":67,"district_en":"Bueng Sam Phan","district_th":"บึงสามพัน"}
+    ,{"code":6210,"code_pro":62,"district_en":"Bueng Samakkhi","district_th":"บึงสามัคคี"}
+    ,{"code":3806,"code_pro":38,"district_en":"Bueng Khong Long","district_th":"บึงโขงหลง"}
+    ,{"code":3410,"code_pro":34,"district_en":"Buntharik","district_th":"บุณฑริก"}
+    ,{"code":3808,"code_pro":38,"district_en":"Bung Khla","district_th":"บุ่งคล้า"}
+    ,{"code":2010,"code_pro":20,"district_en":"Bo Thong","district_th":"บ่อทอง"}
+    ,{"code":7103,"code_pro":71,"district_en":"Bo Phloi","district_th":"บ่อพลอย"}
+    ,{"code":5512,"code_pro":55,"district_en":"Bo Kluea","district_th":"บ่อเกลือ"}
+    ,{"code":2304,"code_pro":23,"district_en":"Bo Rai","district_th":"บ่อไร่"}
+    ,{"code":3108,"code_pro":31,"district_en":"Ban Kruat","district_th":"บ้านกรวด"}
+    ,{"code":7010,"code_pro":70,"district_en":"Ban Kha","district_th":"บ้านคา"}
+    ,{"code":2105,"code_pro":21,"district_en":"Ban Khai","district_th":"บ้านค่าย"}
+    ,{"code":2102,"code_pro":21,"district_en":"Ban Chang","district_th":"บ้านฉาง"}
+    ,{"code":4111,"code_pro":41,"district_en":"Ban Dung","district_th":"บ้านดุง"}
+    ,{"code":3121,"code_pro":31,"district_en":"Ban Dan","district_th":"บ้านด่าน"}
+    ,{"code":6402,"code_pro":64,"district_en":"Ban Dan Lan Hoi","district_th":"บ้านด่านลานหอย"}
+    ,{"code":6302,"code_pro":63,"district_en":"Ban Tak","district_th":"บ้านตาก"}
+    ,{"code":8409,"code_pro":84,"district_en":"Ban Ta Khun","district_th":"บ้านตาขุน"}
+    ,{"code":5107,"code_pro":51,"district_en":"Ban Thi","district_th":"บ้านธิ"}
+    ,{"code":2603,"code_pro":26,"district_en":"Ban Na","district_th":"บ้านนา"}
+    ,{"code":8412,"code_pro":84,"district_en":"Ban Na San","district_th":"บ้านนาสาร"}
+    ,{"code":8413,"code_pro":84,"district_en":"Ban Na Doem","district_th":"บ้านนาเดิม"}
+    ,{"code":2002,"code_pro":20,"district_en":"Ban Bueng","district_th":"บ้านบึง"}
+    ,{"code":4117,"code_pro":41,"district_en":"Ban Phue","district_th":"บ้านผือ"}
+    ,{"code":4002,"code_pro":40,"district_en":"Ban Fang","district_th":"บ้านฝาง"}
+    ,{"code":4710,"code_pro":47,"district_en":"Ban Muang","district_th":"บ้านม่วง"}
+    ,{"code":7606,"code_pro":76,"district_en":"Ban Lat","district_th":"บ้านลาด"}
+    ,{"code":2506,"code_pro":25,"district_en":"Ban Sang","district_th":"บ้านสร้าง"}
+    ,{"code":1906,"code_pro":19,"district_en":"Ban Mo","district_th":"บ้านหมอ"}
+    ,{"code":1606,"code_pro":16,"district_en":"Ban Mi","district_th":"บ้านหมี่"}
+    ,{"code":5503,"code_pro":55,"district_en":"Ban Luang","district_th":"บ้านหลวง"}
+    ,{"code":3602,"code_pro":36,"district_en":"Ban Khwao","district_th":"บ้านเขว้า"}
+    ,{"code":3005,"code_pro":30,"district_en":"Ban Lueam","district_th":"บ้านเหลื่อม"}
+    ,{"code":3611,"code_pro":36,"district_en":"Ban Thaen","district_th":"บ้านแท่น"}
+    ,{"code":4804,"code_pro":48,"district_en":"Ban Phaeng","district_th":"บ้านแพง"}
+    ,{"code":1416,"code_pro":14,"district_en":"Ban Phraek","district_th":"บ้านแพรก"}
+    ,{"code":7403,"code_pro":74,"district_en":"Ban Phaeo","district_th":"บ้านแพ้ว"}
+    ,{"code":7607,"code_pro":76,"district_en":"Ban Laem","district_th":"บ้านแหลม"}
+    ,{"code":4024,"code_pro":40,"district_en":"Ban Haet","district_th":"บ้านแฮด"}
+    ,{"code":5306,"code_pro":53,"district_en":"Ban Khok","district_th":"บ้านโคก"}
+    ,{"code":7005,"code_pro":70,"district_en":"Ban Pong","district_th":"บ้านโป่ง"}
+    ,{"code":2405,"code_pro":24,"district_en":"Ban Pho","district_th":"บ้านโพธิ์"}
+    ,{"code":5103,"code_pro":51,"district_en":"Ban Hong","district_th":"บ้านโฮ่ง"}
+    ,{"code":3119,"code_pro":31,"district_en":"Ban Mai Chaiyaphot","district_th":"บ้านใหม่ไชยพจน์"}
+    ,{"code":4010,"code_pro":40,"district_en":"Ban Phai","district_th":"บ้านไผ่"}
+    ,{"code":6106,"code_pro":61,"district_en":"Ban Rai","district_th":"บ้านไร่"}
+    ,{"code":5606,"code_pro":56,"district_en":"Pong","district_th":"ปง"}
+    ,{"code":4503,"code_pro":45,"district_en":"Pathum Rat","district_th":"ปทุมรัตต์"}
+    ,{"code":3703,"code_pro":37,"district_en":"Pathum Ratchawongsa","district_th":"ปทุมราชวงศา"}
+    ,{"code":1007,"code_pro":10,"district_en":"Pathum Wan","district_th":"ปทุมวัน"}
+    ,{"code":4125,"code_pro":41,"district_en":"rachak-sinlapakhom","district_th":"ประจักษ์ศิลปาคม"}
+    ,{"code":2507,"code_pro":25,"district_en":"Prachantakham","district_th":"ประจันตคาม"}
+    ,{"code":3013,"code_pro":30,"district_en":"Prathai","district_th":"ประทาย"}
+    ,{"code":1032,"code_pro":10,"district_en":"Prawet","district_th":"ประเวศ"}
+    ,{"code":3107,"code_pro":31,"district_en":"Prakhon Chai","district_th":"ประโคนชัย"}
+    ,{"code":3307,"code_pro":33,"district_en":"Prang Ku","district_th":"ปรางค์กู่"}
+    ,{"code":7706,"code_pro":77,"district_en":"Pran Buri","district_th":"ปราณบุรี"}
+    ,{"code":3205,"code_pro":32,"district_en":"Prasat","district_th":"ปราสาท"}
+    ,{"code":2106,"code_pro":21,"district_en":"Pluak Daeng","district_th":"ปลวกแดง"}
+    ,{"code":4802,"code_pro":48,"district_en":"Pla Pak","district_th":"ปลาปาก"}
+    ,{"code":8106,"code_pro":81,"district_en":"Plai Phraya","district_th":"ปลายพระยา"}
+    ,{"code":3112,"code_pro":31,"district_en":"Pakham","district_th":"ปะคำ"}
+    ,{"code":8603,"code_pro":86,"district_en":"Pathio","district_th":"ปะทิว"}
+    ,{"code":9404,"code_pro":94,"district_en":"Panare","district_th":"ปะนาเระ"}
+    ,{"code":9204,"code_pro":92,"district_en":"Palian","district_th":"ปะเหลียน"}
+    ,{"code":3014,"code_pro":30,"district_en":"Pak Thong Chai","district_th":"ปักธงชัย"}
+    ,{"code":5505,"code_pro":55,"district_en":"Pua","district_th":"ปัว"}
+    ,{"code":3805,"code_pro":38,"district_en":"Pak Khat","district_th":"ปากคาด"}
+    ,{"code":4204,"code_pro":42,"district_en":"Pak Chom","district_th":"ปากชม"}
+    ,{"code":3021,"code_pro":30,"district_en":"Pak Chong","district_th":"ปากช่อง"}
+    ,{"code":7008,"code_pro":70,"district_en":"Pak Tho","district_th":"ปากท่อ"}
+    ,{"code":8012,"code_pro":80,"district_en":"Pak Phanang","district_th":"ปากพนัง"}
+    ,{"code":2602,"code_pro":26,"district_en":"Pak Phli","district_th":"ปากพลี"}
+    ,{"code":9306,"code_pro":93,"district_en":"Pak Phayun","district_th":"ปากพะยูน"}
+    ,{"code":1206,"code_pro":12,"district_en":"Pak Kret","district_th":"ปากเกร็ด"}
+    ,{"code":5807,"code_pro":58,"district_en":"Pang Mapha","district_th":"ปางมะผ้า"}
+    ,{"code":6209,"code_pro":62,"district_en":"Pang Sila Thong","district_th":"ปางศิลาทอง"}
+    ,{"code":5803,"code_pro":58,"district_en":"Pai","district_th":"ปาย"}
+    ,{"code":5106,"code_pro":51,"district_en":"Pa Sang","district_th":"ป่าซาง"}
+    ,{"code":3505,"code_pro":35,"district_en":"Pa Tio","district_th":"ป่าติ้ว"}
+    ,{"code":9308,"code_pro":93,"district_en":"Pa Bon","district_th":"ป่าบอน"}
+    ,{"code":9310,"code_pro":93,"district_en":"Pa Phayom","district_th":"ป่าพะยอม"}
+    ,{"code":5706,"code_pro":57,"district_en":"Pa Daet","district_th":"ป่าแดด"}
+    ,{"code":1503,"code_pro":15,"district_en":"Pa Mok","district_th":"ป่าโมก"}
+    ,{"code":1008,"code_pro":10,"district_en":"Pom Prap Sattru Phai","district_th":"ป้อมปราบศัตรูพ่าย"}
+    ,{"code":1408,"code_pro":14,"district_en":"Phak Hai","district_th":"ผักไห่"}
+    ,{"code":4212,"code_pro":42,"district_en":"Pha Khao","district_th":"ผาขาว"}
+    ,{"code":5009,"code_pro":50,"district_en":"Fang","district_th":"ฝาง"}
+    ,{"code":5712,"code_pro":57,"district_en":"Phaya Mengrai","district_th":"พญาเม็งราย"}
+    ,{"code":1014,"code_pro":10,"district_en":"Phaya Thai","district_th":"พญาไท"}
+    ,{"code":8410,"code_pro":84,"district_en":"Phanom","district_th":"พนม"}
+    ,{"code":3214,"code_pro":32,"district_en":"Phanom Dong Rak","district_th":"พนมดงรัก"}
+    ,{"code":7109,"code_pro":71,"district_en":"Phanom Thuan","district_th":"พนมทวน"}
+    ,{"code":2406,"code_pro":24,"district_en":"Phanom Sarakham","district_th":"พนมสารคาม"}
+    ,{"code":4506,"code_pro":45,"district_en":"Phanom Phrai","district_th":"พนมไพร"}
+    ,{"code":2006,"code_pro":20,"district_en":"Phanat Nikhom","district_th":"พนัสนิคม"}
+    ,{"code":3704,"code_pro":37,"district_en":"Phana","district_th":"พนา"}
+    ,{"code":6307,"code_pro":63,"district_en":"Phop Phra","district_th":"พบพระ"}
+    ,{"code":4408,"code_pro":44,"district_en":"Phayakkhaphum Phisai","district_th":"พยัคฆภูมิพิสัย"}
+    ,{"code":6010,"code_pro":60,"district_en":"Phayuha Khiri","district_th":"พยุหะคีรี"}
+    ,{"code":3320,"code_pro":33,"district_en":"Phayu","district_th":"พยุห์"}
+    ,{"code":4704,"code_pro":47,"district_en":"Phanna Nikhom","district_th":"พรรณานิคม"}
+    ,{"code":8002,"code_pro":80,"district_en":"Phrom Khiri","district_th":"พรหมคีรี"}
+    ,{"code":1704,"code_pro":17,"district_en":"Phrom Buri","district_th":"พรหมบุรี"}
+    ,{"code":6506,"code_pro":65,"district_en":"Phrom Phiram","district_th":"พรหมพิราม"}
+    ,{"code":3028,"code_pro":30,"district_en":"Phra Thong Kham","district_th":"พระทองคำ"}
+    ,{"code":1001,"code_pro":10,"district_en":"Phra Nakhon","district_th":"พระนคร"}
+    ,{"code":1401,"code_pro":14,"district_en":"Phra Nakhon Si Ayutthaya","district_th":"พระนครศรีอยุธยา"}
+    ,{"code":1104,"code_pro":11,"district_en":"Phra Pradaeng","district_th":"พระประแดง"}
+    ,{"code":8020,"code_pro":80,"district_en":"Phra Phrom","district_th":"พระพรหม"}
+    ,{"code":1909,"code_pro":19,"district_en":"Phra Phutthabat","district_th":"พระพุทธบาท"}
+    ,{"code":4003,"code_pro":40,"district_en":"Phra Yuen","district_th":"พระยืน"}
+    ,{"code":1105,"code_pro":11,"district_en":"Phra Samut Chedi","district_th":"พระสมุทรเจดีย์"}
+    ,{"code":8416,"code_pro":84,"district_en":"Phrasaeng","district_th":"พระแสง"}
+    ,{"code":1009,"code_pro":10,"district_en":"Phra Khanong","district_th":"พระโขนง"}
+    ,{"code":6206,"code_pro":62,"district_en":"Phran Kratai","district_th":"พรานกระต่าย"}
+    ,{"code":3802,"code_pro":38,"district_en":"Phon Charoen","district_th":"พรเจริญ"}
+    ,{"code":5011,"code_pro":50,"district_en":"Phrao","district_th":"พร้าว"}
+    ,{"code":4012,"code_pro":40,"district_en":"Phon","district_th":"พล"}
+    ,{"code":3115,"code_pro":31,"district_en":"Phlapphla Chai","district_th":"พลับพลาชัย"}
+    ,{"code":8606,"code_pro":86,"district_en":"Phato","district_th":"พะโต๊ะ"}
+    ,{"code":4705,"code_pro":47,"district_en":"Phang Khon","district_th":"พังโคน"}
+    ,{"code":1602,"code_pro":16,"district_en":"Phatthana Nikhom","district_th":"พัฒนานิคม"}
+    ,{"code":5705,"code_pro":57,"district_en":"Phan","district_th":"พาน"}
+    ,{"code":2005,"code_pro":20,"district_en":"Phan Thong","district_th":"พานทอง"}
+    ,{"code":5307,"code_pro":53,"district_en":"Phichai","district_th":"พิชัย"}
+    ,{"code":3419,"code_pro":34,"district_en":"Phibun Mangsahan","district_th":"พิบูลมังสาหาร"}
+    ,{"code":4123,"code_pro":41,"district_en":"Phibun Rak","district_th":"พิบูลย์รักษ์"}
+    ,{"code":8005,"code_pro":80,"district_en":"Phipun","district_th":"พิปูน"}
+    ,{"code":3015,"code_pro":30,"district_en":"Phimai","district_th":"พิมาย"}
+    ,{"code":7307,"code_pro":73,"district_en":"Phutthamonthon","district_th":"พุทธมณฑล"}
+    ,{"code":3109,"code_pro":31,"district_en":"Phutthaisong","district_th":"พุทไธสง"}
+    ,{"code":8417,"code_pro":84,"district_en":"Phunphin","district_th":"พุนพิน"}
+    ,{"code":5305,"code_pro":53,"district_en":"Fak Tha","district_th":"ฟากท่า"}
+    ,{"code":3614,"code_pro":36,"district_en":"Phakdi Chumphon","district_th":"ภักดีชุมพล"}
+    ,{"code":1409,"code_pro":14,"district_en":"Phachi","district_th":"ภาชี"}
+    ,{"code":1022,"code_pro":10,"district_en":"Phasi Charoen","district_th":"ภาษีเจริญ"}
+    ,{"code":4210,"code_pro":42,"district_en":"Phu Kradueng","district_th":"ภูกระดึง"}
+    ,{"code":5609,"code_pro":56,"district_en":"Phu Kamyao","district_th":"ภูกามยาว"}
+    ,{"code":5608,"code_pro":56,"district_en":"Phu Sang","district_th":"ภูซาง"}
+    ,{"code":4020,"code_pro":40,"district_en":"Phu Pha Man","district_th":"ภูผาม่าน"}
+    ,{"code":4718,"code_pro":47,"district_en":"Phu Phan","district_th":"ภูพาน"}
+    ,{"code":3317,"code_pro":33,"district_en":"Phu Sing","district_th":"ภูสิงห์"}
+    ,{"code":4211,"code_pro":42,"district_en":"Phu Luang","district_th":"ภูหลวง"}
+    ,{"code":3610,"code_pro":36,"district_en":"Phu Khiao","district_th":"ภูเขียว"}
+    ,{"code":5514,"code_pro":55,"district_en":"Phu Phiang","district_th":"ภูเพียง"}
+    ,{"code":4207,"code_pro":42,"district_en":"Phu Ruea","district_th":"ภูเรือ"}
+    ,{"code":4016,"code_pro":40,"district_en":"Phu Wiang","district_th":"ภูเวียง"}
+    ,{"code":1911,"code_pro":19,"district_en":"Muak Lek","district_th":"มวกเหล็ก"}
+    ,{"code":3506,"code_pro":35,"district_en":"Maha Chana Chai","district_th":"มหาชนะชัย"}
+    ,{"code":1415,"code_pro":14,"district_en":"Maha Rat","district_th":"มหาราช"}
+    ,{"code":2205,"code_pro":22,"district_en":"Makham","district_th":"มะขาม"}
+    ,{"code":9107,"code_pro":91,"district_en":"Manang","district_th":"มะนัง"}
+    ,{"code":4017,"code_pro":40,"district_en":"Mancha Khiri","district_th":"มัญจาคีรี"}
+    ,{"code":9405,"code_pro":94,"district_en":"Mayo","district_th":"มายอ"}
+    ,{"code":1010,"code_pro":10,"district_en":"Min Buri","district_th":"มีนบุรี"}
+    ,{"code":1802,"code_pro":18,"district_en":"Manorom","district_th":"มโนรมย์"}
+    ,{"code":3414,"code_pro":34,"district_en":"Muang Sam Sip","district_th":"ม่วงสามสิบ"}
+    ,{"code":9410,"code_pro":94,"district_en":"Yarang","district_th":"ยะรัง"}
+    ,{"code":9409,"code_pro":94,"district_en":"Yaring","district_th":"ยะหริ่ง"}
+    ,{"code":9505,"code_pro":95,"district_en":"Yaha","district_th":"ยะหา"}
+    ,{"code":3302,"code_pro":33,"district_en":"Yang Chum Noi","district_th":"ยางชุมน้อย"}
+    ,{"code":4607,"code_pro":46,"district_en":"Yang Talat","district_th":"ยางตลาด"}
+    ,{"code":4411,"code_pro":44,"district_en":"Yang Sisurat","district_th":"ยางสีสุราช"}
+    ,{"code":1012,"code_pro":10,"district_en":"Yan Nawa","district_th":"ยานนาวา"}
+    ,{"code":9604,"code_pro":96,"district_en":"Yi-ngo","district_th":"ยี่งอ"}
+    ,{"code":9203,"code_pro":92,"district_en":"Yan Ta Khao","district_th":"ย่านตาขาว"}
+    ,{"code":9605,"code_pro":96,"district_en":"Ra-ngae","district_th":"ระแงะ"}
+    ,{"code":9007,"code_pro":90,"district_en":"Ranot","district_th":"ระโนด"}
+    ,{"code":3207,"code_pro":32,"district_en":"Rattanaburi","district_th":"รัตนบุรี"}
+    ,{"code":4316,"code_pro":43,"district_en":"Rattanawapi","district_th":"รัตนวาปี"}
+    ,{"code":9009,"code_pro":90,"district_en":"Rattaphum","district_th":"รัตภูมิ"}
+    ,{"code":9209,"code_pro":92,"district_en":"Ratsada","district_th":"รัษฎา"}
+    ,{"code":2407,"code_pro":24,"district_en":"Ratchasan","district_th":"ราชสาส์น"}
+    ,{"code":1037,"code_pro":10,"district_en":"Ratchathewi","district_th":"ราชเทวี"}
+    ,{"code":9506,"code_pro":95,"district_en":"Raman","district_th":"รามัน"}
+    ,{"code":1024,"code_pro":10,"district_en":"Rat Burana","district_th":"ราษฎร์บูรณะ"}
+    ,{"code":3309,"code_pro":33,"district_en":"Rasi Salai","district_th":"ราษีไศล"}
+    ,{"code":9606,"code_pro":96,"district_en":"Rueso","district_th":"รือเสาะ"}
+    ,{"code":4604,"code_pro":46,"district_en":"Rong Kham","district_th":"ร่องคำ"}
+    ,{"code":8013,"code_pro":80,"district_en":"Ron Phibun","district_th":"ร่อนพิบูลย์"}
+    ,{"code":5402,"code_pro":54,"district_en":"Rong Kwang","district_th":"ร้องกวาง"}
+    ,{"code":5403,"code_pro":54,"district_en":"Long","district_th":"ลอง"}
+    ,{"code":9105,"code_pro":91,"district_en":"La-ngu","district_th":"ละงู"}
+    ,{"code":3106,"code_pro":31,"district_en":"Lahan Sai","district_th":"ละหานทราย"}
+    ,{"code":8502,"code_pro":85,"district_en":"La-un","district_th":"ละอุ่น"}
+    ,{"code":8605,"code_pro":86,"district_en":"Lamae","district_th":"ละแม"}
+    ,{"code":5308,"code_pro":53,"district_en":"Laplae","district_th":"ลับแล"}
+    ,{"code":1011,"code_pro":10,"district_en":"Lat Krabang","district_th":"ลาดกระบัง"}
+    ,{"code":1410,"code_pro":14,"district_en":"Lat Bua Luang","district_th":"ลาดบัวหลวง"}
+    ,{"code":1038,"code_pro":10,"district_en":"Lat Phrao","district_th":"ลาดพร้าว"}
+    ,{"code":6011,"code_pro":60,"district_en":"Phayuha Khiri","district_th":"ลาดยาว"}
+    ,{"code":1305,"code_pro":13,"district_en":"Lat Lum Kaeo","district_th":"ลาดหลุมแก้ว"}
+    ,{"code":6207,"code_pro":62,"district_en":"Lan Krabue","district_th":"ลานกระบือ"}
+    ,{"code":8003,"code_pro":80,"district_en":"Lan Saka","district_th":"ลานสกา"}
+    ,{"code":6107,"code_pro":61,"district_en":"Lan Sak","district_th":"ลานสัก"}
+    ,{"code":3211,"code_pro":32,"district_en":"Lamduan","district_th":"ลำดวน"}
+    ,{"code":3029,"code_pro":30,"district_en":"Lam Thamenchai","district_th":"ลำทะเมนชัย"}
+    ,{"code":8107,"code_pro":81,"district_en":"Lam Thap","district_th":"ลำทับ"}
+    ,{"code":3110,"code_pro":31,"district_en":"Lam Plai Mat","district_th":"ลำปลายมาศ"}
+    ,{"code":1306,"code_pro":13,"district_en":"Lam Luk Ka","district_th":"ลำลูกกา"}
+    ,{"code":1610,"code_pro":16,"district_en":"Lam Sonthi","district_th":"ลำสนธิ"}
+    ,{"code":5104,"code_pro":51,"district_en":"Li","district_th":"ลี้"}
+    ,{"code":3707,"code_pro":37,"district_en":"Lue Amnat","district_th":"ลืออำนาจ"}
+    ,{"code":6612,"code_pro":66,"district_en":"Wachirabarami","district_th":"วชิรบารมี"}
+    ,{"code":2104,"code_pro":21,"district_en":"Wang Chan","district_th":"วังจันทร์"}
+    ,{"code":5407,"code_pro":54,"district_en":"Wang Chin","district_th":"วังชิ้น"}
+    ,{"code":6602,"code_pro":66,"district_en":"Wang Sai Phun","district_th":"วังทรายพูน"}
+    ,{"code":6508,"code_pro":65,"district_en":"Wang Thong","district_th":"วังทอง"}
+    ,{"code":1045,"code_pro":10,"district_en":"Wang Thonglang","district_th":"วังทองหลาง"}
+    ,{"code":1411,"code_pro":14,"district_en":"Wang Noi","district_th":"วังน้อย"}
+    ,{"code":3025,"code_pro":30,"district_en":"Wang Nam Khiao","district_th":"วังน้ำเขียว"}
+    ,{"code":2704,"code_pro":27,"district_en":"Wang Nam Yen","district_th":"วังน้ำเย็น"}
+    ,{"code":1912,"code_pro":19,"district_en":"Wang Muang","district_th":"วังม่วง"}
+    ,{"code":4812,"code_pro":48,"district_en":"Wang Yang","district_th":"วังยาง"}
+    ,{"code":9207,"code_pro":92,"district_en":"Wang Wiset","district_th":"วังวิเศษ"}
+    ,{"code":2709,"code_pro":27,"district_en":"Wang Sombun","district_th":"วังสมบูรณ์"}
+    ,{"code":4209,"code_pro":42,"district_en":"Wang Saphung","district_th":"วังสะพุง"}
+    ,{"code":4110,"code_pro":41,"district_en":"Wang Sam Mo","district_th":"วังสามหมอ"}
+    ,{"code":3316,"code_pro":33,"district_en":"Wang Hin","district_th":"วังหิน"}
+    ,{"code":6309,"code_pro":63,"district_en":"Wang Chao","district_th":"วังเจ้า"}
+    ,{"code":5207,"code_pro":52,"district_en":"Wang Nuea","district_th":"วังเหนือ"}
+    ,{"code":6710,"code_pro":67,"district_en":"Wang Pong","district_th":"วังโป่ง"}
+    ,{"code":1039,"code_pro":10,"district_en":"Watthana","district_th":"วัฒนา"}
+    ,{"code":2705,"code_pro":27,"district_en":"Watthana Nakhon","district_th":"วัฒนานคร"}
+    ,{"code":1803,"code_pro":18,"district_en":"Wat Sing","district_th":"วัดสิงห์"}
+    ,{"code":7009,"code_pro":70,"district_en":"Wat Phleng","district_th":"วัดเพลง"}
+    ,{"code":6507,"code_pro":65,"district_en":"Wat Bot","district_th":"วัดโบสถ์"}
+    ,{"code":4708,"code_pro":47,"district_en":"Wanon Niwat","district_th":"วานรนิวาส"}
+    ,{"code":4409,"code_pro":44,"district_en":"Wapi Pathum","district_th":"วาปีปทุม"}
+    ,{"code":4706,"code_pro":47,"district_en":"Waritchaphum","district_th":"วาริชภูมิ"}
+    ,{"code":3415,"code_pro":34,"district_en":"Warin Chamrap","district_th":"วารินชำราบ"}
+    ,{"code":8419,"code_pro":84,"district_en":"Vibhavadi","district_th":"วิภาวดี"}
+    ,{"code":1904,"code_pro":19,"district_en":"Wihan Daeng","district_th":"วิหารแดง"}
+    ,{"code":6705,"code_pro":67,"district_en":"Wichian Buri","district_th":"วิเชียรบุรี"}
+    ,{"code":1506,"code_pro":15,"district_en":"Wiset Chai Chan","district_th":"วิเศษชัยชาญ"}
+    ,{"code":3215,"code_pro":32,"district_en":"Si Narong","district_th":"ศรีณรงค์"}
+    ,{"code":4109,"code_pro":41,"district_en":"Si That","district_th":"ศรีธาตุ"}
+    ,{"code":6408,"code_pro":64,"district_en":"Si Nakhon","district_th":"ศรีนคร"}
+    ,{"code":9311,"code_pro":93,"district_en":"Srinagarindra","district_th":"ศรีนครินทร์"}
+    ,{"code":9307,"code_pro":93,"district_en":"Si Banphot","district_th":"ศรีบรรพต"}
+    ,{"code":3904,"code_pro":39,"district_en":"Si Bun Rueang","district_th":"ศรีบุญเรือง"}
+    ,{"code":7205,"code_pro":72,"district_en":"Si Prachan","district_th":"ศรีประจันต์"}
+    ,{"code":2508,"code_pro":25,"district_en":"Si Maha Phot","district_th":"ศรีมหาโพธิ"}
+    ,{"code":2509,"code_pro":25,"district_en":"Si Mahosot","district_th":"ศรีมโหสถ"}
+    ,{"code":3314,"code_pro":33,"district_en":"Si Rattana","district_th":"ศรีรัตนะ"}
+    ,{"code":2007,"code_pro":20,"district_en":"Si Racha","district_th":"ศรีราชา"}
+    ,{"code":3807,"code_pro":38,"district_en":"Si Wilai","district_th":"ศรีวิไล"}
+    ,{"code":4808,"code_pro":48,"district_en":"Si Songkhram","district_th":"ศรีสงคราม"}
+    ,{"code":4516,"code_pro":45,"district_en":"Si Somdet","district_th":"ศรีสมเด็จ"}
+    ,{"code":7104,"code_pro":71,"district_en":"Si Sawat","district_th":"ศรีสวัสดิ์"}
+    ,{"code":6405,"code_pro":64,"district_en":"Si Satchanalai","district_th":"ศรีสัชนาลัย"}
+    ,{"code":9607,"code_pro":96,"district_en":"Si Sakhon","district_th":"ศรีสาคร"}
+    ,{"code":6406,"code_pro":64,"district_en":"Si Samrong","district_th":"ศรีสำโรง"}
+    ,{"code":4307,"code_pro":43,"district_en":"Si Chiang Mai","district_th":"ศรีเชียงใหม่"}
+    ,{"code":6706,"code_pro":67,"district_en":"Si Thep","district_th":"ศรีเทพ"}
+    ,{"code":3402,"code_pro":34,"district_en":"Si Mueang Mai","district_th":"ศรีเมืองใหม่"}
+    ,{"code":3322,"code_pro":33,"district_en":"Sila Lat","district_th":"ศิลาลาด"}
+    ,{"code":3209,"code_pro":32,"district_en":"Sikhoraphum","district_th":"ศีขรภูมิ"}
+    ,{"code":3111,"code_pro":31,"district_en":"Satuek","district_th":"สตึก"}
+    ,{"code":9002,"code_pro":90,"district_en":"Sathing Phra","district_th":"สทิงพระ"}
+    ,{"code":3208,"code_pro":32,"district_en":"Sanom","district_th":"สนม"}
+    ,{"code":2408,"code_pro":24,"district_en":"Sanam Chai Khet","district_th":"สนามชัยเขต"}
+    ,{"code":5211,"code_pro":52,"district_en":"Sop Prap","district_th":"สบปราบ"}
+    ,{"code":5806,"code_pro":58,"district_en":"Sop Moei","district_th":"สบเมย"}
+    ,{"code":4613,"code_pro":46,"district_en":"Somdet","district_th":"สมเด็จ"}
+    ,{"code":1805,"code_pro":18,"district_en":"Sankhaburi","district_th":"สรรคบุรี"}
+    ,{"code":1804,"code_pro":18,"district_en":"Sapphaya","district_th":"สรรพยา"}
+    ,{"code":1608,"code_pro":16,"district_en":"Sa Bot","district_th":"สระโบสถ์"}
+    ,{"code":4314,"code_pro":43,"district_en":"Sakhrai","district_th":"สระใคร"}
+    ,{"code":4120,"code_pro":41,"district_en":"Sang Khom","district_th":"สร้างคอม"}
+    ,{"code":7003,"code_pro":70,"district_en":"Suan Phueng","district_th":"สวนผึ้ง"}
+    ,{"code":1034,"code_pro":10,"district_en":"Suan Luang","district_th":"สวนหลวง"}
+    ,{"code":6407,"code_pro":64,"district_en":"Sawankhalok","district_th":"สวรรคโลก"}
+    ,{"code":8607,"code_pro":86,"district_en":"Sawi","district_th":"สวี"}
+    ,{"code":3432,"code_pro":34,"district_en":"Sawang Wirawong","district_th":"สว่างวีระวงศ์"}
+    ,{"code":6103,"code_pro":61,"district_en":"Sawang Arom","district_th":"สว่างอารมณ์"}
+    ,{"code":4712,"code_pro":47,"district_en":"Sawang Daen Din","district_th":"สว่างแดนดิน"}
+    ,{"code":4609,"code_pro":46,"district_en":"Sahatsakhan","district_th":"สหัสขันธ์"}
+    ,{"code":5406,"code_pro":54,"district_en":"Song","district_th":"สอง"}
+    ,{"code":7207,"code_pro":72,"district_en":"Song Phi Nong","district_th":"สองพี่น้อง"}
+    ,{"code":5513,"code_pro":55,"district_en":"Song Khwae","district_th":"สองแคว"}
+    ,{"code":2207,"code_pro":22,"district_en":"Soi Dao","district_th":"สอยดาว"}
+    ,{"code":9006,"code_pro":90,"district_en":"Saba Yoi","district_th":"สะบ้าย้อย"}
+    ,{"code":1044,"code_pro":10,"district_en":"Saphan Sung","district_th":"สะพานสูง"}
+    ,{"code":9010,"code_pro":90,"district_en":"Sadao","district_th":"สะเดา"}
+    ,{"code":5008,"code_pro":50,"district_en":"Samoeng","district_th":"สะเมิง"}
+    ,{"code":7108,"code_pro":71,"district_en":"Sangkhla Buri","district_th":"สังขละบุรี"}
+    ,{"code":3210,"code_pro":32,"district_en":"Sangkha","district_th":"สังขะ"}
+    ,{"code":4308,"code_pro":43,"district_en":"Sangkhom","district_th":"สังคม"}
+    ,{"code":2009,"code_pro":20,"district_en":"Sattahip","district_th":"สัตหีบ"}
+    ,{"code":5013,"code_pro":50,"district_en":"San Kamphaeng","district_th":"สันกำแพง"}
+    ,{"code":5511,"code_pro":55,"district_en":"Santi Suk","district_th":"สันติสุข"}
+    ,{"code":5014,"code_pro":50,"district_en":"San Sai","district_th":"สันทราย"}
+    ,{"code":5012,"code_pro":50,"district_en":"San Pa Tong","district_th":"สันป่าตอง"}
+    ,{"code":1013,"code_pro":10,"district_en":"Samphanthawong","district_th":"สัมพันธวงศ์"}
+    ,{"code":6609,"code_pro":66,"district_en":"Sak Lek","district_th":"สากเหล็ก"}
+    ,{"code":1028,"code_pro":10,"district_en":"Sathon","district_th":"สาทร"}
+    ,{"code":6607,"code_pro":66,"district_en":"Sam Ngam","district_th":"สามง่าม"}
+    ,{"code":4615,"code_pro":46,"district_en":"Sam Chai","district_th":"สามชัย"}
+    ,{"code":7208,"code_pro":72,"district_en":"Sam Chuk","district_th":"สามชุก"}
+    ,{"code":7306,"code_pro":73,"district_en":"Sam Phran","district_th":"สามพราน"}
+    ,{"code":7708,"code_pro":77,"district_en":"Sam Roi Yot","district_th":"สามร้อยยอด"}
+    ,{"code":6303,"code_pro":63,"district_en":"Sam Ngao","district_th":"สามเงา"}
+    ,{"code":1507,"code_pro":15,"district_en":"Samko","district_th":"สามโก้"}
+    ,{"code":1307,"code_pro":13,"district_en":"Sam Khok","district_th":"สามโคก"}
+    ,{"code":9407,"code_pro":94,"district_en":"Sai Buri","district_th":"สายบุรี"}
+    ,{"code":1042,"code_pro":10,"district_en":"Sai Mai","district_th":"สายไหม"}
+    ,{"code":5019,"code_pro":50,"district_en":"Saraphi","district_th":"สารภี"}
+    ,{"code":3422,"code_pro":34,"district_en":"Samrong","district_th":"สำโรง"}
+    ,{"code":3212,"code_pro":32,"district_en":"Samrong Thap","district_th":"สำโรงทาบ"}
+    ,{"code":9015,"code_pro":90,"district_en":"Singhanakhon","district_th":"สิงหนคร"}
+    ,{"code":8014,"code_pro":80,"district_en":"Sichon","district_th":"สิชล"}
+    ,{"code":3425,"code_pro":34,"district_en":"Sirindhorn","district_th":"สิรินธร"}
+    ,{"code":9205,"code_pro":92,"district_en":"Sikao","district_th":"สิเกา"}
+    ,{"code":3020,"code_pro":30,"district_en":"Sikhio","district_th":"สีคิ้ว"}
+    ,{"code":4006,"code_pro":40,"district_en":"Si Chomphu","district_th":"สีชมพู"}
+    ,{"code":3031,"code_pro":30,"district_en":"Sida","district_th":"สีดา"}
+    ,{"code":8505,"code_pro":85,"district_en":"Suk Samran","district_th":"สุขสำราญ"}
+    ,{"code":9609,"code_pro":96,"district_en":"Sukhirin","district_th":"สุคิริน"}
+    ,{"code":3905,"code_pro":39,"district_en":"Suwannakhuha","district_th":"สุวรรณคูหา"}
+    ,{"code":4511,"code_pro":45,"district_en":"Suwannaphum","district_th":"สุวรรณภูมิ"}
+    ,{"code":9611,"code_pro":96,"district_en":"Su-ngai Padi","district_th":"สุไหงปาดี"}
+    ,{"code":9610,"code_pro":96,"district_en":"Su-ngai Kolok","district_th":"สุไหงโก-ลก"}
+    ,{"code":3018,"code_pro":30,"district_en":"Sung Noen","district_th":"สูงเนิน"}
+    ,{"code":5404,"code_pro":54,"district_en":"Sung Men","district_th":"สูงเม่น"}
+    ,{"code":4713,"code_pro":47,"district_en":"Song Dao","district_th":"ส่องดาว"}
+    ,{"code":3105,"code_pro":31,"district_en":"Nong Ki","district_th":"หนองกี่"}
+    ,{"code":4612,"code_pro":46,"district_en":"Nong Kung Si","district_th":"หนองกุงศรี"}
+    ,{"code":6105,"code_pro":61,"district_en":"Nong Khayang","district_th":"หนองขาหย่าง"}
+    ,{"code":1003,"code_pro":10,"district_en":"Nong Chok","district_th":"หนองจอก"}
+    ,{"code":9403,"code_pro":94,"district_en":"Nong Chik","district_th":"หนองจิก"}
+    ,{"code":6104,"code_pro":61,"district_en":"Nong Chang","district_th":"หนองฉาง"}
+    ,{"code":4023,"code_pro":40,"district_en":"Nong Na Kham","district_th":"หนองนาคำ"}
+    ,{"code":6004,"code_pro":60,"district_en":"Nong Bua","district_th":"หนองบัว"}
+    ,{"code":3608,"code_pro":36,"district_en":"Nong Bua Rawe","district_th":"หนองบัวระเหว"}
+    ,{"code":3605,"code_pro":36,"district_en":"Nong Bua Daeng","district_th":"หนองบัวแดง"}
+    ,{"code":3022,"code_pro":30,"district_en":"Nong Bunnak","district_th":"หนองบุญมาก"}
+    ,{"code":7112,"code_pro":71,"district_en":"Nong Prue","district_th":"หนองปรือ"}
+    ,{"code":4509,"code_pro":45,"district_en":"Nong Phok","district_th":"หนองพอก"}
+    ,{"code":1807,"code_pro":18,"district_en":"Nong Mamong","district_th":"หนองมะโมง"}
+    ,{"code":1611,"code_pro":16,"district_en":"Nong Muang","district_th":"หนองม่วง"}
+    ,{"code":5408,"code_pro":54,"district_en":"Nong Muang Khai","district_th":"หนองม่วงไข่"}
+    ,{"code":4103,"code_pro":41,"district_en":"Nong Wua So","district_th":"หนองวัวซอ"}
+    ,{"code":4015,"code_pro":40,"district_en":"Nong Song Hong","district_th":"หนองสองห้อง"}
+    ,{"code":4907,"code_pro":49,"district_en":"Nong Sung","district_th":"หนองสูง"}
+    ,{"code":3114,"code_pro":31,"district_en":"Nong Hong","district_th":"หนองหงส์"}
+    ,{"code":7603,"code_pro":76,"district_en":"Nong Ya Plong","district_th":"หนองหญ้าปล้อง"}
+    ,{"code":7210,"code_pro":72,"district_en":"Nong Ya Sai","district_th":"หนองหญ้าไซ"}
+    ,{"code":4106,"code_pro":41,"district_en":"Nong Han","district_th":"หนองหาน"}
+    ,{"code":4214,"code_pro":42,"district_en":"Nong Hin","district_th":"หนองหิน"}
+    ,{"code":4519,"code_pro":45,"district_en":"Nong Hi","district_th":"หนองฮี"}
+    ,{"code":4004,"code_pro":40,"district_en":"Nong Ruea","district_th":"หนองเรือ"}
+    ,{"code":1304,"code_pro":13,"district_en":"Nong Suea","district_th":"หนองเสือ"}
+    ,{"code":1023,"code_pro":10,"district_en":"Nong Khaem","district_th":"หนองแขม"}
+    ,{"code":1903,"code_pro":19,"district_en":"Nong Khae","district_th":"หนองแค"}
+    ,{"code":1905,"code_pro":19,"district_en":"Nong Saeng","district_th":"หนองแซง"}
+    ,{"code":4121,"code_pro":41,"district_en":"Nong Saeng","district_th":"หนองแสง"}
+    ,{"code":1908,"code_pro":19,"district_en":"Nong Don","district_th":"หนองโดน"}
+    ,{"code":2003,"code_pro":20,"district_en":"Nong Yai","district_th":"หนองใหญ่"}
+    ,{"code":6707,"code_pro":67,"district_en":"Nong Phai","district_th":"หนองไผ่"}
+    ,{"code":1041,"code_pro":10,"district_en":"Lak Si","district_th":"หลักสี่"}
+    ,{"code":8604,"code_pro":86,"district_en":"Lang Suan","district_th":"หลังสวน"}
+    ,{"code":6703,"code_pro":67,"district_en":"Lom Sak","district_th":"หล่มสัก"}
+    ,{"code":6704,"code_pro":67,"district_en":"Lom Kao","district_th":"หล่มเก่า"}
+    ,{"code":4906,"code_pro":49,"district_en":"Wan Yai","district_th":"หว้านใหญ่"}
+    ,{"code":1806,"code_pro":18,"district_en":"Hankha","district_th":"หันคา"}
+    ,{"code":3706,"code_pro":37,"district_en":"Hua Taphan","district_th":"หัวตะพาน"}
+    ,{"code":7707,"code_pro":77,"district_en":"Hua Hin","district_th":"หัวหิน"}
+    ,{"code":8016,"code_pro":80,"district_en":"Hua Sai","district_th":"หัวไทร"}
+    ,{"code":5015,"code_pro":50,"district_en":"Hang Dong","district_th":"หางดง"}
+    ,{"code":9210,"code_pro":92,"district_en":"Hat Samran","district_th":"หาดสำราญ"}
+    ,{"code":9011,"code_pro":90,"district_en":"Hat Yai","district_th":"หาดใหญ่"}
+    ,{"code":7113,"code_pro":71,"district_en":"Huai Krachao","district_th":"ห้วยกระเจา"}
+    ,{"code":1017,"code_pro":10,"district_en":"Huai Khwang","district_th":"ห้วยขวาง"}
+    ,{"code":6108,"code_pro":61,"district_en":"Huai Khot","district_th":"ห้วยคต"}
+    ,{"code":3312,"code_pro":33,"district_en":"Huai Thap Than","district_th":"ห้วยทับทัน"}
+    ,{"code":4614,"code_pro":46,"district_en":"Huai Phueng","district_th":"ห้วยผึ้ง"}
+    ,{"code":9206,"code_pro":92,"district_en":"Huai Yot","district_th":"ห้วยยอด"}
+    ,{"code":3116,"code_pro":31,"district_en":"Huai Rat","district_th":"ห้วยราช"}
+    ,{"code":4608,"code_pro":46,"district_en":"Huai Mek","district_th":"ห้วยเม็ก"}
+    ,{"code":3016,"code_pro":30,"district_en":"Huai Thalaeng","district_th":"ห้วยแถลง"}
+    ,{"code":5212,"code_pro":52,"district_en":"Hang Chat","district_th":"ห้างฉัตร"}
+    ,{"code":2604,"code_pro":26,"district_en":"Ongkharak","district_th":"องครักษ์"}
+    ,{"code":5018,"code_pro":50,"district_en":"Omkoi","district_th":"อมก๋อย"}
+    ,{"code":2706,"code_pro":27,"district_en":"Aranyaprathet","district_th":"อรัญประเทศ"}
+    ,{"code":7503,"code_pro":75,"district_en":"Amphawa","district_th":"อัมพวา"}
+    ,{"code":4711,"code_pro":47,"district_en":"Akat Amnuai","district_th":"อากาศอำนวย"}
+    ,{"code":4514,"code_pro":45,"district_en":"At Samat","district_th":"อาจสามารถ"}
+    ,{"code":1706,"code_pro":17,"district_en":"In Buri","district_th":"อินทร์บุรี"}
+    ,{"code":1414,"code_pro":14,"district_en":"Uthai","district_th":"อุทัย"}
+    ,{"code":3310,"code_pro":33,"district_en":"Uthumphon Phisai","district_th":"อุทุมพรพิสัย"}
+    ,{"code":4008,"code_pro":40,"district_en":"Ubolratana","district_th":"อุบลรัตน์"}
+    ,{"code":6308,"code_pro":63,"district_en":"Umphang","district_th":"อุ้มผาง"}
+    ,{"code":7209,"code_pro":72,"district_en":"U Thong","district_th":"อู่ทอง"}
+    ,{"code":8105,"code_pro":81,"district_en":"Ao Luek","district_th":"อ่าวลึก"}
+    ,{"code":5016,"code_pro":50,"district_en":"Hot","district_th":"ฮอด"}
+    ,{"code":4502,"code_pro":45,"district_en":"Kaset Wisai","district_th":"เกษตรวิสัย"}
+    ,{"code":3604,"code_pro":36,"district_en":"Kaset Sombun","district_th":"เกษตรสมบูรณ์"}
+    ,{"code":2306,"code_pro":23,"district_en":"Ko Kut","district_th":"เกาะกูด"}
+    ,{"code":5203,"code_pro":52,"district_en":"Ko Kha","district_th":"เกาะคา"}
+    ,{"code":2011,"code_pro":20,"district_en":"Ko Chan","district_th":"เกาะจันทร์"}
+    ,{"code":2307,"code_pro":23,"district_en":"Ko Chang","district_th":"เกาะช้าง"}
+    ,{"code":8405,"code_pro":84,"district_en":"Ko Pha-ngan","district_th":"เกาะพะงัน"}
+    ,{"code":8202,"code_pro":82,"district_en":"Ko Yao","district_th":"เกาะยาว"}
+    ,{"code":8103,"code_pro":81,"district_en":"Ko Lanta","district_th":"เกาะลันตา"}
+    ,{"code":8404,"code_pro":84,"district_en":"Ko Samui","district_th":"เกาะสมุย"}
+    ,{"code":2008,"code_pro":20,"district_en":"Ko Sichang","district_th":"เกาะสีชัง"}
+    ,{"code":6006,"code_pro":60,"district_en":"Kao Liao","district_th":"เก้าเลี้ยว"}
+    ,{"code":3405,"code_pro":34,"district_en":"Khemarat","district_th":"เขมราฐ"}
+    ,{"code":3216,"code_pro":32,"district_en":"Khwao Sinarin","district_th":"เขวาสินรินทร์"}
+    ,{"code":2210,"code_pro":22,"district_en":"Khoa Khitchakut","district_th":"เขาคิชฌกูฏ"}
+    ,{"code":6711,"code_pro":67,"district_en":"Khao Kho","district_th":"เขาค้อ"}
+    ,{"code":2707,"code_pro":27,"district_en":"Khao Chakan","district_th":"เขาฉกรรจ์"}
+    ,{"code":2107,"code_pro":21,"district_en":"Khao Chamao","district_th":"เขาชะเมา"}
+    ,{"code":9303,"code_pro":93,"district_en":"Khao Chaison","district_th":"เขาชัยสน"}
+    ,{"code":8102,"code_pro":81,"district_en":"Khao Phanom","district_th":"เขาพนม"}
+    ,{"code":7602,"code_pro":76,"district_en":"Khao Yoi","district_th":"เขาย้อย"}
+    ,{"code":4606,"code_pro":46,"district_en":"Khao Wong","district_th":"เขาวง"}
+    ,{"code":2303,"code_pro":23,"district_en":"Khao Saming","district_th":"เขาสมิง"}
+    ,{"code":4019,"code_pro":40,"district_en":"Khao Suan Kwang","district_th":"เขาสวนกวาง"}
+    ,{"code":3404,"code_pro":34,"district_en":"Khueang Nai","district_th":"เขื่องใน"}
+    ,{"code":8414,"code_pro":84,"district_en":"Khian Sa","district_th":"เคียนซา"}
+    ,{"code":4716,"code_pro":47,"district_en":"Charoen Sin","district_th":"เจริญศิลป์"}
+    ,{"code":9613,"code_pro":96,"district_en":"Cho-airong","district_th":"เจาะไอร้อง"}
+    ,{"code":8023,"code_pro":80,"district_en":"Chaloem Phra Kiat","district_th":"เฉลิมพระเกียรติ"}
+    ,{"code":1913,"code_pro":19,"district_en":"Chaloem Phra Kiat","district_th":"เฉลิมพระเกียรติ"}
+    ,{"code":3032,"code_pro":30,"district_en":"Chaloem Phra Kiat","district_th":"เฉลิมพระเกียรติ"}
+    ,{"code":3123,"code_pro":31,"district_en":"Chaloem Phra Kiat","district_th":"เฉลิมพระเกียรติ"}
+    ,{"code":5515,"code_pro":55,"district_en":"Chaloem Phra Kiat","district_th":"เฉลิมพระเกียรติ"}
+    ,{"code":5509,"code_pro":55,"district_en":"Chiang Klang","district_th":"เชียงกลาง"}
+    ,{"code":4518,"code_pro":45,"district_en":"Chiang Khwan","district_th":"เชียงขวัญ"}
+    ,{"code":5703,"code_pro":57,"district_en":"Chiang Khong","district_th":"เชียงของ"}
+    ,{"code":4203,"code_pro":42,"district_en":"Chiang Khan","district_th":"เชียงคาน"}
+    ,{"code":5603,"code_pro":56,"district_en":"Chiang Kham","district_th":"เชียงคำ"}
+    ,{"code":5004,"code_pro":50,"district_en":"Chiang Dao","district_th":"เชียงดาว"}
+    ,{"code":5604,"code_pro":56,"district_en":"Chiang Muan","district_th":"เชียงม่วน"}
+    ,{"code":4405,"code_pro":44,"district_en":"Kantharawichai","district_th":"เชียงยืน"}
+    ,{"code":5708,"code_pro":57,"district_en":"Chiang Saen","district_th":"เชียงแสน"}
+    ,{"code":8006,"code_pro":80,"district_en":"Chian Yai","district_th":"เชียรใหญ่"}
+    ,{"code":3804,"code_pro":38,"district_en":"Seka","district_th":"เซกา"}
+    ,{"code":3407,"code_pro":34,"district_en":"Det Udom","district_th":"เดชอุดม"}
+    ,{"code":7202,"code_pro":72,"district_en":"Doem Bang Nang Buat","district_th":"เดิมบางนางบวช"}
+    ,{"code":5405,"code_pro":54,"district_en":"Den Chai","district_th":"เด่นชัย"}
+    ,{"code":4714,"code_pro":47,"district_en":"Tao Ngoi","district_th":"เต่างอย"}
+    ,{"code":5208,"code_pro":52,"district_en":"Thoen","district_th":"เถิน"}
+    ,{"code":3609,"code_pro":36,"district_en":"Thep Sathit","district_th":"เทพสถิต"}
+    ,{"code":9005,"code_pro":90,"district_en":"Thepha","district_th":"เทพา"}
+    ,{"code":3026,"code_pro":30,"district_en":"Thepharak","district_th":"เทพารักษ์"}
+    ,{"code":5704,"code_pro":57,"district_en":"Thoeng","district_th":"เทิง"}
+    ,{"code":1808,"code_pro":18,"district_en":"Noen Kham","district_th":"เนินขาม"}
+    ,{"code":6509,"code_pro":65,"district_en":"Noen Maprang","district_th":"เนินมะปราง"}
+    ,{"code":3615,"code_pro":36,"district_en":"Noen Sa-nga","district_th":"เนินสง่า"}
+    ,{"code":3319,"code_pro":33,"district_en":"Benchalak","district_th":"เบญจลักษ์"}
+    ,{"code":9502,"code_pro":95,"district_en":"Betong","district_th":"เบตง"}
+    ,{"code":4011,"code_pro":40,"district_en":"Pueai Noi","district_th":"เปือยน้อย"}
+    ,{"code":4315,"code_pro":43,"district_en":"Fao Rai","district_th":"เฝ้าไร่"}
+    ,{"code":4119,"code_pro":41,"district_en":"Phen","district_th":"เพ็ญ"}
+    ,{"code":4515,"code_pro":45,"district_en":"Moei Wadi","district_th":"เมยวดี"}
+    ,{"code":8101,"code_pro":81,"district_en":"Mueang Krabi","district_th":"เมืองกระบี่"}
+    ,{"code":7101,"code_pro":71,"district_en":"Mueang Kanchanaburi","district_th":"เมืองกาญจนบุรี"}
+    ,{"code":4601,"code_pro":46,"district_en":"Mueang Kalasin","district_th":"เมืองกาฬสินธุ์"}
+    ,{"code":6201,"code_pro":62,"district_en":"Mueang Kamphaeng Phet","district_th":"เมืองกำแพงเพชร"}
+    ,{"code":4001,"code_pro":40,"district_en":"Mueang Khon Kaen","district_th":"เมืองขอนแก่น"}
+    ,{"code":2201,"code_pro":22,"district_en":"Mueang Chanthaburi","district_th":"เมืองจันทบุรี"}
+    ,{"code":3318,"code_pro":33,"district_en":"Mueang Chan","district_th":"เมืองจันทร์"}
+    ,{"code":2401,"code_pro":24,"district_en":"Mueang Chachoengsao","district_th":"เมืองฉะเชิงเทรา"}
+    ,{"code":2001,"code_pro":20,"district_en":"Mueang Chon Buri","district_th":"เมืองชลบุรี"}
+    ,{"code":1801,"code_pro":18,"district_en":"Mueang Chai Nat","district_th":"เมืองชัยนาท"}
+    ,{"code":3601,"code_pro":36,"district_en":"Mueang Chaiyaphum","district_th":"เมืองชัยภูมิ"}
+    ,{"code":8601,"code_pro":86,"district_en":"Mueang Chumphon","district_th":"เมืองชุมพร"}
+    ,{"code":9201,"code_pro":92,"district_en":"Mueang Trang","district_th":"เมืองตรัง"}
+    ,{"code":2301,"code_pro":23,"district_en":"Mueang Trat","district_th":"เมืองตราด"}
+    ,{"code":6301,"code_pro":63,"district_en":"Mueang Tak","district_th":"เมืองตาก"}
+    ,{"code":2601,"code_pro":26,"district_en":"Mueang Nakhon Nayok","district_th":"เมืองนครนายก"}
+    ,{"code":7301,"code_pro":73,"district_en":"Mueang Nakhon Pathom","district_th":"เมืองนครปฐม"}
+    ,{"code":4801,"code_pro":48,"district_en":"Mueang Nakhon Phanom","district_th":"เมืองนครพนม"}
+    ,{"code":3001,"code_pro":30,"district_en":"Mueang Nakhon Ratchasima","district_th":"เมืองนครราชสีมา"}
+    ,{"code":8001,"code_pro":80,"district_en":"Mueang Nakhon Si Thammarat","district_th":"เมืองนครศรีธรรมราช"}
+    ,{"code":6001,"code_pro":60,"district_en":"Mueang Nakhon Sawan","district_th":"เมืองนครสวรรค์"}
+    ,{"code":1201,"code_pro":12,"district_en":"Mueang Nonthaburi","district_th":"เมืองนนทบุรี"}
+    ,{"code":9601,"code_pro":96,"district_en":"Mueang Narathiwat","district_th":"เมืองนราธิวาส"}
+    ,{"code":5501,"code_pro":55,"district_en":"Mueang Nan","district_th":"เมืองน่าน"}
+    ,{"code":3801,"code_pro":38,"district_en":"Mueang Bueng Kan","district_th":"เมืองบึงกาฬ"}
+    ,{"code":3101,"code_pro":31,"district_en":"Mueang Buri Ram","district_th":"เมืองบุรีรัมย์"}
+    ,{"code":1301,"code_pro":13,"district_en":"Mueang Pathum Thani","district_th":"เมืองปทุมธานี"}
+    ,{"code":7701,"code_pro":77,"district_en":"Mueang Prachuap Khiri Khan","district_th":"เมืองประจวบคีรีขันธ์"}
+    ,{"code":2501,"code_pro":25,"district_en":"Mueang Prachin Buri","district_th":"เมืองปราจีนบุรี"}
+    ,{"code":9401,"code_pro":94,"district_en":"Mueang Pattani","district_th":"เมืองปัตตานี"}
+    ,{"code":5213,"code_pro":52,"district_en":"Mueang Pan","district_th":"เมืองปาน"}
+    ,{"code":5601,"code_pro":56,"district_en":"Mueang Phayao","district_th":"เมืองพะเยา"}
+    ,{"code":8201,"code_pro":82,"district_en":"Mueang Phang-nga","district_th":"เมืองพังงา"}
+    ,{"code":9301,"code_pro":93,"district_en":"Mueang Phatthalung","district_th":"เมืองพัทลุง"}
+    ,{"code":6601,"code_pro":66,"district_en":"Mueang Phichit","district_th":"เมืองพิจิตร"}
+    ,{"code":6501,"code_pro":65,"district_en":"Mueang Phitsanulok","district_th":"เมืองพิษณุโลก"}
+    ,{"code":8301,"code_pro":83,"district_en":"Mueang Phuket","district_th":"เมืองภูเก็ต"}
+    ,{"code":4401,"code_pro":44,"district_en":"Mueang Maha Sarakham","district_th":"เมืองมหาสารคาม"}
+    ,{"code":4901,"code_pro":49,"district_en":"Mueang Mukdahan","district_th":"เมืองมุกดาหาร"}
+    ,{"code":9501,"code_pro":95,"district_en":"Mueang Yala","district_th":"เมืองยะลา"}
+    ,{"code":3027,"code_pro":30,"district_en":"Mueang Yang","district_th":"เมืองยาง"}
+    ,{"code":3501,"code_pro":35,"district_en":"Mueang Yasothon","district_th":"เมืองยโสธร"}
+    ,{"code":8501,"code_pro":85,"district_en":"Mueang Ranong","district_th":"เมืองระนอง"}
+    ,{"code":2101,"code_pro":21,"district_en":"Mueang Rayong","district_th":"เมืองระยอง"}
+    ,{"code":7001,"code_pro":70,"district_en":"Mueang Ratchaburi","district_th":"เมืองราชบุรี"}
+    ,{"code":4501,"code_pro":45,"district_en":"Mueang Roi Et","district_th":"เมืองร้อยเอ็ด"}
+    ,{"code":1601,"code_pro":16,"district_en":"Mueang Lop Buri","district_th":"เมืองลพบุรี"}
+    ,{"code":5201,"code_pro":52,"district_en":"Mueang Lampang","district_th":"เมืองลำปาง"}
+    ,{"code":5101,"code_pro":51,"district_en":"Mueang Lamphun","district_th":"เมืองลำพูน"}
+    ,{"code":3301,"code_pro":33,"district_en":"Mueang Si Sa Ket","district_th":"เมืองศรีสะเกษ"}
+    ,{"code":4701,"code_pro":47,"district_en":"Mueang Sakon Nakhon","district_th":"เมืองสกลนคร"}
+    ,{"code":9001,"code_pro":90,"district_en":"Mueang Songkhla","district_th":"เมืองสงขลา"}
+    ,{"code":9101,"code_pro":91,"district_en":"Mueang Satun","district_th":"เมืองสตูล"}
+    ,{"code":1101,"code_pro":11,"district_en":"Mueang Samut Prakan","district_th":"เมืองสมุทรปราการ"}
+    ,{"code":7501,"code_pro":75,"district_en":"Mueang Samut Songkhram","district_th":"เมืองสมุทรสงคราม"}
+    ,{"code":7401,"code_pro":74,"district_en":"Mueang Samut Sakhon","district_th":"เมืองสมุทรสาคร"}
+    ,{"code":4512,"code_pro":45,"district_en":"Mueang Suang","district_th":"เมืองสรวง"}
+    ,{"code":1901,"code_pro":19,"district_en":"Mueang Saraburi","district_th":"เมืองสระบุรี"}
+    ,{"code":2701,"code_pro":27,"district_en":"Mueang Sa Kaeo","district_th":"เมืองสระแก้ว"}
+    ,{"code":1701,"code_pro":17,"district_en":"Mueang Sing Buri","district_th":"เมืองสิงห์บุรี"}
+    ,{"code":7201,"code_pro":72,"district_en":"Mueang Suphan Buri","district_th":"เมืองสุพรรณบุรี"}
+    ,{"code":8401,"code_pro":84,"district_en":"Mueang Surat Thani","district_th":"เมืองสุราษฎร์ธานี"}
+    ,{"code":3201,"code_pro":32,"district_en":"Mueang Surin","district_th":"เมืองสุรินทร์"}
+    ,{"code":6401,"code_pro":64,"district_en":"Mueang Sukhothai","district_th":"เมืองสุโขทัย"}
+    ,{"code":4301,"code_pro":43,"district_en":"Mueang Nong Khai","district_th":"เมืองหนองคาย"}
+    ,{"code":3901,"code_pro":39,"district_en":"Mueang Nong Bua Lam Phu","district_th":"เมืองหนองบัวลำภู"}
+    ,{"code":3701,"code_pro":37,"district_en":"Mueang Amnat Charoen","district_th":"เมืองอำนาจเจริญ"}
+    ,{"code":4101,"code_pro":41,"district_en":"Mueang Udon Thani","district_th":"เมืองอุดรธานี"}
+    ,{"code":5301,"code_pro":53,"district_en":"Mueang Uttaradit","district_th":"เมืองอุตรดิตถ์"}
+    ,{"code":6101,"code_pro":61,"district_en":"Mueang Uthai Thani","district_th":"เมืองอุทัยธานี"}
+    ,{"code":3401,"code_pro":34,"district_en":"Mueang Ubon Ratchathani","district_th":"เมืองอุบลราชธานี"}
+    ,{"code":1501,"code_pro":15,"district_en":"Mueang Ang Thong","district_th":"เมืองอ่างทอง"}
+    ,{"code":5701,"code_pro":57,"district_en":"Mueang Chiang Rai","district_th":"เมืองเชียงราย"}
+    ,{"code":5001,"code_pro":50,"district_en":"Mueang Chiang Mai","district_th":"เมืองเชียงใหม่"}
+    ,{"code":7601,"code_pro":76,"district_en":"Mueang Phetchaburi","district_th":"เมืองเพชรบุรี"}
+    ,{"code":6701,"code_pro":67,"district_en":"Mueang Phetchabun","district_th":"เมืองเพชรบูรณ์"}
+    ,{"code":4201,"code_pro":42,"district_en":"Mueang Loei","district_th":"เมืองเลย"}
+    ,{"code":5401,"code_pro":54,"district_en":"Mueang Phrae","district_th":"เมืองแพร่"}
+    ,{"code":5801,"code_pro":58,"district_en":"Mueang Mae Hong Son","district_th":"เมืองแม่ฮ่องสอน"}
+    ,{"code":4806,"code_pro":48,"district_en":"Renu Nakhon","district_th":"เรณูนคร"}
+    ,{"code":7110,"code_pro":71,"district_en":"Lao Khwan","district_th":"เลาขวัญ"}
+    ,{"code":3508,"code_pro":35,"district_en":"Loeng Nok Tha","district_th":"เลิงนกทา"}
+    ,{"code":5702,"code_pro":57,"district_en":"Wiang Chai","district_th":"เวียงชัย"}
+    ,{"code":5711,"code_pro":57,"district_en":"Wiang Pa Pao","district_th":"เวียงป่าเป้า"}
+    ,{"code":8415,"code_pro":84,"district_en":"Wiang Sa","district_th":"เวียงสระ"}
+    ,{"code":5507,"code_pro":55,"district_en":"Wiang Sa","district_th":"เวียงสา"}
+    ,{"code":5108,"code_pro":51,"district_en":"Wiang Nong Long","district_th":"เวียงหนองล่อง"}
+    ,{"code":4029,"code_pro":40,"district_en":"Wiang Kao","district_th":"เวียงเก่า"}
+    ,{"code":5717,"code_pro":57,"district_en":"Wiang Chiang Rung","district_th":"เวียงเชียงรุ้ง"}
+    ,{"code":5713,"code_pro":57,"district_en":"Wiang Kaen","district_th":"เวียงแก่น"}
+    ,{"code":5020,"code_pro":50,"district_en":"Wiang Haeng","district_th":"เวียงแหง"}
+    ,{"code":1412,"code_pro":14,"district_en":"Sena","district_th":"เสนา"}
+    ,{"code":3705,"code_pro":37,"district_en":"Senangkhanikhom","district_th":"เสนางคนิคม"}
+    ,{"code":5204,"code_pro":52,"district_en":"Soem Ngam","district_th":"เสริมงาม"}
+    ,{"code":4510,"code_pro":45,"district_en":"Selaphum","district_th":"เสลภูมิ"}
+    ,{"code":1910,"code_pro":19,"district_en":"Sao Hai","district_th":"เสาไห้"}
+    ,{"code":3003,"code_pro":30,"district_en":"Soeng Sang","district_th":"เสิงสาง"}
+    ,{"code":8108,"code_pro":81,"district_en":"Nuea Khlong","district_th":"เหนือคลอง"}
+    ,{"code":3431,"code_pro":34,"district_en":"Lao Suea Kok","district_th":"เหล่าเสือโก้ก"}
+    ,{"code":4213,"code_pro":42,"district_en":"Erawan","district_th":"เอราวัณ"}
+    ,{"code":4402,"code_pro":44,"district_en":"Kae Dam","district_th":"แกดำ"}
+    ,{"code":2103,"code_pro":21,"district_en":"Klaeng","district_th":"แกลง"}
+    ,{"code":7608,"code_pro":76,"district_en":"Kaeng Krachan","district_th":"แก่งกระจาน"}
+    ,{"code":1902,"code_pro":19,"district_en":"Kaeng Khoi","district_th":"แก่งคอย"}
+    ,{"code":2208,"code_pro":22,"district_en":"Kaeng Hang Maeo","district_th":"แก่งหางแมว"}
+    ,{"code":3612,"code_pro":36,"district_en":"Kaeng Khro","district_th":"แก้งคร้อ"}
+    ,{"code":3023,"code_pro":30,"district_en":"Kaeng Sanam Nang","district_th":"แก้งสนามนาง"}
+    ,{"code":3122,"code_pro":31,"district_en":"Khaen Dong","district_th":"แคนดง"}
+    ,{"code":5206,"code_pro":52,"district_en":"Chae Hom","district_th":"แจ้ห่ม"}
+    ,{"code":2409,"code_pro":24,"district_en":"Plaeng Yao","district_th":"แปลงยาว"}
+    ,{"code":5502,"code_pro":55,"district_en":"Mae Charim","district_th":"แม่จริม"}
+    ,{"code":5707,"code_pro":57,"district_en":"Mae Chan","district_th":"แม่จัน"}
+    ,{"code":5210,"code_pro":52,"district_en":"Mae Tha","district_th":"แม่ทะ"}
+    ,{"code":5102,"code_pro":51,"district_en":"Mae Tha","district_th":"แม่ทา"}
+    ,{"code":5209,"code_pro":52,"district_en":"Mae Phrik","district_th":"แม่พริก"}
+    ,{"code":5715,"code_pro":57,"district_en":"Mae Fa Luang","district_th":"แม่ฟ้าหลวง"}
+    ,{"code":6304,"code_pro":63,"district_en":"Mae Ramat","district_th":"แม่ระมาด"}
+    ,{"code":5007,"code_pro":50,"district_en":"Mae Rim","district_th":"แม่ริม"}
+    ,{"code":9412,"code_pro":94,"district_en":"Mae Lan","district_th":"แม่ลาน"}
+    ,{"code":5805,"code_pro":58,"district_en":"Mae La Noi","district_th":"แม่ลาน้อย"}
+    ,{"code":5716,"code_pro":57,"district_en":"Mae Lao","district_th":"แม่ลาว"}
+    ,{"code":6013,"code_pro":60,"district_en":"Mae Wong","district_th":"แม่วงก์"}
+    ,{"code":5022,"code_pro":50,"district_en":"Mae Wang","district_th":"แม่วาง"}
+    ,{"code":5710,"code_pro":57,"district_en":"Mae Suai","district_th":"แม่สรวย"}
+    ,{"code":6306,"code_pro":63,"district_en":"Mae Sot","district_th":"แม่สอด"}
+    ,{"code":5804,"code_pro":58,"district_en":"Mae Sariang","district_th":"แม่สะเรียง"}
+    ,{"code":5709,"code_pro":57,"district_en":"Mae Sai","district_th":"แม่สาย"}
+    ,{"code":5023,"code_pro":50,"district_en":"Mae On","district_th":"แม่ออน"}
+    ,{"code":5010,"code_pro":50,"district_en":"Mae Ai","district_th":"แม่อาย"}
+    ,{"code":6014,"code_pro":60,"district_en":"Mae Poen","district_th":"แม่เปิน"}
+    ,{"code":5202,"code_pro":52,"district_en":"Mae Mo","district_th":"แม่เมาะ"}
+    ,{"code":5003,"code_pro":50,"district_en":"Mae Chaem","district_th":"แม่แจ่ม"}
+    ,{"code":5006,"code_pro":50,"district_en":"Mae Taeng","district_th":"แม่แตง"}
+    ,{"code":5607,"code_pro":56,"district_en":"Mae Chai","district_th":"แม่ใจ"}
+    ,{"code":4014,"code_pro":40,"district_en":"Waeng Noi","district_th":"แวงน้อย"}
+    ,{"code":4013,"code_pro":40,"district_en":"Waeng Yai","district_th":"แวงใหญ่"}
+    ,{"code":9608,"code_pro":96,"district_en":"Waeng","district_th":"แว้ง"}
+    ,{"code":1505,"code_pro":15,"district_en":"Sawaeng Ha","district_th":"แสวงหา"}
+    ,{"code":2305,"code_pro":23,"district_en":"Laem Ngop","district_th":"แหลมงอบ"}
+    ,{"code":2206,"code_pro":22,"district_en":"Laem Sing","district_th":"แหลมสิงห์"}
+    ,{"code":6002,"code_pro":60,"district_en":"Krok Phra","district_th":"โกรกพระ"}
+    ,{"code":6211,"code_pro":62,"district_en":"Kosamphi Nakhon","district_th":"โกสัมพีนคร"}
+    ,{"code":4403,"code_pro":44,"district_en":"Kosum Phisai","district_th":"โกสุมพิสัย"}
+    ,{"code":3403,"code_pro":34,"district_en":"Khong Chiam","district_th":"โขงเจียม"}
+    ,{"code":4715,"code_pro":47,"district_en":"Khok Si Suphan","district_th":"โคกศรีสุพรรณ"}
+    ,{"code":1603,"code_pro":16,"district_en":"Khok Samrong","district_th":"โคกสำโรง"}
+    ,{"code":2708,"code_pro":27,"district_en":"Khok Sung","district_th":"โคกสูง"}
+    ,{"code":1609,"code_pro":16,"district_en":"Khok Charoen","district_th":"โคกเจริญ"}
+    ,{"code":9402,"code_pro":94,"district_en":"Khok Pho","district_th":"โคกโพธิ์"}
+    ,{"code":4022,"code_pro":40,"district_en":"Khok Pho Chai","district_th":"โคกโพธิ์ไชย"}
+    ,{"code":3007,"code_pro":30,"district_en":"Chok Chai","district_th":"โชคชัย"}
+    ,{"code":3803,"code_pro":38,"district_en":"So Phisai","district_th":"โซ่พิสัย"}
+    ,{"code":3313,"code_pro":33,"district_en":"Non Khun","district_th":"โนนคูณ"}
+    ,{"code":3120,"code_pro":31,"district_en":"Din Daeng","district_th":"โนนดินแดง"}
+    ,{"code":3217,"code_pro":32,"district_en":"Non Narai","district_th":"โนนนารายณ์"}
+    ,{"code":4025,"code_pro":40,"district_en":"Non Sila","district_th":"โนนศิลา"}
+    ,{"code":4105,"code_pro":41,"district_en":"Non Sa-at","district_th":"โนนสะอาด"}
+    ,{"code":3903,"code_pro":39,"district_en":"Non Sang","district_th":"โนนสัง"}
+    ,{"code":3117,"code_pro":31,"district_en":"Non Suwan","district_th":"โนนสุวรรณ"}
+    ,{"code":3010,"code_pro":30,"district_en":"Non Sung","district_th":"โนนสูง"}
+    ,{"code":3024,"code_pro":30,"district_en":"Non Daeng","district_th":"โนนแดง"}
+    ,{"code":3009,"code_pro":30,"district_en":"Non Thai","district_th":"โนนไทย"}
+    ,{"code":2204,"code_pro":22,"district_en":"Pong Nam Ron","district_th":"โป่งน้ำร้อน"}
+    ,{"code":6606,"code_pro":66,"district_en":"Pho Thale","district_th":"โพทะเล"}
+    ,{"code":7007,"code_pro":70,"district_en":"Photharam","district_th":"โพธาราม"}
+    ,{"code":4508,"code_pro":45,"district_en":"Pho Chai","district_th":"โพธิ์ชัย"}
+    ,{"code":4317,"code_pro":43,"district_en":"Pho Tak","district_th":"โพธิ์ตาก"}
+    ,{"code":1504,"code_pro":15,"district_en":"Pho Thong","district_th":"โพธิ์ทอง"}
+    ,{"code":6603,"code_pro":66,"district_en":"Pho Prathap Chang","district_th":"โพธิ์ประทับช้าง"}
+    ,{"code":3321,"code_pro":33,"district_en":"Pho Si Suwan","district_th":"โพธิ์ศรีสุวรรณ"}
+    ,{"code":3421,"code_pro":34,"district_en":"Pho Sai","district_th":"โพธิ์ไทร"}
+    ,{"code":4513,"code_pro":45,"district_en":"Phon Sai","district_th":"โพนทราย"}
+    ,{"code":4507,"code_pro":45,"district_en":"Phon Thong","district_th":"โพนทอง"}
+    ,{"code":4717,"code_pro":47,"district_en":"Phon Na Kaeo","district_th":"โพนนาแก้ว"}
+    ,{"code":4305,"code_pro":43,"district_en":"Phon Phisai","district_th":"โพนพิสัย"}
+    ,{"code":4810,"code_pro":48,"district_en":"Phon Sawan","district_th":"โพนสวรรค์"}
+    ,{"code":5021,"code_pro":50,"district_en":"Chai Prakan","district_th":"ไชยปราการ"}
+    ,{"code":4108,"code_pro":41,"district_en":"Chai Wan","district_th":"ไชยวาน"}
+    ,{"code":8406,"code_pro":84,"district_en":"Chaiya","district_th":"ไชยา"}
+    ,{"code":1502,"code_pro":15,"district_en":"Chaiyo","district_th":"ไชโย"}
+    ,{"code":3509,"code_pro":35,"district_en":"Thai Charoen","district_th":"ไทยเจริญ"}
+    ,{"code":6202,"code_pro":62,"district_en":"Sai Ngam","district_th":"ไทรงาม"}
+    ,{"code":1205,"code_pro":12,"district_en":"Sai Noi","district_th":"ไทรน้อย"}
+    ,{"code":7102,"code_pro":71,"district_en":"Sai Yok","district_th":"ไทรโยค"}
+    ,{"code":3306,"code_pro":33,"district_en":"Phrai Bueng","district_th":"ไพรบึง"}
+    ,{"code":6009,"code_pro":60,"district_en":"Phaisali","district_th":"ไพศาลี"}
+    ,{"code":9408,"code_pro":94,"district_en":"Mai Kaen","district_th":"ไม้แก่น"}]}

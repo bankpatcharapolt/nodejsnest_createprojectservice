@@ -1,0 +1,340 @@
+{
+  "data": [
+    {
+      "occupation_code": "900",
+      "title": "อื่นๆ (โปรดระบุ)",
+      "specific_detail": false,
+      "occp_code": "910",
+      "nature_business_code": "9101"
+    },
+    {
+      "occupation_code": "990",
+      "title": "อื่นๆ (โปรดระบุ)",
+      "specific_detail": false,
+      "occp_code": "990",
+      "nature_business_code": "9901"
+    },
+    {
+      "occupation_code": "701",
+      "title": "ค้าของเก่าประเภทสินค้ามือสอง / รีไซเคิล / รถยนต์ / วัตถุโบราณ",
+      "specific_detail": false,
+      "occp_code": "910",
+      "nature_business_code": "9102"
+    },
+    {
+      "occupation_code": "706",
+      "title": "อาวุธยุทธภัณฑ์",
+      "specific_detail": false,
+      "occp_code": "910",
+      "nature_business_code": "9102"
+    },
+    {
+      "occupation_code": "704",
+      "title": "คาสิโน / การพนัน",
+      "specific_detail": false,
+      "occp_code": "910",
+      "nature_business_code": "9102"
+    },
+    {
+      "occupation_code": "703",
+      "title": "โอนและรับโอนเงินทั้งภายในและต่างประเทศที่ไม่ใช่สถาบันการเงิน",
+      "specific_detail": false,
+      "occp_code": "910",
+      "nature_business_code": "9102"
+    },
+    {
+      "occupation_code": "705",
+      "title": "สถานบันเทิง / สถานบริการตามกฎหมายว่าด้วยสถานบริการ",
+      "specific_detail": false,
+      "occp_code": "910",
+      "nature_business_code": "9102"
+    },
+    {
+      "occupation_code": "702",
+      "title": "แลกเปลี่ยนเงินตราต่างประเทศ",
+      "specific_detail": false,
+      "occp_code": "910",
+      "nature_business_code": "9102"
+    },
+    {
+      "occupation_code": "901",
+      "title": "โรงแรม / ภัตตาคาร",
+      "specific_detail": false,
+      "occp_code": "910",
+      "nature_business_code": "9102"
+    },
+    {
+      "occupation_code": "902",
+      "title": "ประกันภัย / ประกันชีวิต",
+      "specific_detail": false,
+      "occp_code": "910",
+      "nature_business_code": "9102"
+    },
+    {
+      "occupation_code": "700",
+      "title": "ค้าอัญมณี / ทองคำ / เครื่องประดับที่ตกแต่งด้วยอัญมณีหรือทองคำ",
+      "specific_detail": false,
+      "occp_code": "910",
+      "nature_business_code": "9102"
+    },
+    {
+      "occupation_code": "903",
+      "title": "อสังหาริมทรัพย์",
+      "specific_detail": false,
+      "occp_code": "910",
+      "nature_business_code": "9102"
+    },
+    {
+      "occupation_code": "707",
+      "title": "นายหน้าจัดหางาน",
+      "specific_detail": false,
+      "occp_code": "910",
+      "nature_business_code": "9102"
+    },
+    {
+      "occupation_code": "708",
+      "title": "ธุรกิจนำเที่ยว / บริษัททัวร์",
+      "specific_detail": false,
+      "occp_code": "910",
+      "nature_business_code": "9102"
+    },
+    {
+      "occupation_code": "904",
+      "title": "มหาวิทยาลัย / โรงเรียน / สถานศึกษา",
+      "specific_detail": false,
+      "occp_code": "910",
+      "nature_business_code": "9102"
+    },
+    {
+      "occupation_code": "906",
+      "title": "ผู้สอบบัญชี / ทนาย / นิติกร / อัยการ / ผู้พิพากษา",
+      "specific_detail": false,
+      "occp_code": "910",
+      "nature_business_code": "9102"
+    },
+    {
+      "occupation_code": "905",
+      "title": "อื่นๆ (โปรดระบุ)",
+      "specific_detail": true,
+      "occp_code": "910",
+      "nature_business_code": "9102"
+    },
+    {
+      "occupation_code": "907",
+      "title": "กิจการครอบครัว",
+      "specific_detail": false,
+      "occp_code": "910",
+      "nature_business_code": "9103"
+    },
+    {
+      "occupation_code": "910",
+      "title": "ค้าของเก่าประเภทสินค้ามือสอง / รีไซเคิล / รถยนต์ / วัตถุโบราณ",
+      "specific_detail": false,
+      "occp_code": "920",
+      "nature_business_code": "9201"
+    },
+    {
+      "occupation_code": "911",
+      "title": "อาวุธยุทธภัณฑ์",
+      "specific_detail": false,
+      "occp_code": "920",
+      "nature_business_code": "9201"
+    },
+    {
+      "occupation_code": "912",
+      "title": "คาสิโน / การพนัน",
+      "specific_detail": false,
+      "occp_code": "920",
+      "nature_business_code": "9201"
+    },
+    {
+      "occupation_code": "913",
+      "title": "สหกรณ์ / มูลนิธิ / สมาคม / สโมสร / วัด / มัสยิด / องค์กรการกุศล / องค์กรไม่แสวงหากำไร",
+      "specific_detail": false,
+      "occp_code": "920",
+      "nature_business_code": "9201"
+    },
+    {
+      "occupation_code": "914",
+      "title": "โอนและรับโอนเงินทั้งภายในและต่างประเทศที่ไม่ใช่สถาบันการเงิน",
+      "specific_detail": false,
+      "occp_code": "920",
+      "nature_business_code": "9201"
+    },
+    {
+      "occupation_code": "915",
+      "title": "สถานบันเทิง / สถานบริการตามกฎหมายว่าด้วยสถานบริการ",
+      "specific_detail": false,
+      "occp_code": "920",
+      "nature_business_code": "9201"
+    },
+    {
+      "occupation_code": "916",
+      "title": "สถาบันการเงิน / ธนาคาร",
+      "specific_detail": false,
+      "occp_code": "920",
+      "nature_business_code": "9201"
+    },
+    {
+      "occupation_code": "917",
+      "title": "แลกเปลี่ยนเงินตราต่างประเทศ",
+      "specific_detail": false,
+      "occp_code": "920",
+      "nature_business_code": "9201"
+    },
+    {
+      "occupation_code": "918",
+      "title": "โรงแรม / ภัตตาคาร",
+      "specific_detail": false,
+      "occp_code": "920",
+      "nature_business_code": "9201"
+    },
+    {
+      "occupation_code": "919",
+      "title": "ประกันภัย / ประกันชีวิต",
+      "specific_detail": false,
+      "occp_code": "920",
+      "nature_business_code": "9201"
+    },
+    {
+      "occupation_code": "920",
+      "title": "ค้าอัญมณี / ทองคำ / เครื่องประดับที่ตกแต่งด้วยอัญมณีหรือทองคำ",
+      "specific_detail": false,
+      "occp_code": "920",
+      "nature_business_code": "9201"
+    },
+    {
+      "occupation_code": "921",
+      "title": "อสังหาริมทรัพย์",
+      "specific_detail": false,
+      "occp_code": "920",
+      "nature_business_code": "9201"
+    },
+    {
+      "occupation_code": "922",
+      "title": "นายหน้าจัดหางาน",
+      "specific_detail": false,
+      "occp_code": "920",
+      "nature_business_code": "9201"
+    },
+    {
+      "occupation_code": "923",
+      "title": "ธุรกิจนำเที่ยว / บริษัททัวร์",
+      "specific_detail": false,
+      "occp_code": "920",
+      "nature_business_code": "9201"
+    },
+    {
+      "occupation_code": "924",
+      "title": "มหาวิทยาลัย / โรงเรียน / สถานศึกษา",
+      "specific_detail": false,
+      "occp_code": "920",
+      "nature_business_code": "9201"
+    },
+    {
+      "occupation_code": "926",
+      "title": "ผู้สอบบัญชี / ทนาย / นิติกร / อัยการ / ผู้พิพากษา",
+      "specific_detail": false,
+      "occp_code": "920",
+      "nature_business_code": "9201"
+    },
+    {
+      "occupation_code": "925",
+      "title": "อื่นๆ (โปรดระบุ)",
+      "specific_detail": true,
+      "occp_code": "920",
+      "nature_business_code": "9201"
+    },
+    {
+      "occupation_code": "927",
+      "title": "อื่นๆ (โปรดระบุ)",
+      "specific_detail": false,
+      "occp_code": "990",
+      "nature_business_code": "9202"
+    },
+    {
+      "occupation_code": "930",
+      "title": "สหกรณ์ / มูลนิธิ / สมาคม / สโมสร / วัด / มัสยิด / องค์กรการกุศล / องค์กรไม่แสวงหากำไร",
+      "specific_detail": false,
+      "occp_code": "930",
+      "nature_business_code": "9301"
+    },
+    {
+      "occupation_code": "932",
+      "title": "ผู้สอบบัญชี / ทนาย / นิติกร / อัยการ / ผู้พิพากษา",
+      "specific_detail": false,
+      "occp_code": "930",
+      "nature_business_code": "9301"
+    },
+    {
+      "occupation_code": "931",
+      "title": "อื่นๆ (โปรดระบุ)",
+      "specific_detail": true,
+      "occp_code": "930",
+      "nature_business_code": "9301"
+    },
+    {
+      "occupation_code": "991",
+      "title": "อื่นๆ (โปรดระบุ)",
+      "specific_detail": false,
+      "occp_code": "990",
+      "nature_business_code": "9902"
+    },
+    {
+      "occupation_code": "992",
+      "title": "อื่นๆ (โปรดระบุ)",
+      "specific_detail": false,
+      "occp_code": "990",
+      "nature_business_code": "9903"
+    },
+    {
+      "occupation_code": "993",
+      "title": "อื่นๆ (โปรดระบุ)",
+      "specific_detail": false,
+      "occp_code": "990",
+      "nature_business_code": "9904"
+    },
+    {
+      "occupation_code": "994",
+      "title": "อื่นๆ (โปรดระบุอาชีพก่อนเกษียณ)",
+      "specific_detail": true,
+      "occp_code": "990",
+      "nature_business_code": "9905"
+    },
+    {
+      "occupation_code": "995",
+      "title": "อื่นๆ (โปรดระบุ)",
+      "specific_detail": true,
+      "occp_code": "990",
+      "nature_business_code": "9906"
+    },
+    {
+      "occupation_code": "933",
+      "title": "อื่นๆ (โปรดระบุ)",
+      "specific_detail": true,
+      "occp_code": "930",
+      "nature_business_code": "9302"
+    },
+    {
+      "occupation_code": "996",
+      "title": "อื่นๆ (โปรดระบุ)",
+      "specific_detail": false,
+      "occp_code": "990",
+      "nature_business_code": "9907"
+    },
+    {
+      "occupation_code": "928",
+      "title": "มหาวิทยาลัย / โรงเรียน / สถานศึกษา",
+      "specific_detail": false,
+      "occp_code": "990",
+      "nature_business_code": "9203"
+    },
+    {
+      "occupation_code": "997",
+      "title": "อื่นๆ (โปรดระบุ)",
+      "specific_detail": true,
+      "occp_code": "990",
+      "nature_business_code": "9908"
+    }
+  ]
+}

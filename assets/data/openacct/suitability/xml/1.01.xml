@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<questionnaire>
+	<qncode>0</qncode>
+	<qnno>ST2021001</qnno>
+	<qnname>แบบประเมินความเหมาะสมในการลงทุนสำหรับบุคคลธรรมดา</qnname>
+	<qnpurpose></qnpurpose>
+	<qnversion>1.01</qnversion>
+	<qnuseflag>1</qnuseflag>
+	<attachfile>SuitSummary.jpg</attachfile>
+	<session snumber="1">
+		<sname>คำถามข้อ 1-10 ใช้เพื่อประเมินความเหมาะสมในการลงทุน</sname>
+		<question qnumber="1">
+			<qcode>35</qcode>
+			<qname>ปัจจุบันท่านอายุ</qname>
+			<qtype>Radio</qtype>
+			<qimage></qimage>
+			<qscore>true</qscore>
+			<choice cnumber="1">
+				<ccode>169</ccode>
+				<cno>A</cno>
+				<cname>ตั้งแต่ 60 ปีขึ้นไป</cname>
+				<cscore>1</cscore>
+			</choice>
+			<choice cnumber="2">
+				<ccode>170</ccode>
+				<cno>B</cno>
+				<cname>45 - 59 ปี</cname>
+				<cscore>2</cscore>
+			</choice>
+			<choice cnumber="3">
+				<ccode>171</ccode>
+				<cno>C</cno>
+				<cname>35 - 44 ปี</cname>
+				<cscore>3</cscore>
+			</choice>
+			<choice cnumber="4">
+				<ccode>172</ccode>
+				<cno>D</cno>
+				<cname>น้อยกว่า 35 ปี</cname>
+				<cscore>4</cscore>
+			</choice>
+		</question>
+		<question qnumber="2">
+			<qcode>36</qcode>
+			<qname>ปัจจุบันท่านมีภาระทางการเงินและค่าใช้จ่ายประจำ เช่น ค่าผ่อนบ้าน รถ ค่าใช้จ่ายส่วนตัวและค่าเลี้ยงดูครอบครัว เป็นสัดส่วนเท่าใด</qname>
+			<qtype>Radio</qtype>
+			<qimage></qimage>
+			<qscore>true</qscore>
+			<choice cnumber="1">
+				<ccode>173</ccode>
+				<cno>A</cno>
+				<cname>มากกว่าร้อยละ 75 ของรายได้ทั้งหมด</cname>
+				<cscore>1</cscore>
+			</choice>
+			<choice cnumber="2">
+				<ccode>174</ccode>
+				<cno>B</cno>
+				<cname>ระหว่างร้อยละ 50 ถึงร้อยละ 75 ของรายได้ทั้งหมด</cname>
+				<cscore>2</cscore>
+			</choice>
+			<choice cnumber="3">
+				<ccode>175</ccode>
+				<cno>C</cno>
+				<cname>ระหว่างร้อยละ 25 ถึงร้อยละ 50 ของรายได้ทั้งหมด</cname>
+				<cscore>3</cscore>
+			</choice>
+			<choice cnumber="4">
+				<ccode>176</ccode>
+				<cno>D</cno>
+				<cname>น้อยกว่าร้อยละ 25 ของรายได้ทั้งหมด</cname>
+				<cscore>4</cscore>
+			</choice>
+		</question>
+		<question qnumber="3">
+			<qcode>37</qcode>
+			<qname>ท่านมีสถานภาพทางการเงินในปัจจุบันอย่างไร</qname>
+			<qtype>Radio</qtype>
+			<qimage></qimage>
+			<qscore>true</qscore>
+			<choice cnumber="1">
+				<ccode>177</ccode>
+				<cno>A</cno>
+				<cname>มีทรัพย์สินน้อยกว่าหนี้สิน</cname>
+				<cscore>1</cscore>
+			</choice>
+			<choice cnumber="2">
+				<ccode>178</ccode>
+				<cno>B</cno>
+				<cname>มีทรัพย์สินเท่ากับหนี้สิน</cname>
+				<cscore>2</cscore>
+			</choice>
+			<choice cnumber="3">
+				<ccode>179</ccode>
+				<cno>C</cno>
+				<cname>มีทรัพย์สินมากกว่าหนี้สิน</cname>
+				<cscore>3</cscore>
+			</choice>
+			<choice cnumber="4">
+				<ccode>180</ccode>
+				<cno>D</cno>
+				<cname>มีความมั่นใจว่ามีเงินออมหรือเงินลงทุนเพียงพอสำหรับการใช้ชีวิตหลังเกษียณอายุแล้ว</cname>
+				<cscore>4</cscore>
+			</choice>
+		</question>
+		<question qnumber="4">
+			<qcode>38</qcode>
+			<qname>ท่านเคยมีประสบการณ์หรือมีความรู้ในการลงทุนในทรัพย์สินกลุ่มใดต่อไปนี้บ้าง (เลือกได้มากกว่า 1 ข้อ)</qname>
+			<qtype>Checkbox</qtype>
+			<qimage></qimage>
+			<qscore>true</qscore>
+			<choice cnumber="1">
+				<ccode>181</ccode>
+				<cno>A</cno>
+				<cname>เงินฝากธนาคาร</cname>
+				<cscore>1</cscore>
+			</choice>
+			<choice cnumber="2">
+				<ccode>182</ccode>
+				<cno>B</cno>
+				<cname>พันธบัตรรัฐบาล หรือกองทุนรวมพันธบัตรรัฐบาล</cname>
+				<cscore>2</cscore>
+			</choice>
+			<choice cnumber="3">
+				<ccode>183</ccode>
+				<cno>C</cno>
+				<cname>หุ้นกู้ หรือกองทุนรวมตราสารหนี้</cname>
+				<cscore>3</cscore>
+			</choice>
+			<choice cnumber="4">
+				<ccode>184</ccode>
+				<cno>D</cno>
+				<cname>หุ้นสามัญ หรือกองทุนรวมหุ้น หรือสินทรัพย์อื่นที่มีความเสี่ยงสูง</cname>
+				<cscore>4</cscore>
+			</choice>
+		</question>
+		<question qnumber="5">
+			<qcode>39</qcode>
+			<qname>ระยะเวลาที่ท่านคาดว่าจะไม่มีความจำเป็นต้องใช้เงินลงทุนนี้</qname>
+			<qtype>Radio</qtype>
+			<qimage></qimage>
+			<qscore>true</qscore>
+			<choice cnumber="1">
+				<ccode>185</ccode>
+				<cno>A</cno>
+				<cname>น้อยกว่า 1 ปี</cname>
+				<cscore>1</cscore>
+			</choice>
+			<choice cnumber="2">
+				<ccode>186</ccode>
+				<cno>B</cno>
+				<cname>ตั้งแต่ 1 ปีแต่น้อยกว่า 3 ปี</cname>
+				<cscore>2</cscore>
+			</choice>
+			<choice cnumber="3">
+				<ccode>187</ccode>
+				<cno>C</cno>
+				<cname>ตั้งแต่ 3 ปีถึง 5 ปี</cname>
+				<cscore>3</cscore>
+			</choice>
+			<choice cnumber="4">
+				<ccode>188</ccode>
+				<cno>D</cno>
+				<cname>มากกว่า 5 ปี</cname>
+				<cscore>4</cscore>
+			</choice>
+		</question>
+		<question qnumber="6">
+			<qcode>40</qcode>
+			<qname>ความสามารถในการรับความเสี่ยงของท่าน คือ</qname>
+			<qtype>Radio</qtype>
+			<qimage></qimage>
+			<qscore>true</qscore>
+			<choice cnumber="1">
+				<ccode>189</ccode>
+				<cno>A</cno>
+				<cname>เน้นเงินต้นต้องปลอดภัยและได้รับผลตอบแทนสม่ำเสมอแต่ต่ำได้</cname>
+				<cscore>1</cscore>
+			</choice>
+			<choice cnumber="2">
+				<ccode>190</ccode>
+				<cno>B</cno>
+				<cname>เน้นโอกาสได้รับผลตอบแทนที่สม่ำเสมอ แต่อาจเสี่ยงที่จะสูญเสียเงินต้นได้บ้าง</cname>
+				<cscore>2</cscore>
+			</choice>
+			<choice cnumber="3">
+				<ccode>191</ccode>
+				<cno>C</cno>
+				<cname>เน้นโอกาสได้รับผลตอบแทนที่สูงขึ้น แต่อาจเสี่ยงที่จะสูญเสียเงินต้นได้มากขึ้น</cname>
+				<cscore>3</cscore>
+			</choice>
+			<choice cnumber="4">
+				<ccode>192</ccode>
+				<cno>D</cno>
+				<cname>เน้นผลตอบแทนสูงสุดในระยะยาว แต่อาจเสี่ยงที่จะสูญเงินต้นส่วนใหญ่ได้</cname>
+				<cscore>4</cscore>
+			</choice>
+		</question>
+		<question qnumber="7">
+			<qcode>41</qcode>
+			<qname>เมื่อพิจารณารูปแสดงตัวอย่างผลตอบแทนของกลุ่มการลงทุนที่อาจเกิดขึ้นด้านล่าง ท่านเต็มใจที่จะลงทุนในกลุ่มการลงทุนใดมากที่สุด</qname>
+			<qtype>Radio</qtype>
+			<qimage>20210421T154109.jpg</qimage>
+			<qscore>true</qscore>
+			<choice cnumber="1">
+				<ccode>193</ccode>
+				<cno>A</cno>
+				<cname>กลุ่มการลงทุนที่ 1 มีโอกาสได้รับผลตอบแทน 2.5% โดยไม่ขาดทุนเลย</cname>
+				<cscore>1</cscore>
+			</choice>
+			<choice cnumber="2">
+				<ccode>194</ccode>
+				<cno>B</cno>
+				<cname>กลุ่มการลงทุนที่ 2 มีโอกาสได้รับผลตอบแทนสูงสุด 7% แต่อาจมีผลขาดทุนได้ถึง 1%</cname>
+				<cscore>2</cscore>
+			</choice>
+			<choice cnumber="3">
+				<ccode>195</ccode>
+				<cno>C</cno>
+				<cname>กลุ่มการลงทุนที่ 3 มีโอกาสได้รับผลตอบแทนสูงสุด 15% แต่อาจมีผลขาดทุนได้ถึง 5%</cname>
+				<cscore>3</cscore>
+			</choice>
+			<choice cnumber="4">
+				<ccode>196</ccode>
+				<cno>D</cno>
+				<cname>กลุ่มการลงทุนที่ 4 มีโอกาสได้รับผลตอบแทนสูงสุด 25% แต่อาจมีผลขาดทุนได้ถึง 15%</cname>
+				<cscore>4</cscore>
+			</choice>
+		</question>
+		<question qnumber="8">
+			<qcode>42</qcode>
+			<qname>ถ้าท่านเลือกลงทุนในทรัพย์สินที่มีโอกาสได้รับผลตอบแทนมาก แต่มีโอกาสขาดทุนสูงด้วยเช่นกัน ท่านจะรู้สึกอย่างไร</qname>
+			<qtype>Radio</qtype>
+			<qimage></qimage>
+			<qscore>true</qscore>
+			<choice cnumber="1">
+				<ccode>197</ccode>
+				<cno>A</cno>
+				<cname>กังวลและตื่นตระหนกกลัวขาดทุน</cname>
+				<cscore>1</cscore>
+			</choice>
+			<choice cnumber="2">
+				<ccode>198</ccode>
+				<cno>B</cno>
+				<cname>ไม่สบายใจแต่พอเข้าใจได้บ้าง</cname>
+				<cscore>2</cscore>
+			</choice>
+			<choice cnumber="3">
+				<ccode>199</ccode>
+				<cno>C</cno>
+				<cname>เข้าใจและรับความผันผวนได้ในระดับหนึ่ง</cname>
+				<cscore>3</cscore>
+			</choice>
+			<choice cnumber="4">
+				<ccode>200</ccode>
+				<cno>D</cno>
+				<cname>ไม่กังวลกับโอกาสขาดทุนสูง และหวังกับผลตอบแทนที่อาจจะได้รับสูงขึ้น</cname>
+				<cscore>4</cscore>
+			</choice>
+		</question>
+		<question qnumber="9">
+			<qcode>43</qcode>
+			<qname>ท่านจะรู้สึกกังวล/รับไม่ได้เมื่อมูลค่าเงินลงทุนของท่านมีการปรับตัวลดลงในสัดส่วนเท่าใด</qname>
+			<qtype>Radio</qtype>
+			<qimage></qimage>
+			<qscore>true</qscore>
+			<choice cnumber="1">
+				<ccode>201</ccode>
+				<cno>A</cno>
+				<cname>5% หรือน้อยกว่า</cname>
+				<cscore>1</cscore>
+			</choice>
+			<choice cnumber="2">
+				<ccode>202</ccode>
+				<cno>B</cno>
+				<cname>มากกว่า 5%-10%</cname>
+				<cscore>2</cscore>
+			</choice>
+			<choice cnumber="3">
+				<ccode>203</ccode>
+				<cno>C</cno>
+				<cname>มากกว่า 10%-20%</cname>
+				<cscore>3</cscore>
+			</choice>
+			<choice cnumber="4">
+				<ccode>204</ccode>
+				<cno>D</cno>
+				<cname>มากกว่า 20% ขึ้นไป</cname>
+				<cscore>4</cscore>
+			</choice>
+		</question>
+		<question qnumber="10">
+			<qcode>44</qcode>
+			<qname>หากปีที่แล้วท่านลงทุนไป 100,000 บาท ปีนี้ท่านพบว่ามูลค่าเงินลงทุนลดลงเหลือ 85,000 บาท ท่านจะทำอย่างไร</qname>
+			<qtype>Radio</qtype>
+			<qimage></qimage>
+			<qscore>true</qscore>
+			<choice cnumber="1">
+				<ccode>205</ccode>
+				<cno>A</cno>
+				<cname>ตกใจ และต้องการขายการลงทุนที่เหลือทิ้ง</cname>
+				<cscore>1</cscore>
+			</choice>
+			<choice cnumber="2">
+				<ccode>206</ccode>
+				<cno>B</cno>
+				<cname>กังวลใจ และจะปรับเปลี่ยนการลงทุนบางส่วนไปในทรัพย์สินที่เสี่ยงน้อยลง</cname>
+				<cscore>2</cscore>
+			</choice>
+			<choice cnumber="3">
+				<ccode>207</ccode>
+				<cno>C</cno>
+				<cname>อดทนถือต่อไปได้และรอผลตอบแทนปรับตัวกลับมา</cname>
+				<cscore>3</cscore>
+			</choice>
+			<choice cnumber="4">
+				<ccode>208</ccode>
+				<cno>D</cno>
+				<cname>ยังมั่นใจ เพราะเข้าใจว่าต้องลงทุนระยะยาว และจะเพิ่มเงินลงทุนในแบบเดิมเพื่อเฉลี่ยต้นทุน</cname>
+				<cscore>4</cscore>
+			</choice>
+		</question>
+	</session>
+	<session snumber="2">
+		<sname>คำถามข้อ 11-12 ใช้เป็นข้อมูลเพิ่มเติมเพื่อประกอบการให้คำแนะนำ (ไม่นำมาคิดคะแนน)</sname>
+		<question qnumber="1">
+			<qcode>45</qcode>
+			<qname>หากการลงทุนในสัญญาซื้อขายล่วงหน้า (อนุพันธ์) และหุ้นกู้ที่มีอนุพันธ์แฝงประสบความสำเร็จ ท่านจะได้รับผลตอบแทนในอัตราที่สูงมาก แต่หากการลงทุนล้มเหลว ท่านอาจจะสูญเงินลงทุนทั้งหมด และอาจต้องลงเงินชดเชยเพิ่มบางส่วน ท่านยอมรับได้เพียงใด (ใช้เฉพาะที่จะมีการลงทุนในสัญญาซื้อขายล่วงหน้า (อนุพันธ์) และหุ้นกู้ที่มีอนุพันธ์แฝงโดยตรงเท่านั้น)</qname>
+			<qtype>Radio</qtype>
+			<qimage></qimage>
+			<qscore>true</qscore>
+			<choice cnumber="1">
+				<ccode>229</ccode>
+				<cno>A</cno>
+				<cname>ไม่ได้</cname>
+				<cscore>0</cscore>
+			</choice>
+			<choice cnumber="2">
+				<ccode>230</ccode>
+				<cno>B</cno>
+				<cname>ได้</cname>
+				<cscore>0</cscore>
+			</choice>
+		</question>
+		<question qnumber="2">
+			<qcode>46</qcode>
+			<qname>นอกเหนือจากความเสี่ยงในการลงทุนแล้ว ท่านสามารถรับความเสี่ยงด้านอัตราแลกเปลี่ยนได้เพียงใด (ใช้เฉพาะที่จะมีการลงทุนในต่างประเทศ)</qname>
+			<qtype>Radio</qtype>
+			<qimage></qimage>
+			<qscore>true</qscore>
+			<choice cnumber="1">
+				<ccode>231</ccode>
+				<cno>A</cno>
+				<cname>ไม่ได้</cname>
+				<cscore>0</cscore>
+			</choice>
+			<choice cnumber="2">
+				<ccode>232</ccode>
+				<cno>B</cno>
+				<cname>ได้</cname>
+				<cscore>0</cscore>
+			</choice>
+		</question>
+	</session>
+	<ranges>
+		<range rnumber="1">
+			<rfrom>0</rfrom>
+			<rto>14</rto>
+			<grade>1</grade>
+			<rdes>เสี่ยงต่ำ</rdes>
+		</range>
+		<range rnumber="2">
+			<rfrom>15</rfrom>
+			<rto>21</rto>
+			<grade>2</grade>
+			<rdes>เสี่ยงปานกลางค่อนข้างต่ำ</rdes>
+		</range>
+		<range rnumber="3">
+			<rfrom>22</rfrom>
+			<rto>29</rto>
+			<grade>3</grade>
+			<rdes>เสี่ยงปานกลางค่อนข้างสูง</rdes>
+		</range>
+		<range rnumber="4">
+			<rfrom>30</rfrom>
+			<rto>36</rto>
+			<grade>4</grade>
+			<rdes>เสี่ยงสูง</rdes>
+		</range>
+		<range rnumber="5">
+			<rfrom>37</rfrom>
+			<rto>99</rto>
+			<grade>5</grade>
+			<rdes>เสี่ยงสูงมาก</rdes>
+		</range>
+	</ranges>
+</questionnaire>

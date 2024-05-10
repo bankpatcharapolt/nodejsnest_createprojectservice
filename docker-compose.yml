@@ -1,0 +1,24 @@
+version: '3'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3003:3003"
+    environment:
+      - NODE_ENV=development  # ตัวอย่างการกำหนดค่าตัวแปรแวดล้อมอื่น ๆ
+    env_file:
+      - .env  # ระบุไฟล์ .env ที่นี่
+    depends_on:
+      - database
+
+  database:
+    image: solarservice
+    environment:
+      - DB_HOST=119.46.146.154
+      - DB_PORT=27017
+      - DB_USER=
+      - DB_PASSWORD=
+      - DB_NAME=solarservice

@@ -1,0 +1,1008 @@
+{
+"data":[
+	{
+		"nationcode":"999",
+		"nationename":"OTHERS",
+		"nationtname":"อื่นๆ"
+	},
+	{
+		"nationcode":"000",
+		"nationename":"THAI",
+		"nationtname":"ไทย"
+	},
+	{
+		"nationcode":"A10",
+		"nationename":"AMERICAN",
+		"nationtname":"อเมริกัน"
+	},
+	{
+		"nationcode":"A15",
+		"nationename":"ARGENTINIAN",
+		"nationtname":"อาร์เจนตินา"
+	},
+	{
+		"nationcode":"A20",
+		"nationename":"AUSTRALIAN",
+		"nationtname":"ออสเตรเลีย"
+	},
+	{
+		"nationcode":"A30",
+		"nationename":"AUSTRIAN",
+		"nationtname":"ออสเตรีย"
+	},
+	{
+		"nationcode":"A40",
+		"nationename":"ARABEMIRATES",
+		"nationtname":"อาหรับเอมิเรต"
+	},
+	{
+		"nationcode":"A41",
+		"nationename":"AFGHAN",
+		"nationtname":"อัฟกานิสถาน"
+	},
+	{
+		"nationcode":"A42",
+		"nationename":"AFRICAN",
+		"nationtname":"แอฟริกา"
+	},
+	{
+		"nationcode":"A43",
+		"nationename":"ALBANIAN",
+		"nationtname":"แอลเบเนีย"
+	},
+	{
+		"nationcode":"A44",
+		"nationename":"ALGERIAN",
+		"nationtname":"แอลจีเรีย"
+	},
+	{
+		"nationcode":"A45",
+		"nationename":"ARMENIAN",
+		"nationtname":"อาร์เมเนีย"
+	},
+	{
+		"nationcode":"A46",
+		"nationename":"ANDORRAN",
+		"nationtname":"อันดอร์รา"
+	},
+	{
+		"nationcode":"A47",
+		"nationename":"ANGOLAN",
+		"nationtname":"แองโกลา"
+	},
+	{
+		"nationcode":"A48",
+		"nationename":"ARABIC",
+		"nationtname":"อาหรับ"
+	},
+	{
+		"nationcode":"A49",
+		"nationename":"AZERBAIJANI",
+		"nationtname":"อาเซอร์ไบจัน"
+	},
+	{
+		"nationcode":"B02",
+		"nationename":"BAHAMIAN",
+		"nationtname":"บาฮามาส"
+	},
+	{
+		"nationcode":"B03",
+		"nationename":"BAHRAINI",
+		"nationtname":"บาห์เรน"
+	},
+	{
+		"nationcode":"B04",
+		"nationename":"BANGLADESHI",
+		"nationtname":"บังคลาเทศ"
+	},
+	{
+		"nationcode":"B05",
+		"nationename":"BELGIAN",
+		"nationtname":"เบลเยียม"
+	},
+	{
+		"nationcode":"B06",
+		"nationename":"BERMUDAN",
+		"nationtname":"เบอร์มิวด้า"
+	},
+	{
+		"nationcode":"B07",
+		"nationename":"BRAZILIAN",
+		"nationtname":"บราซิล"
+	},
+	{
+		"nationcode":"B08",
+		"nationename":"BOLIVIAN",
+		"nationtname":"โบลิเวีย"
+	},
+	{
+		"nationcode":"B10",
+		"nationename":"BRITISH",
+		"nationtname":"บริติช"
+	},
+	{
+		"nationcode":"B20",
+		"nationename":"BURMESE",
+		"nationtname":"พม่า"
+	},
+	{
+		"nationcode":"B30",
+		"nationename":"BRUNEIAN",
+		"nationtname":"บรูไน"
+	},
+	{
+		"nationcode":"B40",
+		"nationename":"BRITISHVIRGINISLANDS",
+		"nationtname":"หมู่เกาะบริติชเวอร์จิน"
+	},
+	{
+		"nationcode":"B41",
+		"nationename":"BARBADIAN",
+		"nationtname":"บาร์เบโดส"
+	},
+	{
+		"nationcode":"B42",
+		"nationename":"BELARUSIAN",
+		"nationtname":"เบลารุส"
+	},
+	{
+		"nationcode":"B43",
+		"nationename":"BENINESE",
+		"nationtname":"เบนิน"
+	},
+	{
+		"nationcode":"B44",
+		"nationename":"BHUTANESE",
+		"nationtname":"ภูฏาน"
+	},
+	{
+		"nationcode":"B45",
+		"nationename":"BOSNIAN",
+		"nationtname":"บอสเนีย"
+	},
+	{
+		"nationcode":"B47",
+		"nationename":"BUNTU",
+		"nationtname":"BUNTU"
+	},
+	{
+		"nationcode":"B48",
+		"nationename":"BURUNDIAN",
+		"nationtname":"บุรุนดี"
+	},
+	{
+		"nationcode":"B50",
+		"nationename":"BULGARIAN",
+		"nationtname":"บัลแกเรีย"
+	},
+	{
+		"nationcode":"B60",
+		"nationename":"BELIZE",
+		"nationtname":"เบลีซ"
+	},
+	{
+		"nationcode":"C10",
+		"nationename":"CANADIAN",
+		"nationtname":"แคนาดา"
+	},
+	{
+		"nationcode":"C12",
+		"nationename":"CAYMANISLAND",
+		"nationtname":"เกาะเคย์แมน"
+	},
+	{
+		"nationcode":"C15",
+		"nationename":"CHANNELISLAND",
+		"nationtname":"หมู่เกาะแชนเนล"
+	},
+	{
+		"nationcode":"C20",
+		"nationename":"CHINESE",
+		"nationtname":"จีน"
+	},
+	{
+		"nationcode":"C30",
+		"nationename":"COLOMBIAN",
+		"nationtname":"โคลอมเบีย"
+	},
+	{
+		"nationcode":"C40",
+		"nationename":"CYPRIOT",
+		"nationtname":"ไซปรัส"
+	},
+	{
+		"nationcode":"C41",
+		"nationename":"CAMEROONIAN",
+		"nationtname":"แคเมอรูน"
+	},
+	{
+		"nationcode":"C42",
+		"nationename":"CHADIAN",
+		"nationtname":"ชาด"
+	},
+	{
+		"nationcode":"C43",
+		"nationename":"CHILEAN",
+		"nationtname":"ชิลี"
+	},
+	{
+		"nationcode":"C44",
+		"nationename":"CONGOLESE",
+		"nationtname":"คองโก"
+	},
+	{
+		"nationcode":"C45",
+		"nationename":"COSTARICAN",
+		"nationtname":"คอสตาริกา"
+	},
+	{
+		"nationcode":"C46",
+		"nationename":"CROATIAN",
+		"nationtname":"โครเอเชีย"
+	},
+	{
+		"nationcode":"C47",
+		"nationename":"CUBAN",
+		"nationtname":"คิวบา"
+	},
+	{
+		"nationcode":"C48",
+		"nationename":"CZECH,CZECHOSLOVAKIAN",
+		"nationtname":"เช็ก"
+	},
+	{
+		"nationcode":"C49",
+		"nationename":"CAMBODIAN",
+		"nationtname":"กัมพูชา"
+	},
+	{
+		"nationcode":"D10",
+		"nationename":"DANISH",
+		"nationtname":"เดนมาร์ก"
+	},
+	{
+		"nationcode":"D20",
+		"nationename":"DUTCH",
+		"nationtname":"ดัตช์"
+	},
+	{
+		"nationcode":"D30",
+		"nationename":"DEUTSCH",
+		"nationtname":"เยอรมัน"
+	},
+	{
+		"nationcode":"D40",
+		"nationename":"DOMINICAN",
+		"nationtname":"โดมินิกัน"
+	},
+	{
+		"nationcode":"D50",
+		"nationename":"DJIBOUTIAN",
+		"nationtname":"จิบูตี"
+	},
+	{
+		"nationcode":"D60",
+		"nationename":"DUTCHANTILLIANS",
+		"nationtname":"ดัตช์แอนทิลลีส"
+	},
+	{
+		"nationcode":"E10",
+		"nationename":"ENGLISH",
+		"nationtname":"อังกฤษ"
+	},
+	{
+		"nationcode":"E20",
+		"nationename":"ECUADORIAN",
+		"nationtname":"เอกวาดอร์"
+	},
+	{
+		"nationcode":"E30",
+		"nationename":"EGYPTIAN",
+		"nationtname":"อียิปต์"
+	},
+	{
+		"nationcode":"E40",
+		"nationename":"EQUATORIALGUINEAN",
+		"nationtname":"อิเควทอเรียลกินี"
+	},
+	{
+		"nationcode":"E50",
+		"nationename":"ERITREAN",
+		"nationtname":"เอริเทรีย"
+	},
+	{
+		"nationcode":"E60",
+		"nationename":"ESTONIAN",
+		"nationtname":"เอสโตเนีย"
+	},
+	{
+		"nationcode":"E70",
+		"nationename":"ETHIOPIAN",
+		"nationtname":"เอธิโอเปีย"
+	},
+	{
+		"nationcode":"F10",
+		"nationename":"FILIPINO",
+		"nationtname":"ฟิลิปปินส์"
+	},
+	{
+		"nationcode":"F20",
+		"nationename":"FRENCH",
+		"nationtname":"ฝรั่งเศส"
+	},
+	{
+		"nationcode":"F30",
+		"nationename":"FINN",
+		"nationtname":"ฟินแลนด์"
+	},
+	{
+		"nationcode":"F40",
+		"nationename":"FIJIAN",
+		"nationtname":"ฟิจิ"
+	},
+	{
+		"nationcode":"F50",
+		"nationename":"FRENCHGUIANAN",
+		"nationtname":"เฟรนช์เกีย"
+	},
+	{
+		"nationcode":"G10",
+		"nationename":"GERMAN",
+		"nationtname":"เยอรมัน"
+	},
+	{
+		"nationcode":"G20",
+		"nationename":"GUERNSEY",
+		"nationtname":"เกิร์นซีย์"
+	},
+	{
+		"nationcode":"G30",
+		"nationename":"GIBRALTARIAN",
+		"nationtname":"ยิบรอลตาร์"
+	},
+	{
+		"nationcode":"G40",
+		"nationename":"GREEK",
+		"nationtname":"กรีซ"
+	},
+	{
+		"nationcode":"G50",
+		"nationename":"GUERNSEY,CHANNELISLANDS",
+		"nationtname":"เกิร์นซีย์"
+	},
+	{
+		"nationcode":"G51",
+		"nationename":"GABONESE",
+		"nationtname":"กาบอง"
+	},
+	{
+		"nationcode":"G52",
+		"nationename":"GAMBIAN",
+		"nationtname":"แกมเบีย"
+	},
+	{
+		"nationcode":"G53",
+		"nationename":"GEORGIAN",
+		"nationtname":"จอร์เจีย"
+	},
+	{
+		"nationcode":"G54",
+		"nationename":"GHANAIAN",
+		"nationtname":"กานา"
+	},
+	{
+		"nationcode":"G55",
+		"nationename":"GRENADIAN",
+		"nationtname":"เกรเนดา"
+	},
+	{
+		"nationcode":"G56",
+		"nationename":"GUATEMALAN",
+		"nationtname":"กัวเตมาลา"
+	},
+	{
+		"nationcode":"G57",
+		"nationename":"GUINEAN",
+		"nationtname":"กินี"
+	},
+	{
+		"nationcode":"G58",
+		"nationename":"GUYANESE",
+		"nationtname":"กายอานา"
+	},
+	{
+		"nationcode":"H03",
+		"nationename":"HAITIAN",
+		"nationtname":"เฮติ"
+	},
+	{
+		"nationcode":"H08",
+		"nationename":"HOLLANDER",
+		"nationtname":"ฮอลแลนด์"
+	},
+	{
+		"nationcode":"H10",
+		"nationename":"HONDURAN",
+		"nationtname":"ฮอนดูรัส"
+	},
+	{
+		"nationcode":"H20",
+		"nationename":"HONGKONG",
+		"nationtname":"ฮ่องกง"
+	},
+	{
+		"nationcode":"H30",
+		"nationename":"HUNGARIAN",
+		"nationtname":"ฮังการี"
+	},
+	{
+		"nationcode":"I05",
+		"nationename":"ICELANDIC",
+		"nationtname":"ไอซ์แลนด์"
+	},
+	{
+		"nationcode":"I10",
+		"nationename":"INDIAN",
+		"nationtname":"อินเดีย"
+	},
+	{
+		"nationcode":"I15",
+		"nationename":"INDONESIAN",
+		"nationtname":"อินโดนีเซีย"
+	},
+	{
+		"nationcode":"I16",
+		"nationename":"IRISH",
+		"nationtname":"ไอร์แลนด์"
+	},
+	{
+		"nationcode":"I17",
+		"nationename":"ISRAELI",
+		"nationtname":"อิสราเอล"
+	},
+	{
+		"nationcode":"I20",
+		"nationename":"ITALIAN",
+		"nationtname":"อิตาลี"
+	},
+	{
+		"nationcode":"I21",
+		"nationename":"IRANIAN",
+		"nationtname":"อิหร่าน"
+	},
+	{
+		"nationcode":"I22",
+		"nationename":"IRAQI",
+		"nationtname":"อิรัก"
+	},
+	{
+		"nationcode":"I23",
+		"nationename":"IVORIAN",
+		"nationtname":"โกตดิวัวร์"
+	},
+	{
+		"nationcode":"J10",
+		"nationename":"JAPANESE",
+		"nationtname":"ญี่ปุ่น"
+	},
+	{
+		"nationcode":"J20",
+		"nationename":"JAMAICAN",
+		"nationtname":"จาเมกา"
+	},
+	{
+		"nationcode":"J30",
+		"nationename":"JAVANESE",
+		"nationtname":"ชวา"
+	},
+	{
+		"nationcode":"J40",
+		"nationename":"JORDANIAN",
+		"nationtname":"จอร์แดน"
+	},
+	{
+		"nationcode":"K10",
+		"nationename":"KOREAN(SOUTH)",
+		"nationtname":"เกาหลีใต้"
+	},
+	{
+		"nationcode":"K20",
+		"nationename":"KENYAN",
+		"nationtname":"เคนยา"
+	},
+	{
+		"nationcode":"K30",
+		"nationename":"KAZAKH",
+		"nationtname":"คาซัคสถาน"
+	},
+	{
+		"nationcode":"K40",
+		"nationename":"KUWAITI",
+		"nationtname":"คูเวต"
+	},
+	{
+		"nationcode":"K50",
+		"nationename":"KOREAN(NORTH)",
+		"nationtname":"เกาหลีเหนือ"
+	},
+	{
+		"nationcode":"L05",
+		"nationename":"LAOTIAN",
+		"nationtname":"ลาว"
+	},
+	{
+		"nationcode":"L06",
+		"nationename":"LABANESE",
+		"nationtname":"เลบานอน"
+	},
+	{
+		"nationcode":"L10",
+		"nationename":"LUXEMBURG",
+		"nationtname":"ลักเซมเบิร์ก"
+	},
+	{
+		"nationcode":"L20",
+		"nationename":"LIBERIAN",
+		"nationtname":"ไลบีเรีย"
+	},
+	{
+		"nationcode":"L30",
+		"nationename":"LIECHTENSTEIN",
+		"nationtname":"ลิกเตนสไตน์"
+	},
+	{
+		"nationcode":"L40",
+		"nationename":"LIBYAN",
+		"nationtname":"ลิเบีย"
+	},
+	{
+		"nationcode":"L50",
+		"nationename":"LATVIAN         ",
+		"nationtname" : "ลัตเวีย                                           "
+	},
+	{
+		"nationcode" : "M10",
+		"nationename" : "MALAYSIAN                                         ",
+		"nationtname" : "มาเลเซีย                                          "
+	},
+	{
+		"nationcode" : "M20",
+		"nationename" : "MEXICAN                                           ",
+		"nationtname" : "เม็กซิโก                                          "
+	},
+	{
+		"nationcode" : "M30",
+		"nationename" : "MAURITIAN                                         ",
+		"nationtname" : "มอริเชียส                                         "
+	},
+	{
+		"nationcode" : "M31",
+		"nationename" : "MADAGASCAN                                        ",
+		"nationtname" : "มาดากัสการ์                                       "
+	},
+	{
+		"nationcode" : "M32",
+		"nationename" : "MACEDONIAN                                        ",
+		"nationtname" : "มาซิโดเนีย                                        "
+	},
+	{
+		"nationcode" : "M33",
+		"nationename" : "MALAWIAN                                          ",
+		"nationtname" : "มาลาวี                                            "
+	},
+	{
+		"nationcode" : "M34",
+		"nationename" : "MALDIVIAN                                         ",
+		"nationtname" : "มัลดีฟส์                                          "
+	},
+	{
+		"nationcode" : "M35",
+		"nationename" : "MALIAN                                            ",
+		"nationtname" : "มาลี                                              "
+	},
+	{
+		"nationcode" : "M36",
+		"nationename" : "MALTESE                                           ",
+		"nationtname" : "มอลตา                                             "
+	},
+	{
+		"nationcode" : "M37",
+		"nationename" : "MARSHALL ISLANDERS                                ",
+		"nationtname" : "หมู่เกาะมาร์แชลล์                                 "
+	},
+	{
+		"nationcode" : "M38",
+		"nationename" : "MAURITANIAN                                       ",
+		"nationtname" : "มอริเตเนีย                                        "
+	},
+	{
+		"nationcode" : "M40",
+		"nationename" : "MOLDOVIAN                                         ",
+		"nationtname" : "มอลโดวา                                           "
+	},
+	{
+		"nationcode" : "M41",
+		"nationename" : "MONEGASQUE                                        ",
+		"nationtname" : "โมนาโก                                            "
+	},
+	{
+		"nationcode" : "M42",
+		"nationename" : "MONGOLIAN,MONGOL                                  ",
+		"nationtname" : "มองโกเลีย                                         "
+	},
+	{
+		"nationcode" : "M43",
+		"nationename" : "MOROCCAN                                          ",
+		"nationtname" : "โมร็อกโก                                          "
+	},
+	{
+		"nationcode" : "M44",
+		"nationename" : "MOZAMBICAN                                        ",
+		"nationtname" : "โมซัมบิก                                          "
+	},
+	{
+		"nationcode" : "M45",
+		"nationename" : "MONTENEGRIN                                       ",
+		"nationtname" : "มอนเตเนโกร                                        "
+	},
+	{
+		"nationcode" : "N10",
+		"nationename" : "NEW ZEALAND                                       ",
+		"nationtname" : "นิวซีแลนด์                                        "
+	},
+	{
+		"nationcode" : "N20",
+		"nationename" : "NORWEGIAN                                         ",
+		"nationtname" : "นอร์เวย์                                          "
+	},
+	{
+		"nationcode" : "N30",
+		"nationename" : "NEPALESE                                          ",
+		"nationtname" : "เนปาล                                             "
+	},
+	{
+		"nationcode" : "N40",
+		"nationename" : "NIGERIAN                                          ",
+		"nationtname" : "ไนจีเรีย                                          "
+	},
+	{
+		"nationcode" : "N50",
+		"nationename" : "NAURUAN                                           ",
+		"nationtname" : "นาอูรู                                            "
+	},
+	{
+		"nationcode" : "N60",
+		"nationename" : "NAMIBIAN                                          ",
+		"nationtname" : "นามิเบีย                                          "
+	},
+	{
+		"nationcode" : "N70",
+		"nationename" : "NICARAGUAN                                        ",
+		"nationtname" : "นิการากัว                                         "
+	},
+	{
+		"nationcode" : "N80",
+		"nationename" : "NIGERIEN                                          ",
+		"nationtname" : "ไนเจอร์                                           "
+	},
+	{
+		"nationcode" : "O10",
+		"nationename" : "OMANI                                             ",
+		"nationtname" : "โอมาน                                             "
+	},
+	{
+		"nationcode" : "P05",
+		"nationename" : "PAKISTANI                                         ",
+		"nationtname" : "ปากีสถาน                                          "
+	},
+	{
+		"nationcode" : "P07",
+		"nationename" : "PANAMANIAN                                        ",
+		"nationtname" : "ปานามา                                            "
+	},
+	{
+		"nationcode" : "P10",
+		"nationename" : "PORTUGUESE                                        ",
+		"nationtname" : "โปรตุเกส                                          "
+	},
+	{
+		"nationcode" : "P20",
+		"nationename" : "PERUVIAN                                          ",
+		"nationtname" : "เปรู                                              "
+	},
+	{
+		"nationcode" : "P30",
+		"nationename" : "PAPUAN                                            ",
+		"nationtname" : "ปาปัวนิวกินี                                      "
+	},
+	{
+		"nationcode" : "P40",
+		"nationename" : "PALAUAN                                           ",
+		"nationtname" : "ปาเลา                                             "
+	},
+	{
+		"nationcode" : "P50",
+		"nationename" : "PARAGUAYAN                                        ",
+		"nationtname" : "ปารากวัย                                          "
+	},
+	{
+		"nationcode" : "P60",
+		"nationename" : "POLISH                                            ",
+		"nationtname" : "โปแลนด์                                           "
+	},
+	{
+		"nationcode" : "Q10",
+		"nationename" : "QATARI                                            ",
+		"nationtname" : "กาตาร์                                            "
+	},
+	{
+		"nationcode" : "R10",
+		"nationename" : "RUSSIAN                                           ",
+		"nationtname" : "รัสเซีย                                           "
+	},
+	{
+		"nationcode" : "R20",
+		"nationename" : "ROMANIAN                                          ",
+		"nationtname" : "โรมาเนีย                                          "
+	},
+	{
+		"nationcode" : "R30",
+		"nationename" : "RWANDAN                                           ",
+		"nationtname" : "รวันดา                                            "
+	},
+	{
+		"nationcode" : "S10",
+		"nationename" : "SCOTS                                             ",
+		"nationtname" : "สกอตแลนด์                                         "
+	},
+	{
+		"nationcode" : "S20",
+		"nationename" : "SINGAPOREAN                                       ",
+		"nationtname" : "สิงคโปร์                                          "
+	},
+	{
+		"nationcode" : "S30",
+		"nationename" : "SPANISH                                           ",
+		"nationtname" : "สเปน                                              "
+	},
+	{
+		"nationcode" : "S35",
+		"nationename" : "SRI LANKAN                                        ",
+		"nationtname" : "ศรีลังกา                                          "
+	},
+	{
+		"nationcode" : "S40",
+		"nationename" : "SWEDISH                                           ",
+		"nationtname" : "สวีเดน                                            "
+	},
+	{
+		"nationcode" : "S50",
+		"nationename" : "SWISS                                             ",
+		"nationtname" : "สวิตเซอร์แลนด์                                    "
+	},
+	{
+		"nationcode" : "S60",
+		"nationename" : "SAMOAN                                            ",
+		"nationtname" : "ซามัว                                             "
+	},
+	{
+		"nationcode" : "S70",
+		"nationename" : "SOUTH AFRICAN                                     ",
+		"nationtname" : "แอฟริกาใต้                                        "
+	},
+	{
+		"nationcode" : "S71",
+		"nationename" : "SALVADOREAN                                       ",
+		"nationtname" : "เอลซัลวาดอร์                                      "
+	},
+	{
+		"nationcode" : "S73",
+		"nationename" : "SAN MARINESE                                      ",
+		"nationtname" : "ซานมารีโน                                         "
+	},
+	{
+		"nationcode" : "S74",
+		"nationename" : "SAUDI ARABIAN                                     ",
+		"nationtname" : "ซาอุดีอาระเบีย                                    "
+	},
+	{
+		"nationcode" : "S75",
+		"nationename" : "SENEGALESE                                        ",
+		"nationtname" : "เซเนกัล                                           "
+	},
+	{
+		"nationcode" : "S76",
+		"nationename" : "SEYCHELLOIS                                       ",
+		"nationtname" : "เซเชลส์                                           "
+	},
+	{
+		"nationcode" : "S77",
+		"nationename" : "SIERRA LEONEAN                                    ",
+		"nationtname" : "เซียร์ราลีโอน                                     "
+	},
+	{
+		"nationcode" : "S78",
+		"nationename" : "SLOVAK                                            ",
+		"nationtname" : "สโลวาเกีย                                         "
+	},
+	{
+		"nationcode" : "S79",
+		"nationename" : "SLOVENIAN                                         ",
+		"nationtname" : "สโลวีเนีย                                         "
+	},
+	{
+		"nationcode" : "S80",
+		"nationename" : "SOLOMON ISLANDER                                  ",
+		"nationtname" : "หมู่เกาะโซโลมอน                                   "
+	},
+	{
+		"nationcode" : "S81",
+		"nationename" : "SOMALIAN,SOMALI                                   ",
+		"nationtname" : "โซมาเลีย                                          "
+	},
+	{
+		"nationcode" : "S82",
+		"nationename" : "SOTHO                                             ",
+		"nationtname" : "เลโซโท                                            "
+	},
+	{
+		"nationcode" : "S83",
+		"nationename" : "SUDANESE                                          ",
+		"nationtname" : "ซูดาน                                             "
+	},
+	{
+		"nationcode" : "S84",
+		"nationename" : "SUMATRAN                                          ",
+		"nationtname" : "สุมาตรา                                           "
+	},
+	{
+		"nationcode" : "S85",
+		"nationename" : "SURINAMESE                                        ",
+		"nationtname" : "ซูรินาม                                           "
+	},
+	{
+		"nationcode" : "S86",
+		"nationename" : "SWAZI                                             ",
+		"nationtname" : "สวาซิแลนด์                                        "
+	},
+	{
+		"nationcode" : "S87",
+		"nationename" : "SYRIAN                                            ",
+		"nationtname" : "ซีเรีย                                            "
+	},
+	{
+		"nationcode" : "S88",
+		"nationename" : "Sao Tomean                                        ",
+		"nationtname" : "เซาตูเมและปรินซีปี                                "
+	},
+	{
+		"nationcode" : "S89",
+		"nationename" : "SERB                                              ",
+		"nationtname" : "เซอร์เบีย                                         "
+	},
+	{
+		"nationcode" : "T10",
+		"nationename" : "TAIWANESE                                         ",
+		"nationtname" : "ไต้หวัน                                           "
+	},
+	{
+		"nationcode" : "T30",
+		"nationename" : "TURKISH                                           ",
+		"nationtname" : "ตุรกี                                             "
+	},
+	{
+		"nationcode" : "T40",
+		"nationename" : "TONGAN                                            ",
+		"nationtname" : "ตองกา                                             "
+	},
+	{
+		"nationcode" : "T41",
+		"nationename" : "TSWANA                                            ",
+		"nationtname" : "บอตสวาน่า                                         "
+	},
+	{
+		"nationcode" : "T42",
+		"nationename" : "TAHITIAN                                          ",
+		"nationtname" : "ตาฮีตี                                            "
+	},
+	{
+		"nationcode" : "T43",
+		"nationename" : "TAJIK                                             ",
+		"nationtname" : "ทาจิกิสถาน                                        "
+	},
+	{
+		"nationcode" : "T44",
+		"nationename" : "TANZANIAN                                         ",
+		"nationtname" : "แทนซาเนีย                                         "
+	},
+	{
+		"nationcode" : "T45",
+		"nationename" : "TIMORESE                                          ",
+		"nationtname" : "ติมอร์-เลสเต                                      "
+	},
+	{
+		"nationcode" : "T47",
+		"nationename" : "TOGOLESE                                          ",
+		"nationtname" : "โตโก                                              "
+	},
+	{
+		"nationcode" : "T48",
+		"nationename" : "TRINIDADIAN, TOBAGAN                              ",
+		"nationtname" : "ตรินิแดดและโตเบโก                                 "
+	},
+	{
+		"nationcode" : "T49",
+		"nationename" : "TUNISIAN                                          ",
+		"nationtname" : "ตูนิเซีย                                          "
+	},
+	{
+		"nationcode" : "T51",
+		"nationename" : "TURKMEN                                           ",
+		"nationtname" : "เติร์กเมนิสถาน                                    "
+	},
+	{
+		"nationcode" : "U10",
+		"nationename" : "UGANDAN                                           ",
+		"nationtname" : "ยูกันดา                                           "
+	},
+	{
+		"nationcode" : "U20",
+		"nationename" : "UKRANIAN                                          ",
+		"nationtname" : "ยูเครน                                            "
+	},
+	{
+		"nationcode" : "U30",
+		"nationename" : "URUGUAYAN                                         ",
+		"nationtname" : "อุรุกวัย                                          "
+	},
+	{
+		"nationcode" : "U40",
+		"nationename" : "UZEK                                              ",
+		"nationtname" : "UZEK                                              "
+	},
+	{
+		"nationcode" : "V10",
+		"nationename" : "VIETNAMESE                                        ",
+		"nationtname" : "เวียดนาม                                          "
+	},
+	{
+		"nationcode" : "V20",
+		"nationename" : "VENEZUELAN                                        ",
+		"nationtname" : "เวเนซุเอลา                                        "
+	},
+	{
+		"nationcode" : "V30",
+		"nationename" : "VANUATAN                                          ",
+		"nationtname" : "วานูอาตู                                          "
+	},
+	{
+		"nationcode" : "Y01",
+		"nationename" : "YUGOSLAVIAN                                       ",
+		"nationtname" : "ยูโกสลาเวีย                                       "
+	},
+	{
+		"nationcode" : "Y10",
+		"nationename" : "YEMENI                                            ",
+		"nationtname" : "เยเม็น                                            "
+	},
+	{
+		"nationcode" : "Z10",
+		"nationename" : "ZAIREAN                                           ",
+		"nationtname" : "ซาเอียร์                                          "
+	},
+	{
+		"nationcode" : "Z20",
+		"nationename" : "ZAMBIAN                                           ",
+		"nationtname" : "แซมเบีย                                           "
+	},
+	{
+		"nationcode" : "Z30",
+		"nationename" : "ZIMBABWEAN                                        ",
+		"nationtname" : "ซิมบับเว                                          "
+	},
+	{
+		"nationcode" : "Z99",
+		"nationename" : "OTHER NATIONALITY                                 ",
+		"nationtname" : "อื่น                                             "
+	}
+]}

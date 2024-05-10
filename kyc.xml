@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<questionnaire>
+	<qncode>3</qncode>
+	<qnno>ST2016001</qnno>
+	<qnname>New Suitability 2016 - บุคคลธรรมดา</qnname>
+	<qnpurpose></qnpurpose>
+	<qnversion>1.03</qnversion>
+	<qnuseflag>1</qnuseflag>
+	<attachfile>null</attachfile>
+	<session snumber="1">
+		<sname>แบบประเมินความเหมาะสมในการลงทุน (Suitability Test)|Suitability Test</sname>
+		<question qnumber="1">
+			<qcode>11</qcode>
+			<qname>ปัจจุบันท่านอายุเท่าไหร่|What is your age?</qname>
+			<qtype>Radio</qtype>
+			<qimage></qimage>
+			<qscore>true</qscore>
+			<choice cnumber="1">
+				<ccode>83</ccode>
+				<cno>A</cno>
+				<cname>มากกว่า 55 ปี|Over 55 years</cname>
+				<cscore>1</cscore>
+			</choice>
+			<choice cnumber="2">
+				<ccode>84</ccode>
+				<cno>B</cno>
+				<cname>45 - 55 ปี|45 - 55 years</cname>
+				<cscore>2</cscore>
+			</choice>
+			<choice cnumber="3">
+				<ccode>85</ccode>
+				<cno>C</cno>
+				<cname>35 - 44 ปี|35 - 44 years</cname>
+				<cscore>3</cscore>
+			</choice>
+			<choice cnumber="4">
+				<ccode>86</ccode>
+				<cno>D</cno>
+				<cname>น้อยกว่า 35 ปี|Under 35 years</cname>
+				<cscore>4</cscore>
+			</choice>
+		</question>
+		<question qnumber="2">
+			<qcode>12</qcode>
+			<qname>ปัจจุบันท่านมีภาระทางการเงินและค่าใช้จ่ายเป็นสัดส่วนเท่าใด|How much is the portion of your financial liabilities and on-going expenses e.g. Installment of auto loan and home loan, personal expenses and family living allowance?</qname>
+			<qtype>Radio</qtype>
+			<qimage></qimage>
+			<qscore>true</qscore>
+			<choice cnumber="1">
+				<ccode>41</ccode>
+				<cno>A</cno>
+				<cname>มากกว่า 75% ของรายได้ทั้งหมด|More than 75% of total income</cname>
+				<cscore>1</cscore>
+			</choice>
+			<choice cnumber="2">
+				<ccode>42</ccode>
+				<cno>B</cno>
+				<cname>50% ถึง 75% ของรายได้ทั้งหมด|Between 50% - 75% of total income</cname>
+				<cscore>2</cscore>
+			</choice>
+			<choice cnumber="3">
+				<ccode>43</ccode>
+				<cno>C</cno>
+				<cname>25% ถึง 50% ของรายได้ทั้งหมด|Between 25% ? 50% of total income</cname>
+				<cscore>3</cscore>
+			</choice>
+			<choice cnumber="4">
+				<ccode>44</ccode>
+				<cno>D</cno>
+				<cname>น้อยกว่า 25% ของรายได้ทั้งหมด|Less than 25% of total income</cname>
+				<cscore>4</cscore>
+			</choice>
+		</question>
+		<question qnumber="3">
+			<qcode>13</qcode>
+			<qname>ท่านมีสถานภาพทางการเงินในปัจจุบันอย่างไร|What is your current financial situation?</qname>
+			<qtype>Radio</qtype>
+			<qimage></qimage>
+			<qscore>true</qscore>
+			<choice cnumber="1">
+				<ccode>45</ccode>
+				<cno>A</cno>
+				<cname>มีทรัพย์สินน้อยกว่าหนี้สิน|Having less assets than liabilities</cname>
+				<cscore>1</cscore>
+			</choice>
+			<choice cnumber="2">
+				<ccode>46</ccode>
+				<cno>B</cno>
+				<cname>มีทรัพย์สินเท่ากับหนี้สิน|Having assets equal to liabilities</cname>
+				<cscore>2</cscore>
+			</choice>
+			<choice cnumber="3">
+				<ccode>47</ccode>
+				<cno>C</cno>
+				<cname>มีทรัพย์สินมากกว่าหนี้สิน|Having more assets than liabilities</cname>
+				<cscore>3</cscore>
+			</choice>
+			<choice cnumber="4">
+				<ccode>48</ccode>
+				<cno>D</cno>
+				<cname>มีความมั่นใจว่ามีเงินออมหรือเงินลงทุนเพียงพอสำหรับการใช้ชีวิตหลังเกษียณอายุแล้ว|Having confidence that life after retirement is already covered by saving and investments</cname>
+				<cscore>4</cscore>
+			</choice>
+		</question>
+		<question qnumber="4">
+			<qcode>14</qcode>
+			<qname>ท่านเคยมีประสบการณ์หรือความรู้ในการลงทุนในทรัพย์สินกลุ่ม ใดต่อไปนี้บ้าง (เลือกได้มากกว่า 1 ข้อ)|Do you have any experience or knowledge in investing in any of the following asset classes? (Choose all that apply)</qname>
+			<qtype>Checkbox</qtype>
+			<qimage></qimage>
+			<qscore>true</qscore>
+			<choice cnumber="1">
+				<ccode>87</ccode>
+				<cno>A</cno>
+				<cname>เงินฝากธนาคาร|Saving</cname>
+				<cscore>1</cscore>
+			</choice>
+			<choice cnumber="2">
+				<ccode>88</ccode>
+				<cno>B</cno>
+				<cname>พันธบัตรรัฐบาล หรือกองทุนรวมพันธบัตรรัฐบาล|Government bonds or government bond mutual funds</cname>
+				<cscore>2</cscore>
+			</choice>
+			<choice cnumber="3">
+				<ccode>89</ccode>
+				<cno>C</cno>
+				<cname>หุ้นกู้ หรือกองทุนรวมตราสารหนี้|Debentures or fixed-income mutual funds</cname>
+				<cscore>3</cscore>
+			</choice>
+			<choice cnumber="4">
+				<ccode>90</ccode>
+				<cno>D</cno>
+				<cname>หุ้นสามัญ หรือกองทุนรวมหุ้น หรือสินทรัพย์อื่นที่มีความเสี่ยงสูง|Common stocks or equity mutual funds or other type of risky assets</cname>
+				<cscore>4</cscore>
+			</choice>
+		</question>
+		<question qnumber="5">
+			<qcode>15</qcode>
+			<qname>ระยะเวลาที่ท่านคาดว่าจะไม่มีความจำเป็นต้องใช้เงินลงทุนนี้|How long do you estimate that you do not need to use the proceeds of this investment?</qname>
+			<qtype>Radio</qtype>
+			<qimage></qimage>
+			<qscore>true</qscore>
+			<choice cnumber="1">
+				<ccode>91</ccode>
+				<cno>A</cno>
+				<cname>ไม่เกิน 1 ปี|Less than 1 year</cname>
+				<cscore>1</cscore>
+			</choice>
+			<choice cnumber="2">
+				<ccode>92</ccode>
+				<cno>B</cno>
+				<cname>มากกว่า 1 ถึง 3 ปี|More than 1 - 3 years</cname>
+				<cscore>2</cscore>
+			</choice>
+			<choice cnumber="3">
+				<ccode>93</ccode>
+				<cno>C</cno>
+				<cname>มากกว่า 3 ถึง 5 ปี|More than 3 - 5 years</cname>
+				<cscore>3</cscore>
+			</choice>
+			<choice cnumber="4">
+				<ccode>94</ccode>
+				<cno>D</cno>
+				<cname>มากกว่า 5 ปี|More than 5 years</cname>
+				<cscore>4</cscore>
+			</choice>
+		</question>
+		<question qnumber="6">
+			<qcode>16</qcode>
+			<qname>วัตถุประสงค์หลักในการลงทุนของท่าน คือ|What is your main investment objective?</qname>
+			<qtype>Radio</qtype>
+			<qimage></qimage>
+			<qscore>true</qscore>
+			<choice cnumber="1">
+				<ccode>95</ccode>
+				<cno>A</cno>
+				<cname>เน้นเงินต้นต้องปลอดภัยและได้รับผลตอนแทนสม่ำเสมอแต่ต่ำได้|Principal protection with consistent return (lower rate of return is applicable)</cname>
+				<cscore>1</cscore>
+			</choice>
+			<choice cnumber="2">
+				<ccode>96</ccode>
+				<cno>B</cno>
+				<cname>เน้นโอกาสได้รับผลตอบแทนสม่ำเสมอ แต่อาจเสี่ยงที่จะสูญเสียเงินต้นได้บ้าง|Consistent return whilst risk of small loss is applicable</cname>
+				<cscore>2</cscore>
+			</choice>
+			<choice cnumber="3">
+				<ccode>97</ccode>
+				<cno>C</cno>
+				<cname>เน้นโอกาสได้รับผลตอบแทนที่สูงขึ้น แต่อาจเสี่ยงที่จะสูญเสียเงินต้นได้มากขึ้น|Higher return with higher risk of principal</cname>
+				<cscore>3</cscore>
+			</choice>
+			<choice cnumber="4">
+				<ccode>98</ccode>
+				<cno>D</cno>
+				<cname>เน้นผลตอบแทนสูงสุดในระยะยาว แต่อาจเสี่ยงที่จะสูญเสียเงินต้นส่วนใหญ่ได้|Maximum return whilst risk of large loss is applicable</cname>
+				<cscore>4</cscore>
+			</choice>
+		</question>
+		<question qnumber="7">
+			<qcode>17</qcode>
+			<qname>เมื่อพิจารณารูปแสดงตัวอย่างผลตอบแทนของกลุ่มการลงทุนที่อาจเกิดขึ้นด้านล่าง จากรูป ท่านเต็มใจที่จะลงทุนในกลุ่มการลงทุนใด มากที่สุด|After considering the diagram of sample portfolio return below, which portfolio is the most preferable for you to invest?</qname>
+			<qtype>Radio</qtype>
+			<qimage>20161129T161831.jpg</qimage>
+			<qscore>true</qscore>
+			<choice cnumber="1">
+				<ccode>61</ccode>
+				<cno>A</cno>
+				<cname>กลุ่มการลงทุนที่ 1  มีโอกาสได้รับผลตอบแทน 2.5% โดยไม่ขาดทุนเลย|Portfolio (1), receiving 2.5% return without incurring any losses</cname>
+				<cscore>1</cscore>
+			</choice>
+			<choice cnumber="2">
+				<ccode>62</ccode>
+				<cno>B</cno>
+				<cname>กลุ่มการลงทุนที่ 2 มีโอกาสได้รับผลตอบแทนสูงสุด 7% แต่อาจมีผลขาดทุนได้ถึง 1%|Portfolio (2), having a chance to receive a maximum return of 7% whilst the loss could be incurred at 1%</cname>
+				<cscore>2</cscore>
+			</choice>
+			<choice cnumber="3">
+				<ccode>63</ccode>
+				<cno>C</cno>
+				<cname>กลุ่มการลงทุนที่ 3 มีโอกาสได้รับผลตอบแทนสูงสุด 15% แต่อาจมีผลขาดทุนได้ถึง 5%|Portfolio (3), having a chance to receive a maximum return of 15% whilst the loss could be incurred at 5%</cname>
+				<cscore>3</cscore>
+			</choice>
+			<choice cnumber="4">
+				<ccode>64</ccode>
+				<cno>D</cno>
+				<cname>กลุ่มการลงทุนที่ 4 มีโอกาสได้รับผลตอบแทนสูงสุด 25% แต่อาจมีผลขาดทุนได้ถึง 15%|Portfolio (4), having a chance to receive a maximum return of 25% whilst the loss could be incurred at 15%</cname>
+				<cscore>4</cscore>
+			</choice>
+		</question>
+		<question qnumber="8">
+			<qcode>18</qcode>
+			<qname>ถ้าท่านเลือกการลงทุนในทรัพย์สินที่มีโอกาสได้รับผลตอบแทนมาก แต่มีโอกาสขาดทุนสูงด้วยเช่นกัน ท่านจะรู้สึกอย่างไร|In case that you decide to invest in assets with potentially high return as well as high risk of loss, what would be your feeling?</qname>
+			<qtype>Radio</qtype>
+			<qimage></qimage>
+			<qscore>true</qscore>
+			<choice cnumber="1">
+				<ccode>65</ccode>
+				<cno>A</cno>
+				<cname>กังวลและตื่นตระหนกกลัวขาดทุน|Anxiety and panic about incurring loss</cname>
+				<cscore>1</cscore>
+			</choice>
+			<choice cnumber="2">
+				<ccode>66</ccode>
+				<cno>B</cno>
+				<cname>ไม่สบายใจแต่พอเข้าใจได้บ้าง|Unease but acceptable</cname>
+				<cscore>2</cscore>
+			</choice>
+			<choice cnumber="3">
+				<ccode>67</ccode>
+				<cno>C</cno>
+				<cname>เข้าใจและรับความผันผวนได้ในระดับหนึ่ง|Understandable and tolerance-able</cname>
+				<cscore>3</cscore>
+			</choice>
+			<choice cnumber="4">
+				<ccode>68</ccode>
+				<cno>D</cno>
+				<cname>ไม่กังวลกับโอกาสขาดทุนสูง และหวังผลกับผลตอบแทนที่อาจจะได้รับสูงขึ้น|Not concern about high risk of loss and expect to receive high return</cname>
+				<cscore>4</cscore>
+			</choice>
+		</question>
+		<question qnumber="9">
+			<qcode>19</qcode>
+			<qname>ท่านจะรู้สึกกังวล/รับไม่ได้ เมื่อมูลค่าเงินลงทุนของท่านมีการปรับตัวลดลงในสัดส่วนเท่าใด|You would feel concern/unacceptable when your investment value has dropped to any proportion lever?</qname>
+			<qtype>Radio</qtype>
+			<qimage></qimage>
+			<qscore>true</qscore>
+			<choice cnumber="1">
+				<ccode>99</ccode>
+				<cno>A</cno>
+				<cname>5% หรือน้อยกว่า|Not more than 5% of loss</cname>
+				<cscore>1</cscore>
+			</choice>
+			<choice cnumber="2">
+				<ccode>100</ccode>
+				<cno>B</cno>
+				<cname>มากกว่า 5% - 10%|More than 5% - 10%</cname>
+				<cscore>2</cscore>
+			</choice>
+			<choice cnumber="3">
+				<ccode>101</ccode>
+				<cno>C</cno>
+				<cname>มากกว่า 10% - 20%|More than 10% - 20%</cname>
+				<cscore>3</cscore>
+			</choice>
+			<choice cnumber="4">
+				<ccode>102</ccode>
+				<cno>D</cno>
+				<cname>มากกว่า 20% ขึ้นไป|Higher than 20%</cname>
+				<cscore>4</cscore>
+			</choice>
+		</question>
+		<question qnumber="10">
+			<qcode>20</qcode>
+			<qname>หากปีที่แล้วท่านลงทุนไป 100,000 บาท ปีนี้ท่านพบว่ามูลค่าเงินลงทุนลดลงเหลือ 85,000 บาท ท่านจะทำอย่างไร|In case that you have invested in Baht 100,000 since last year and later this year the investment value has dropped to Baht 85,000, what would you intend to do?</qname>
+			<qtype>Radio</qtype>
+			<qimage></qimage>
+			<qscore>true</qscore>
+			<choice cnumber="1">
+				<ccode>103</ccode>
+				<cno>A</cno>
+				<cname>ตกใจ และต้องการขายการลงทุนที่เหลือทิ้ง|Panic and prefer to liquidate the entire investment amount</cname>
+				<cscore>1</cscore>
+			</choice>
+			<choice cnumber="2">
+				<ccode>104</ccode>
+				<cno>B</cno>
+				<cname>กังวลใจ และจะปรับเปลี่ยนการลงทุนบางส่วนไปในทรัพย์สินที่เสี่ยงน้อยลง|Concern and shall allocate some portion of investment to less risky assets</cname>
+				<cscore>2</cscore>
+			</choice>
+			<choice cnumber="3">
+				<ccode>105</ccode>
+				<cno>C</cno>
+				<cname>อดทนถือต่อไปได้ และรอผลตอนแทนปรับตัวกลับมา|Be patient to hold the investment and wait for the gain to cover the previous loss</cname>
+				<cscore>3</cscore>
+			</choice>
+			<choice cnumber="4">
+				<ccode>106</ccode>
+				<cno>D</cno>
+				<cname>ยังมั่นใจ เพราะเข้าใจว่าต้องลงทุนระยะยาว และจะเพิ่มเงินลงทุนในแบบเดิมเพื่อเฉลี่ยต้นทุน|Be confident on long-term investment horizon and shall increase investment amount in order to average the cost</cname>
+				<cscore>4</cscore>
+			</choice>
+		</question>
+	</session>
+	<session snumber="2">
+		<sname>สำหรับการลงทุนในตราสารอนุพันธ์|for Derivatives Investment</sname>
+		<question qnumber="1">
+			<qcode>21</qcode>
+			<qname>การลงทุนในตราสารอนุพันธ์ หากการลงทุนประสบความสำเร็จ ท่านจะได้รับผลตอบแทนในอัตราที่สูงมาก แต่หากการ ลงทุนล้มเหลวท่านอาจจะสูญเสียเงินลงทุนทั้งหมด และอาจต้องลงเงินชดเชยเพิ่มบางส่วน ท่านยอมรับได้เพียงใด|Through successful derivatives investment, you can have higher more return. On the other hand, you can lose all of your investment and possible required additional capital. Can you accept this?</qname>
+			<qtype>Radio</qtype>
+			<qimage></qimage>
+			<qscore>false</qscore>
+			<choice cnumber="1">
+				<ccode>77</ccode>
+				<cno>A</cno>
+				<cname>ไม่ได้|Not acceptable</cname>
+				<cscore>1</cscore>
+			</choice>
+			<choice cnumber="2">
+				<ccode>78</ccode>
+				<cno>B</cno>
+				<cname>ได้บ้าง|Slightly acceptable</cname>
+				<cscore>2</cscore>
+			</choice>
+			<choice cnumber="3">
+				<ccode>79</ccode>
+				<cno>C</cno>
+				<cname>ได้|Acceptable</cname>
+				<cscore>3</cscore>
+			</choice>
+		</question>
+	</session>
+	<session snumber="3">
+		<sname>สำหรับการลงทุนในต่างประเทศ|for Investment in Foreign Market</sname>
+		<question qnumber="1">
+			<qcode>22</qcode>
+			<qname>นอกเหนือจากความเสี่ยงในการลงทุนแล้ว ท่านสามารถรับความเสี่ยงด้านอัตราแลกเปลี่ยนได้หรือไม่|In addition to investment risks, are you able to accept foreign exchange risk?</qname>
+			<qtype>Radio</qtype>
+			<qimage></qimage>
+			<qscore>false</qscore>
+			<choice cnumber="1">
+				<ccode>80</ccode>
+				<cno>A</cno>
+				<cname>ไม่ได้|Not acceptable</cname>
+				<cscore>1</cscore>
+			</choice>
+			<choice cnumber="2">
+				<ccode>81</ccode>
+				<cno>B</cno>
+				<cname>ได้บ้าง|Slightly acceptable</cname>
+				<cscore>2</cscore>
+			</choice>
+			<choice cnumber="3">
+				<ccode>82</ccode>
+				<cno>C</cno>
+				<cname>ได้|Acceptable</cname>
+				<cscore>3</cscore>
+			</choice>
+		</question>
+	</session>
+	<ranges>
+		<range rnumber="1">
+			<rfrom>0</rfrom>
+			<rto>14</rto>
+			<grade>1</grade>
+			<rdes>เสี่ยงต่ำ|Low risk</rdes>
+		</range>
+		<range rnumber="2">
+			<rfrom>15</rfrom>
+			<rto>21</rto>
+			<grade>2</grade>
+			<rdes>เสี่ยงปานกลางค่อนข้างต่ำ|Low to medium risk</rdes>
+		</range>
+		<range rnumber="3">
+			<rfrom>22</rfrom>
+			<rto>29</rto>
+			<grade>3</grade>
+			<rdes>เสี่ยงปานกลางค่อนข้างสูง|Medium to high risk</rdes>
+		</range>
+		<range rnumber="4">
+			<rfrom>30</rfrom>
+			<rto>36</rto>
+			<grade>4</grade>
+			<rdes>เสี่ยงสูง|High risk</rdes>
+		</range>
+		<range rnumber="5">
+			<rfrom>37</rfrom>
+			<rto>99</rto>
+			<grade>5</grade>
+			<rdes>เสี่ยงสูงมาก|Very high risk</rdes>
+		</range>
+	</ranges>
+</questionnaire>
