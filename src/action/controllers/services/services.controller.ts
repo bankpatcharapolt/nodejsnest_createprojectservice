@@ -75,6 +75,30 @@ export class ServicesController {
     };
   }
 
+  @Get('user/:userId')
+  @HttpCode(200)
+  @ApiBadRequestResponse({ description: SwaggerMessage.BAD_REQUEST })
+  async getProjectByUser(@Param('userId') userId: string) {
+  
+    const errorMessageTitle = 'Get Project By User';
+    const [error, result] = await to(this.projectService.getProjectbyUser( userId));
+    console.log(result);
+    if (error) {
+      let status: number = error instanceof ConflictException ? 404 : 500;
+    
+      return {
+        status: false,
+        result_code: '-002',
+        result_desc: error instanceof NotFoundException ? 'Project Not found' : 'Something went wrong on our server'
+      };
+    }
+    return {
+      status: true,
+      data:result,
+      result_code: '000',
+      result_desc: "success"
+    };
+  }
 
   @Patch(':projectId')
   @HttpCode(200)

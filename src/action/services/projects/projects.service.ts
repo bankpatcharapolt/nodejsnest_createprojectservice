@@ -101,6 +101,23 @@ export class ProjectsService extends SolarProjectRelateSiteService {
 
   }
   
+  async getProjectbyUser(userId: any): Promise< Projects[]> {
+    let project:any;
+    if(userId == "all"){
+       project = await this.projectRepository.find({ relations: ['projectRelateSite'] });
+    }else{
+       project = await this.projectRepository.find({ where: { user_id: userId }, relations: ['projectRelateSite'] });
+       project = [project]; // Wrap the single project in an array
+    }
+    
+    if (!project) {
+      throw new NotFoundException();
+    }
+    return project;
+
+
+  }
+  
   async createIfNotExist(createProjectDto:CreateProjectDto): Promise<Projects> {
     const { project_name ,user_id} = createProjectDto;
     
